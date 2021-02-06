@@ -13,4 +13,4 @@ def cosine_similarity(a, b):
     ret = sum([a[i] * b[i] for i in range(len(a))]) / (
             math.sqrt(sum(t ** 2 for t in a)) * math.sqrt(sum(t ** 2 for t in b))
     )
-    return round(ret, 4)
+    return round(ret, 5)
