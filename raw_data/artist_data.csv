@@ -1,0 +1,5855 @@
+artist_id,artist_name,main_genre
+74,Special Duties,Pop/Rock
+335,PJ Harvey,Pop/Rock
+441,P.O.D.,Pop/Rock
+589,Tony Furtado,Pop/Rock
+1097,ToÃ±o Rosario,Latin
+1098,Soundgarden,Pop/Rock
+1113,t.A.T.u.,Pop/Rock
+1163,Serge Chaloff,Jazz
+1190,Syreeta,R&B;
+1266,Alla Rakha,International
+1306,Sounds of Blackness,Unknown
+1433,Pam Tillis,Country
+1498,All That Remains,Pop/Rock
+1589,GyÃ¶rgy KurtÃ¡g,Classical
+1611,Speedy,Electronic
+2130,Alfred Newman,Stage & Screen
+2252,Allan Holdsworth,Pop/Rock
+2273,Allan Sherman,Comedy/Spoken
+2330,Sergio Mendes,Easy Listening
+2411,Tangerine Dream,Electronic
+2578,Tanita Tikaram,Pop/Rock
+2750,Total,R&B;
+2867,Pat Travers,Pop/Rock
+3015,Alphonse Mouzon,Unknown
+3056,P.P. Arnold,R&B;
+3170,Pablo Cruise,Pop/Rock
+3226,Alexisonfire,Pop/Rock
+3413,Allan Jones,Vocal
+3426,Tank,R&B;
+3595,Andrew Lloyd Webber,Stage & Screen
+3627,Pato Banton,Reggae
+3669,Southern Culture on the Skids,Pop/Rock
+3829,T-Bone Walker,Blues
+4358,Tony Rebel,Reggae
+4451,T.S.O.L.,Pop/Rock
+4458,Parijat,New Age
+4553,T-Connection,R&B;
+4852,Selena,Latin
+4955,Space,Pop/Rock
+5056,Sergio Mendes & Brasil '66,Unknown
+5307,Alicia Keys,R&B;
+5366,Alfredo Gutierrez,Latin
+5441,Pantera,Pop/Rock
+5501,System of a Down,Pop/Rock
+5882,T. Rex,Pop/Rock
+5953,Alice Cooper,Pop/Rock
+5980,Paolo Conte,Vocal
+6143,Alice Coltrane,Jazz
+6232,Robert Miles,Electronic
+6310,Semisonic,Pop/Rock
+6320,Toto,Pop/Rock
+6334,Tony Bennett,Vocal
+6563,Stan Levey,Jazz
+6568,Alicia Myers,R&B;
+6613,Ali Farka TourÃ©,International
+6855,Pablo MilanÃ©s,Latin
+6860,Alicia Villarreal,Latin
+7031,Alison Krauss & Union Station,Country
+7230,Brian May,Pop/Rock
+7305,Tony Levin,Pop/Rock
+7448,The Delfonics,R&B;
+7689,TLC,R&B;
+7729,The Trashmen,Pop/Rock
+7731,Papa Roach,Pop/Rock
+7920,Alice in Chains,Pop/Rock
+7974,T. Graham Brown,Country
+8125,Sharon Jones & the Dap-Kings,R&B;
+8245,Spanky & Our Gang,Pop/Rock
+8549,Sparklehorse,Pop/Rock
+8570,Senses Fail,Pop/Rock
+8591,Sparta,Pop/Rock
+8828,Spice Girls,Pop/Rock
+9084,Sparks,Pop/Rock
+9218,Tracey Thorn,Pop/Rock
+9437,SHeDAISY,Country
+9441,Static-X,Pop/Rock
+9490,Shed Seven,Pop/Rock
+9680,Charles Mingus,Jazz
+9787,Taproot,Pop/Rock
+9970,Spineshank,Pop/Rock
+10412,Spin Doctors,Pop/Rock
+10538,Spandau Ballet,Pop/Rock
+10982,All,Pop/Rock
+11028,Frank Loesser,Stage & Screen
+11041,Patrick Street,Unknown
+11046,Tracy Bonham,Pop/Rock
+11052,Tracy Byrd,Country
+11156,American Football,Unknown
+11210,Tara Kemp,R&B;
+11242,Sheb Wooley,Country
+11506,Palace,Pop/Rock
+11608,Tab Benoit,Blues
+11620,Alvin Lee,Pop/Rock
+11664,American Head Charge,Pop/Rock
+11707,Steely Dan,Pop/Rock
+11754,Sheena Easton,Pop/Rock
+11910,Stanley Jordan,Jazz
+11970,Patrick Cowley,Electronic
+12128,All-4-One,R&B;
+12180,Trace Adkins,Country
+12472,Traffic,Pop/Rock
+12491,Taylor Dayne,Pop/Rock
+12570,Sister Carol,Reggae
+12595,American Hi-Fi,Pop/Rock
+12644,Stanley Turrentine,Jazz
+12654,Spinal Tap,Comedy/Spoken
+12671,Sister Machine Gun,Unknown
+12802,Wynona Carr,Religious
+12877,Stealers Wheel,Pop/Rock
+12972,TV on the Radio,Pop/Rock
+13038,Stanton Moore,Jazz
+13101,Patrick O'Hearn,New Age
+13377,Stan Rogers,Folk
+13384,Tanya Tucker,Country
+13387,Shawn Colvin,Pop/Rock
+13393,Tower of Power,R&B;
+13508,Travis,Pop/Rock
+13511,Sister Rosetta Tharpe,Religious
+13583,Shawn Mullins,Pop/Rock
+13755,Starcastle,Pop/Rock
+14073,Tab Hunter,Pop/Rock
+14201,Spirit of the West,Folk
+14263,Paquito D'Rivera,Jazz
+14329,Tramaine Hawkins,Religious
+14651,Patsy Cline,Country
+14658,TrÃ©bol Clan,Unknown
+14699,Transvision Vamp,Pop/Rock
+14724,Paul Brady,Pop/Rock
+14757,Trans-Siberian Orchestra,Classical
+14822,Sister Hazel,Pop/Rock
+14931,Tasmin Archer,R&B;
+14959,Taste,Pop/Rock
+15158,SisqÃ³,R&B;
+15318,Travis Tritt,Country
+15405,Shaun Cassidy,Pop/Rock
+15694,Teenage Fanclub,Pop/Rock
+15856,Aloe Blacc,R&B;
+16132,Sevendust,Pop/Rock
+16186,Amel Larrieux,R&B;
+16227,Tavares,R&B;
+16235,Tony Orlando,Pop/Rock
+16281,Tracy Chapman,Pop/Rock
+16361,Patty Duke,Pop/Rock
+16438,Television Personalities,Pop/Rock
+16448,AmÃ¡lia Rodrigues,International
+16574,Alpha,Electronic
+16759,Tadd Dameron,Jazz
+16835,The Paul Butterfield Blues Band,Blues
+16925,Paul Gonsalves,Jazz
+16944,Alpha Blondy,Reggae
+17021,Tenacious D,Pop/Rock
+17060,TrentemÃ¸ller,Electronic
+17387,Sixpence None the Richer,Pop/Rock
+17748,Patti LaBelle,R&B;
+17877,Terence Trent D'Arby,R&B;
+17882,Teresa Brewer,Vocal
+17929,Patti Austin,R&B;
+17937,Patti LuPone,Vocal
+18137,Paul Motian,Jazz
+18176,Teddy Riley,R&B;
+18258,Teena Marie,R&B;
+18513,Paul Hardcastle,Jazz
+18691,Paradise Lost,Pop/Rock
+18828,Stars,Pop/Rock
+18862,Stars of the Lid,Pop/Rock
+18896,Skyy,Unknown
+18977,Barry Manilow,Pop/Rock
+19029,Tad,Pop/Rock
+19133,Ambrosia,Pop/Rock
+19241,Patty Loveless,Country
+19297,America,Pop/Rock
+19392,...And You Will Know Us by the Trail of Dead,Pop/Rock
+19435,Shelly Manne,Jazz
+19701,Television,Pop/Rock
+19740,Amerie,R&B;
+19831,Skunk Anansie,Pop/Rock
+19892,Tears for Fears,Pop/Rock
+19953,Sheila E.,R&B;
+20028,Sky,Pop/Rock
+20050,Ten Years After,Pop/Rock
+20278,Teddy Pendergrass,R&B;
+20319,Shel Silverstein,Folk
+20403,Tennessee Ernie Ford,Country
+20729,Slightly Stoopid,Pop/Rock
+20740,Sizzla,Reggae
+20760,Shelby Lynne,Country
+20812,Slaughter,Pop/Rock
+20862,Paul Collins,Pop/Rock
+20919,Amber,Electronic
+20971,Terence Blanchard,Jazz
+20984,Shelley Fabares,Pop/Rock
+21008,Trick Pony,Country
+21009,Slash,Pop/Rock
+21292,Shenandoah,Country
+21334,Stephanie Mills,R&B;
+21492,Stephen Malkmus,Pop/Rock
+21578,Sleep,Pop/Rock
+21670,Tegan and Sara,Pop/Rock
+21744,Stephen Stills,Pop/Rock
+21747,Chuck Mangione,Jazz
+22020,Tribal Tech,Jazz
+22124,Slayer,Pop/Rock
+22257,Patty Smyth,Pop/Rock
+22348,Patty Griffin,Pop/Rock
+22369,Amon Amarth,Pop/Rock
+22574,Paul Mauriat,Easy Listening
+22602,Ten Foot Pole,Pop/Rock
+22875,Temple of the Dog,Pop/Rock
+22928,Steppenwolf,Pop/Rock
+22981,Terrorizer,Pop/Rock
+23147,Steps Ahead,Jazz
+23202,Stereo MC's,Electronic
+23290,Slam Stewart,Jazz
+23411,Shelly West,Country
+23925,Stephen Bishop,Pop/Rock
+23982,Ted Hawkins,Blues
+24113,Tripping Daisy,Pop/Rock
+24139,Paul Rodgers,Pop/Rock
+24152,Sherbet,Pop/Rock
+24309,Stephen Marley,Reggae
+24329,Amon Tobin,Electronic
+24568,Shirley Collins,Folk
+24944,Amy Grant,Religious
+25047,The Angels,Pop/Rock
+25142,Tea Leaf Green,Pop/Rock
+25236,Skindred,Pop/Rock
+25394,Trio,Pop/Rock
+25462,Tricky,Electronic
+25475,Shirley Murdock,Unknown
+25778,Slave,R&B;
+25857,Shep Pettibone,Electronic
+25899,Technotronic,Electronic
+25965,Steve Cole,Jazz
+26023,The Apples in Stereo,Pop/Rock
+26161,Terrance Simien,International
+26164,Sleater-Kinney,Pop/Rock
+26193,Andrew Bird,Pop/Rock
+26350,Wolfgang Amadeus Mozart,Classical
+26367,Skid Row,Pop/Rock
+26432,Skids,Unknown
+26510,Terry Allen,Country
+26520,Stereolab,Pop/Rock
+26637,Skin Yard,Pop/Rock
+26825,Paula Cole,Pop/Rock
+26952,Smokie Norful,Religious
+27102,Terry Stafford,Pop/Rock
+27136,Paulina Rubio,Latin
+27221,Sleeping at Last,Pop/Rock
+27916,Terry Callier,R&B;
+28002,Shinedown,Pop/Rock
+28015,Paul Quinichette,Jazz
+28166,Slim Harpo,Blues
+28316,Slim Smith,Reggae
+28432,Sneaker Pimps,Pop/Rock
+28619,Steve Arrington,R&B;
+28692,Terry Gibbs,Jazz
+28772,The 5th Dimension,Pop/Rock
+28863,The 88,Pop/Rock
+28918,Terry Jacks,Pop/Rock
+29067,The Action,Pop/Rock
+29084,The Adicts,Unknown
+29334,Slim Whitman,Country
+29365,Trixter,Pop/Rock
+29600,Smash Mouth,Pop/Rock
+29604,Shocking Blue,Pop/Rock
+29609,Paul Weston,Jazz
+29791,Paul Weller,Pop/Rock
+29808,Tesla,Pop/Rock
+29867,Shirley Bassey,Vocal
+29884,Paul McCartney,Pop/Rock
+29909,Terry Reid,Pop/Rock
+29978,Sloan,Pop/Rock
+30250,AndrÃ© Previn,Classical
+30431,Slowdive,Pop/Rock
+30664,Tex Beneke,Jazz
+30925,Shirley Horn,Jazz
+30928,Tevin Campbell,R&B;
+31022,Jim Morrison,Pop/Rock
+31067,Solomon Burke,R&B;
+31158,Steve Jablonsky,Stage & Screen
+31263,AndraÃ© Crouch,Religious
+31274,Alan Parsons,Pop/Rock
+31324,Sodom,Pop/Rock
+31380,Paula Abdul,Pop/Rock
+31441,Paul Winter,New Age
+31442,Anastacia,Pop/Rock
+31556,Supergrass,Pop/Rock
+31606,Smog,Pop/Rock
+31617,Simian,Pop/Rock
+31685,Paul Simon,Pop/Rock
+31697,Andy Gibb,Pop/Rock
+31765,Snot,Pop/Rock
+31823,Smoke City,Electronic
+31969,The Be Good Tanyas,Pop/Rock
+31971,The Beat,Pop/Rock
+32045,Software,New Age
+32071,Shirley Caesar,Religious
+32193,Tex Williams,Country
+32301,Sophie Ellis-Bextor,Pop/Rock
+32333,Susan Ashton,Religious
+32366,Steve Goodman,Folk
+32401,Triumph,Pop/Rock
+32409,Paul Thorn,Pop/Rock
+32433,Texas,Pop/Rock
+32807,Son Seals,Blues
+32836,Sly Dunbar,Unknown
+32971,The Beautiful South,Pop/Rock
+33161,Sly & the Family Stone,R&B;
+33316,Andy Kim,Pop/Rock
+33481,Andy Griggs,Country
+33560,Suzi Quatro,Pop/Rock
+33580,Super Cat,Reggae
+33666,Supertramp,Pop/Rock
+33995,Siedah Garrett,R&B;
+34094,The Archies,Pop/Rock
+34172,Superchunk,Pop/Rock
+34249,Steve Earle,Country
+34382,Paul Young,Pop/Rock
+34402,Steve Green,Unknown
+34617,Andrew Hill,Jazz
+34867,The Belmonts,R&B;
+34880,Paw,Pop/Rock
+34899,Soul Coughing,Pop/Rock
+34988,Swans,Pop/Rock
+35021,Smokey Robinson & the Miracles,R&B;
+35076,Soul II Soul,R&B;
+35338,Peabo Bryson,R&B;
+35464,Maria Muldaur,Pop/Rock
+35587,Sick of It All,Pop/Rock
+35697,Peaches & Herb,R&B;
+35719,Steve Harley,Pop/Rock
+35864,Shriekback,Pop/Rock
+36106,Steve Miller Band,Pop/Rock
+36310,Shonen Knife,Pop/Rock
+36312,Shooter Jennings,Country
+36327,Silk,R&B;
+36402,Sonny Bono,Pop/Rock
+36468,Smoking Popes,Pop/Rock
+36521,Smashing Pumpkins,Pop/Rock
+36537,Steve Howe,Pop/Rock
+36645,Steve Kuhn,Jazz
+36816,Paulinho da Viola,Unknown
+36849,Sonny James,Country
+36934,Sonny Clark,Jazz
+36975,The Babys,Pop/Rock
+36987,Sonny Sharrock,Jazz
+37026,The Bellamy Brothers,Country
+37197,Steve Tyrell,Vocal
+37288,Steve Reid,Unknown
+37658,Steve Reich,Classical
+37730,Pearl Jam,Pop/Rock
+37787,Sweetwater,Unknown
+37794,Silvio RodrÃ­guez,Latin
+37865,Andy MontaÃ±ez,Latin
+37931,The Alarm,Pop/Rock
+38061,The Bats,Pop/Rock
+38100,Pearl Bailey,Vocal
+38291,Sneaky Pete Kleinow,Pop/Rock
+38302,Social Distortion,Pop/Rock
+38321,Snow Patrol,Pop/Rock
+38466,Andy Williams,Vocal
+38490,The Band,Pop/Rock
+38579,Soft Cell,Pop/Rock
+38805,Angie Stone,R&B;
+38936,Simon & Garfunkel,Pop/Rock
+38977,The Associates,Pop/Rock
+39013,Alkaline Trio,Pop/Rock
+39258,Paul Westerberg,Pop/Rock
+39342,The Bluetones,Pop/Rock
+39406,Soilwork,Pop/Rock
+39637,Survivor,Pop/Rock
+39656,Sonny Rollins,Jazz
+39661,Sonny Terry,Blues
+39828,Surface,R&B;
+40124,The Ataris,Pop/Rock
+40225,Gladys Knight,R&B;
+40230,Songs: Ohia,Pop/Rock
+40294,Swell,Pop/Rock
+40501,Steve Roach,New Age
+40648,The Black Dahlia Murder,Pop/Rock
+40695,Mary Martin,Stage & Screen
+40743,Audioslave,Pop/Rock
+40922,The Sound,Pop/Rock
+41283,Andrew W.K.,Pop/Rock
+41398,Conlon Nancarrow,Unknown
+41420,Pebbles,R&B;
+41431,Angelo Badalamenti,Stage & Screen
+41462,Solange,R&B;
+41702,Sy Oliver,Unknown
+41874,The Beach Boys,Pop/Rock
+41899,The Blues Project,Pop/Rock
+41976,Audiovent,Pop/Rock
+42234,Steven Halpern,New Age
+42589,The Beta Band,Pop/Rock
+42993,Sonny & Cher,Pop/Rock
+43348,Angel,Pop/Rock
+43444,Steve Martin,Comedy/Spoken
+43499,The Andrews Sisters,Vocal
+43520,Susan Tedeschi,Blues
+43572,The Avalanches,Electronic
+43714,Bee Gees,Pop/Rock
+44068,Steven Curtis Chapman,Religious
+44290,Sonny Stitt,Jazz
+44663,Angela McCluskey,Pop/Rock
+44703,Sweet Honey in the Rock,Religious
+44751,Steve Wariner,Country
+44764,Blondie,Pop/Rock
+44776,Beth Hart,Pop/Rock
+44906,The Birthday Party,Pop/Rock
+44994,Sonny Landreth,Blues
+44998,Angela Carrasco,Latin
+45057,The Louvin Brothers,Country
+45077,Leo Kottke,Folk
+45287,Sweetback,R&B;
+45313,Steve Winwood,Pop/Rock
+45379,Branford Marsalis,Jazz
+45475,Steve Vai,Pop/Rock
+45560,The Mars Volta,Pop/Rock
+45745,Mike Marshall,International
+45941,Sutton Foster,Stage & Screen
+45972,Swing Out Sister,Unknown
+46120,The Amboy Dukes,Pop/Rock
+46184,The Ames Brothers,Vocal
+46214,Aunt Molly Jackson,Country
+46345,Suzanne Ciani,New Age
+46381,Berlin,Pop/Rock
+46429,Soulive,Jazz
+46460,The Big Bopper,Pop/Rock
+46527,Blonde Redhead,Pop/Rock
+46626,Beth Nielsen Chapman,Country
+46699,The Everly Brothers,Pop/Rock
+46727,Edwin Starr,R&B;
+46784,Syl Johnson,R&B;
+46794,Ani DiFranco,Pop/Rock
+46814,Blake Shelton,Country
+46861,Ray Charles,R&B;
+46925,"Blood, Sweat & Tears",Pop/Rock
+47033,The Blue Nile,Pop/Rock
+47134,Susannah McCorkle,Vocal
+47246,Steven Wright,Comedy/Spoken
+47401,Bernard "Pretty" Purdie,Jazz
+47421,The Blues Brothers,R&B;
+47789,BoDeans,Pop/Rock
+48061,Silverstein,Pop/Rock
+48123,Marine Girls,Pop/Rock
+48126,The Big Wu,Pop/Rock
+48168,Sweethearts of the Rodeo,Unknown
+48265,Silverchair,Pop/Rock
+48507,Sweet Sensation,Unknown
+48566,The Black Crowes,Pop/Rock
+48587,Blancmange,Pop/Rock
+48622,The Marcels,R&B;
+48757,Switch,R&B;
+48806,Soulwax,Electronic
+48811,Atreyu,Pop/Rock
+48816,Bernadette Peters,Vocal
+48903,Blu Cantrell,R&B;
+48908,Betty Carter,Vocal
+49026,Switchfoot,Pop/Rock
+49062,Simple Plan,Pop/Rock
+49163,Susumu Yokota,Electronic
+49180,Betty Harris,R&B;
+49367,The Blackbyrds,R&B;
+49374,Simple Minds,Pop/Rock
+49774,Blackstreet,R&B;
+49797,Steven Tyler,Pop/Rock
+49806,Blind Boy Fuller,Blues
+50034,Gary Moore,Pop/Rock
+50251,Blind Melon,Pop/Rock
+50493,Soulfly,Pop/Rock
+50520,Bettye Swann,R&B;
+50581,Sin Bandera,Latin
+50588,The Angels,Pop/Rock
+50967,The Lost Trailers,Country
+51066,Craig Armstrong,Pop/Rock
+51230,Bent,Electronic
+51233,Bob Brookmeyer,Jazz
+51376,The Fall,Pop/Rock
+51603,Charlotte Church,Classical
+51736,The Manhattans,R&B;
+51740,JosÃ© Carreras,Classical
+51909,Carpenters,Pop/Rock
+51992,Big Star,Pop/Rock
+52062,Chayanne,Latin
+52093,The Fixx,Pop/Rock
+52151,Augustus Pablo,Reggae
+52382,The Marshall Tucker Band,Pop/Rock
+52736,Big Jay McNeely,Blues
+52900,The Lovin' Spoonful,Folk
+53204,Beth Carvalho,Latin
+53221,Big Bad Voodoo Daddy,Pop/Rock
+53428,Blue Magic,Unknown
+53441,Eden Ahbez,Easy Listening
+53606,Bloodstone,R&B;
+53739,Bette Midler,Vocal
+53916,The Fantastic Four,R&B;
+54982,Aventura,Latin
+55010,Big Black,Unknown
+55128,Bo Diddley,Pop/Rock
+55166,Axwell,Unknown
+55304,The Flamingos,R&B;
+55778,The Casualties,Pop/Rock
+55939,Azymuth,Jazz
+56193,Blue States,Electronic
+56913,Babatunde Olatunji,International
+57124,The Chambers Brothers,R&B;
+57151,B*Witched,Pop/Rock
+57188,Bob Andy,Reggae
+57205,Bob Moses,Jazz
+57209,The Free Design,Pop/Rock
+57280,Bilal,R&B;
+57488,The Four Aces,Vocal
+57497,B-Movie,Pop/Rock
+57577,Bleu Edmondson,Country
+57636,The Flying Lizards,Electronic
+57840,B.J. Thomas,Country
+57923,Bill Anderson,Country
+58035,The Chiffons,Unknown
+58360,Betty Buckley,Vocal
+58361,Betty Everett,R&B;
+58372,Faces,Pop/Rock
+58386,Bob Mould,Pop/Rock
+58438,Betty Davis,R&B;
+58549,Elvis Costello,Pop/Rock
+58616,The Champs,Pop/Rock
+58934,The Faint,Pop/Rock
+58947,The Chords,Pop/Rock
+59156,B.B. King,Blues
+59293,The Mamas & the Papas,Pop/Rock
+59503,Bernie Worrell,R&B;
+59537,Blue Cheer,Pop/Rock
+59655,The Mar-Keys,R&B;
+59699,Bobby CapÃ³,Latin
+59758,Bleeding Through,Pop/Rock
+59819,Betty Wright,R&B;
+59949,B.T. Express,R&B;
+59989,The Explosion,Pop/Rock
+60012,Autograph,Pop/Rock
+60306,Harold Arlen,Stage & Screen
+60476,The Friends of Distinction,R&B;
+60679,Big Joe Williams,Blues
+61041,The Coral,Pop/Rock
+61044,Bobby Brown,R&B;
+61045,Bobby Caldwell,Unknown
+61172,The Cars,Pop/Rock
+61226,Babyface,R&B;
+61273,Baaba Maal,International
+61479,The Five Satins,R&B;
+61480,The Guess Who,Pop/Rock
+61534,The Bobby Fuller Four,Pop/Rock
+61582,Bobby Freeman,Unknown
+61637,Beulah,Pop/Rock
+61690,The Cascades,Unknown
+61792,Babylon A.D.,Pop/Rock
+61912,Bill Evans,Country
+61938,Blue Ã–yster Cult,Pop/Rock
+62002,Bachman-Turner Overdrive,Pop/Rock
+62270,Bobby Rydell,Pop/Rock
+62412,Avant,R&B;
+62455,Avalon,Religious
+62609,The Clientele,Pop/Rock
+62729,Bobby Sherman,Pop/Rock
+62823,Bad Religion,Pop/Rock
+62860,Blue Rodeo,Pop/Rock
+63340,The Receiving End of Sirens,Pop/Rock
+64145,The Five Keys,R&B;
+64149,The Hooters,Pop/Rock
+64199,Jimmy Martin,Country
+64303,Badfinger,Pop/Rock
+64509,Bobby Womack,R&B;
+64817,Big Walter Horton,Blues
+64830,Bill Henderson,Vocal
+64954,Michael Ball,Vocal
+65040,Biffy Clyro,Pop/Rock
+65093,The Florida Mass Choir,Unknown
+65094,Svend Asmussen,Jazz
+65397,Bobbie Gentry,Country
+65590,The Flaming Lips,Pop/Rock
+65620,Bobby "Boris" Pickett,Pop/Rock
+65862,Bob Cranshaw,Unknown
+65882,Bob James,Jazz
+66228,Big Maybelle,Blues
+66276,Dorival Caymmi,Latin
+66395,The Congos,Reggae
+66429,Bobby Bare,Country
+66514,The Flys,Pop/Rock
+66570,Keith Jarrett,Jazz
+66800,Bola Sete,Jazz
+66869,The Field Mice,Pop/Rock
+66915,Bob Dylan,Pop/Rock
+67131,Billy Crystal,Unknown
+67406,The Chieftains,International
+67528,Bob Dorough,Vocal
+67529,BabasÃ³nicos,Latin
+67539,Billy Gibbons,Pop/Rock
+67561,Bob Newhart,Comedy/Spoken
+67631,The Chemical Brothers,Electronic
+67900,The Foundations,R&B;
+68155,The Chantels,R&B;
+68551,Kenny Chesney,Country
+68738,The Chills,Pop/Rock
+68780,Kenny Burrell,Jazz
+68896,B2K,R&B;
+68898,The Balfa Brothers,International
+68934,Kenny G,Jazz
+69060,Babes in Toyland,Pop/Rock
+69153,Joan Baez,Folk
+69348,Paul Desmond,Jazz
+69402,Bob Marley & the Wailers,Reggae
+69520,The Cookies,R&B;
+69534,Bon Jovi,Pop/Rock
+69761,The Irish Rovers,International
+69805,Bill Keith,Country
+69986,Kenny Rogers,Country
+70027,The Innocence Mission,Pop/Rock
+70534,Bill Cosby,Comedy/Spoken
+70586,Gossip,Pop/Rock
+70704,Big Mountain,Reggae
+70715,Bobby Darin,Pop/Rock
+70800,Billy Idol,Pop/Rock
+71166,The Greenhornes,Pop/Rock
+71209,Leonard Cohen,Pop/Rock
+71336,The Four Freshmen,Vocal
+71373,BBMak,Pop/Rock
+71508,The Four Lads,Unknown
+71636,Il Divo,Vocal
+71970,The J.B.'s,R&B;
+72041,Bob Seger,Pop/Rock
+72109,Bill Callahan,Pop/Rock
+72205,Billy Joe Shaver,Country
+72716,The Kentucky Headhunters,Country
+72861,Ikon,Electronic
+72941,Circa Survive,Pop/Rock
+72998,The Handsome Family,Pop/Rock
+72999,The Happenings,Unknown
+73383,The Gap Band,R&B;
+73421,The Clean,Pop/Rock
+73444,Bob Schneider,Pop/Rock
+73553,Bill Fay,Pop/Rock
+73605,The Gaylads,Reggae
+73644,Bobby Charles,Pop/Rock
+73682,Kelly Rowland,R&B;
+73914,The Cleftones,R&B;
+73969,Jon Foreman,Pop/Rock
+74005,Bill Evans,Jazz
+74134,Ian & Sylvia,Folk
+74195,Natalie Cole,R&B;
+74340,Jimmy Raney,Jazz
+74397,Bill Frisell,Jazz
+74452,Bobby Day,R&B;
+74520,The Hives,Pop/Rock
+74776,Bill Bruford,Pop/Rock
+74853,The KLF,Electronic
+74857,The Hondells,Pop/Rock
+74952,Ken Elkinson,New Age
+74970,Bob Wills,Country
+75100,Bad Company,Pop/Rock
+75171,The Clovers,R&B;
+75264,Bad Brains,Pop/Rock
+75295,Ken Boothe,Reggae
+75308,The Jeff Healey Band,Pop/Rock
+75329,Bob Sinclar,Electronic
+75394,Bad Manners,Pop/Rock
+75591,The Corrs,Pop/Rock
+75665,The Gentrys,Pop/Rock
+75747,The Clash,Pop/Rock
+75801,The Highwaymen,Country
+75825,The Coasters,R&B;
+76057,King Crimson,Pop/Rock
+76561,Billy Ray Cyrus,Country
+76658,Jimmy McGriff,Jazz
+76788,Cowboy Troy,Country
+76881,Jimmy Reed,Blues
+77175,Bob Weir,Pop/Rock
+77264,Bad English,Pop/Rock
+77306,Keith Hudson,Reggae
+77536,Bill Medley,Unknown
+77560,Bobby Short,Vocal
+77578,Information Society,Pop/Rock
+77662,King Pleasure,Vocal
+77698,Bobby Hackett,Jazz
+77732,Bobby Vee,Pop/Rock
+77952,Youth Group,Pop/Rock
+77963,The Commitments,Pop/Rock
+78044,Bill Withers,R&B;
+78137,Bill Holman,Unknown
+78191,Body Count,Pop/Rock
+78242,Ibrahim Ferrer,Latin
+78467,The Communards,Pop/Rock
+78532,Inner Circle,Reggae
+78741,The Connells,Pop/Rock
+78758,Bounty Killer,Reggae
+78802,Bill Wyman,Unknown
+78886,The Housemartins,Pop/Rock
+79016,Billie Holiday,Vocal
+79044,The Lightning Seeds,Pop/Rock
+79392,Keith Green,Religious
+79925,Ryan Adams & the Cardinals,Unknown
+79959,Insane Clown Posse,Pop/Rock
+79960,Boston,Pop/Rock
+80118,Kevin Ayers,Pop/Rock
+80149,The Litter,Unknown
+80340,The Living End,Pop/Rock
+80358,Kesha,Pop/Rock
+80428,The Lettermen,Vocal
+80443,The Headhunters,Jazz
+80494,Billy Gilman,Pop/Rock
+80537,Billy Fury,Pop/Rock
+80609,Boys Don't Cry,Pop/Rock
+80649,The Libertines,Pop/Rock
+80657,Billy Ward & the Dominoes,R&B;
+80720,The House of Love,Pop/Rock
+80780,Sheryl Crow,Pop/Rock
+81017,Kitaro,New Age
+81079,Keith Washington,R&B;
+81083,Bill Monroe,Country
+81194,Bobby "Blue" Bland,Blues
+81231,Bobby Hutcherson,Jazz
+81248,Biosphere,Electronic
+81403,Boney M.,Pop/Rock
+81433,Bonnie Owens,Unknown
+81493,Killing Joke,Pop/Rock
+81561,Keith Whitley,Country
+81619,Keith Urban,Country
+81683,Black Uhuru,Reggae
+81739,Billy Currington,Country
+81796,Kenny Clarke,Jazz
+81832,Kenny Loggins,Pop/Rock
+81836,Alex de Grassi,New Age
+81841,Kenny Drew,Jazz
+81849,Boney James,Jazz
+81919,The Imperials,Unknown
+82013,The Impressions,R&B;
+82037,Ike Quebec,Jazz
+82149,Kenny Lattimore,R&B;
+82584,Billy Eckstine,Vocal
+82639,Paco de LucÃ­a,Latin
+82742,Iris DeMent,Country
+82831,The Ink Spots,Vocal
+82955,The Intruders,R&B;
+82993,Black Strobe,Unknown
+83013,The Jackson 5,R&B;
+83095,Kirk Franklin,Religious
+83106,Charlie Walker,Country
+83194,Boyzone,Pop/Rock
+83554,Billy Bragg,Pop/Rock
+83859,Kevin Coyne,Pop/Rock
+84053,The Jam,Pop/Rock
+84209,Kiss,Pop/Rock
+84258,Kirsty MacColl,Pop/Rock
+84387,Kele,Pop/Rock
+84446,India.Arie,R&B;
+84777,Keller Williams,Pop/Rock
+84814,Billy Squier,Pop/Rock
+84886,Kleeer,R&B;
+85038,Iron and Wine,Pop/Rock
+85271,Bongzilla,Pop/Rock
+85397,Kelis,R&B;
+85410,Billy Joe Royal,Country
+85445,Bobby Marchan,R&B;
+85448,The Heptones,Reggae
+85776,James Gang,Pop/Rock
+85806,Billy Thorpe,Pop/Rock
+85915,Billy Joel,Pop/Rock
+86250,Wolfmother,Pop/Rock
+86312,The Judds,Country
+86750,The Jazz Crusaders,Jazz
+86822,Kenyon Hopkins,Unknown
+86826,Irene Cara,Pop/Rock
+86828,Children of Bodom,Pop/Rock
+86927,Kelly Clarkson,Pop/Rock
+87113,The Jordanaires,Country
+87179,The Knack,Pop/Rock
+87597,Ian Hunter,Pop/Rock
+87697,Kem,R&B;
+87741,Ill NiÃ±o,Pop/Rock
+87922,The Juliana Theory,Pop/Rock
+87985,The Hollies,Pop/Rock
+88035,Kelly Price,R&B;
+88180,Kid Rock,Pop/Rock
+88587,Kindred the Family Soul,R&B;
+89018,The Jayhawks,Pop/Rock
+89021,Jimmy Page,Pop/Rock
+89058,Billy Ocean,R&B;
+89071,King,Pop/Rock
+89305,The Jesus Lizard,Pop/Rock
+89306,The Jets,Pop/Rock
+89710,Billy Paul,R&B;
+89713,Billy Lee Riley,Pop/Rock
+89828,Collin Walcott,Jazz
+89870,Amanda Palmer,Pop/Rock
+89873,Chris Knight,Country
+90011,Ini Kamoze,Reggae
+90018,The Last Poets,Jazz
+90079,Chely Wright,Country
+90124,Black Box,Electronic
+90169,King Floyd,R&B;
+90174,Hawk Nelson,Pop/Rock
+90188,Ian Dury,Pop/Rock
+90376,The Lawrence Arms,Unknown
+90389,Idris Muhammad,Jazz
+90803,King Curtis,R&B;
+90945,Colosseum,Pop/Rock
+91122,Inner City,Electronic
+91312,Patrick Doyle,Stage & Screen
+91438,The Gun Club,Pop/Rock
+91549,Chevelle,Pop/Rock
+91650,Black Flag,Pop/Rock
+91651,Black Grape,Pop/Rock
+91763,Black Ivory,R&B;
+91852,King Radio,International
+91879,Ismael Miranda,Latin
+92107,Keyshia Cole,R&B;
+92208,Kidz Bop Kids,Unknown
+92303,King Missile,Pop/Rock
+92507,The Bottle Rockets,Pop/Rock
+92942,Chic,R&B;
+93322,King Tubby,Reggae
+93533,The Limeliters,Folk
+93565,Black Label Society,Pop/Rock
+93566,Inspiral Carpets,Pop/Rock
+93632,Robert Palmer,Pop/Rock
+93849,Black Oak Arkansas,Pop/Rock
+93859,Bowery Electric,Pop/Rock
+93872,Koffee Brown,R&B;
+94126,Bow Wow Wow,Pop/Rock
+94205,Chet Atkins,Country
+94210,Chet Baker,Jazz
+94224,Ike & Tina Turner,R&B;
+94658,Commissioned,Religious
+94764,Bonnie "Prince" Billy,Pop/Rock
+94792,Imogen Heap,Pop/Rock
+94861,Kings of Convenience,Pop/Rock
+94890,The Legendary Pink Dots,Pop/Rock
+95176,Bonobo,Electronic
+95613,Chico Buarque,International
+96142,Charly GarcÃ­a,Latin
+96379,Boyz II Men,R&B;
+96576,Interpol,Pop/Rock
+96613,Bonnie Raitt,Pop/Rock
+96679,Blackfoot,Pop/Rock
+96701,Kinky,International
+96744,Chris Rea,Pop/Rock
+96804,Kingdom Come,Pop/Rock
+96944,Chris Hillman,Country
+96964,Boz Scaggs,Pop/Rock
+96977,In Flames,Pop/Rock
+97065,Birdy,Pop/Rock
+97173,Bonnie Tyler,Pop/Rock
+97182,Christy Moore,International
+97200,Bracket,Pop/Rock
+97203,BlackHawk,Country
+97325,Biohazard,Pop/Rock
+97384,Kings of Leon,Pop/Rock
+97395,Colin Hay,Pop/Rock
+97426,Booker Ervin,Jazz
+97491,Kittie,Pop/Rock
+97509,Con Funk Shun,R&B;
+97529,Booker Little,Jazz
+97654,Kim Carnes,Pop/Rock
+97786,BoySetsFire,Pop/Rock
+97949,The International Submarine Band,Pop/Rock
+98081,Engelbert Humperdinck,Vocal
+98189,Kitty Wells,Country
+98278,Keith Relf,Pop/Rock
+98361,Hawthorne Heights,Pop/Rock
+98465,Iron Maiden,Pop/Rock
+98467,Klaatu,Pop/Rock
+98688,Jack Ingram,Country
+98707,kidneythieves,Pop/Rock
+98819,Labi Siffre,R&B;
+98944,Kix,Pop/Rock
+99032,Company B,Unknown
+99104,Vashti Bunyan,Folk
+99198,Kitty Kallen,Vocal
+99246,Concrete Blonde,Pop/Rock
+99449,Cornelius,Pop/Rock
+99508,The Kills,Pop/Rock
+99561,The Incredible String Band,Folk
+99730,India,Latin
+99753,Connie Smith,Country
+99770,The Long Winters,Pop/Rock
+99888,The Knickerbockers,Pop/Rock
+100116,Charlie Wilson,R&B;
+100160,The Kinks,Pop/Rock
+100197,LaShun Pace,Religious
+100426,Paul Horn,Unknown
+100473,L7,Pop/Rock
+100496,Book of Love,Pop/Rock
+100575,Chris Tomlin,Religious
+100627,Chucho Avellanet,Unknown
+100659,Labradford,Pop/Rock
+100840,Chase,Pop/Rock
+100854,Jimmy Witherspoon,Blues
+101072,The Pussycat Dolls,Pop/Rock
+101164,LFO,Electronic
+101415,Ivy,Pop/Rock
+101575,Control,Latin
+101628,Charlie Ventura,Jazz
+101701,Conflict,Pop/Rock
+101776,Jack Nitzsche,Pop/Rock
+101795,Kirk Whalum,Jazz
+101895,Joe,R&B;
+101946,Isaac Hayes,R&B;
+101953,Klymaxx,R&B;
+102050,The Kingston Trio,Folk
+102176,Kostas,Unknown
+102399,Larry Carlton,Jazz
+102750,Jack Off Jill,Pop/Rock
+102781,Carl Perkins,Jazz
+102964,Choking Victim,Pop/Rock
+102985,Julio Iglesias,Vocal
+103033,Chuck Jackson,R&B;
+103162,Kim Weston,R&B;
+103324,Kreator,Pop/Rock
+103447,Kim Wilde,Pop/Rock
+103449,Camille,Unknown
+103460,Lani Hall,Vocal
+103484,Indigo Girls,Pop/Rock
+103600,Christian McBride,Jazz
+104147,La Sonora Dinamita,Latin
+104217,Jaci Velasquez,Religious
+104314,Lafayette Afro Rock Band,International
+104388,Jack DeJohnette,Jazz
+104455,The La's,Pop/Rock
+104548,Kottonmouth Kings,Pop/Rock
+104714,Kraftwerk,Electronic
+104741,Jacob Do Bandolim,Latin
+105030,Coheed and Cambria,Pop/Rock
+105129,Collective Soul,Pop/Rock
+105329,Chris Botti,Jazz
+105354,Cheap Trick,Pop/Rock
+105422,Corrosion of Conformity,Pop/Rock
+105462,Cody ChesnuTT,R&B;
+105618,Ladysmith Black Mambazo,International
+105638,Cold,Pop/Rock
+105685,Krokus,Pop/Rock
+106145,Colby O'Donis,R&B;
+106298,Cheech & Chong,Comedy/Spoken
+106514,Boots Randolph,Country
+106882,Lamont Dozier,R&B;
+106916,Chris Cagle,Country
+106987,"Lambert, Hendricks & Ross",Jazz
+107090,Cher,Pop/Rock
+107139,Bootsy Collins,R&B;
+107227,Kruder & Dorfmeister,Electronic
+107247,Chuck Rainey,Jazz
+107249,Lakeside,R&B;
+107466,Chris LeDoux,Country
+107556,Kimya Dawson,Pop/Rock
+107753,Luny Tunes,Latin
+107877,James Carr,R&B;
+107950,Isobel Campbell,Pop/Rock
+108124,Cherrelle,R&B;
+108249,Kristin Chenoweth,Vocal
+108265,Israel & New Breed,Religious
+108283,Lalo RodrÃ­guez,Latin
+108340,The Zutons,Pop/Rock
+108446,Ismael Rivera,Latin
+108554,Cheo Feliciano,Latin
+108679,Crash Test Dummies,Pop/Rock
+108774,Cheryl Wheeler,Folk
+108826,Jackie Wilson,R&B;
+109012,It's a Beautiful Day,Pop/Rock
+109202,Chemlab,Pop/Rock
+109263,Chris Duarte,Pop/Rock
+109274,Chris Montez,Pop/Rock
+109367,Jackson Do Pandeiro,Latin
+109414,Courtney Love,Pop/Rock
+109421,Crowbar,Pop/Rock
+109542,Jackyl,Pop/Rock
+109628,Panda Bear,Pop/Rock
+109637,Culture,Reggae
+109669,IsmaÃ«l LÃ´,International
+109735,Circle Jerks,Pop/Rock
+109784,Jain,Pop/Rock
+110011,Crazy Town,Pop/Rock
+110104,Cissy Houston,R&B;
+110161,Chicago,Pop/Rock
+110341,The Creation,Pop/Rock
+110454,Chico CÃ©sar,Latin
+110541,Chick Corea,Jazz
+110564,Ivan Lins,Latin
+110791,Citizen Cope,Pop/Rock
+110792,City Boy,Pop/Rock
+110945,Chico DeBarge,R&B;
+111794,Chico O'Farrill,Jazz
+111934,Ivie Anderson,Vocal
+111963,Chris Whitley,Pop/Rock
+111969,Tye Tribbett,Religious
+112017,Jo Stafford,Vocal
+112185,James,Pop/Rock
+112204,Crimson Glory,Pop/Rock
+112462,Cream,Pop/Rock
+112540,Cisco Houston,Folk
+112789,Korn,Pop/Rock
+113082,Colin James,Pop/Rock
+113480,Jaco Pastorius,Jazz
+113721,Eric Darius,Jazz
+113823,Chrissie Hynde,Pop/Rock
+114342,The Doors,Pop/Rock
+115079,Joe Hill Louis,Blues
+115140,Commander Cody and His Lost Planet Airmen,Pop/Rock
+115544,Christopher Williams,R&B;
+115554,LSG,R&B;
+115733,J.B. Lenoir,Blues
+116087,Leatherface,Pop/Rock
+116178,Culture Club,Pop/Rock
+116425,Chromeo,Pop/Rock
+116465,Jah Cure,Reggae
+116984,Chubby Checker,R&B;
+117001,Barrett Strong,R&B;
+117064,Connie Francis,Pop/Rock
+117356,Ledisi,R&B;
+117490,Chris Smither,Pop/Rock
+117844,"Hank Williams, Jr.",Country
+117990,Joe Bataan,Latin
+118128,Jocelyn Brown,R&B;
+118189,Clay Walker,Country
+118243,Joe Bonamassa,Blues
+118289,Labelle,R&B;
+118327,Chrome,Pop/Rock
+118384,Comus,Pop/Rock
+118493,JoÃ£o Donato,Latin
+118503,Lacy J. Dalton,Country
+118544,The Drifters,R&B;
+118664,Basia,Pop/Rock
+118665,Basic Black,R&B;
+118791,LeAnn Rimes,Country
+118798,Chromatics,Pop/Rock
+118853,Jack McDuff,Jazz
+118979,The Dandy Warhols,Pop/Rock
+119058,Confederate Railroad,Unknown
+119107,Vladimir Horowitz,Unknown
+119111,J.J. Johnson,Jazz
+119469,Corey Hart,Pop/Rock
+119629,Joe Lovano,Jazz
+119651,J.J. Cale,Pop/Rock
+119655,Chris Thomas,Pop/Rock
+120010,Jack Johnson,Pop/Rock
+120060,Christian Death,Pop/Rock
+120067,Cornelio Reyna,Latin
+120163,Len,Pop/Rock
+120370,La Mafia,Unknown
+120411,Cowboy,Pop/Rock
+120412,Cowboy Mouth,Pop/Rock
+120487,Jack Kerouac,Comedy/Spoken
+120521,Chuck Berry,Pop/Rock
+120615,Joe Brown,Pop/Rock
+120953,Cowboy Junkies,Pop/Rock
+121157,The Contours,R&B;
+121236,Cartel,Pop/Rock
+121318,Chris Squire,Pop/Rock
+121459,Cornell Campbell,Reggae
+121584,Laraaji,New Age
+121590,Jacques Brel,Vocal
+121746,Cornershop,Pop/Rock
+121778,Cibo Matto,Pop/Rock
+121863,Coyote Shivers,Pop/Rock
+122023,Cilla Black,Pop/Rock
+122037,Bappi Lahiri,International
+122198,Barbara,Unknown
+122219,Craig David,R&B;
+122252,Lady Saw,Reggae
+122381,Jacques Dutronc,Pop/Rock
+122738,Chris Thomas King,Blues
+122754,Cyndi Lauper,Pop/Rock
+122795,L.T.D.,R&B;
+123007,The Dickies,Pop/Rock
+123345,Claus Ogerman,Jazz
+123363,Converge,Pop/Rock
+123515,ChristiÃ³n,R&B;
+123754,Christopher Cross,Pop/Rock
+123904,Jack Costanzo,Unknown
+123915,Christine McVie,Pop/Rock
+124248,Laidback Luke,Electronic
+124492,Beck,Pop/Rock
+124825,Cory Morrow,Country
+124881,Craig Morgan,Country
+125088,Chuck Prophet,Pop/Rock
+125465,Barclay James Harvest,Pop/Rock
+125506,Jagged Edge,R&B;
+125528,Laid Back,Pop/Rock
+125561,Cinderella,Pop/Rock
+125569,Chuckii Booker,R&B;
+125822,Exodus,Pop/Rock
+125829,Coralie ClÃ©ment,Pop/Rock
+125940,El Gran Silencio,Latin
+126048,The Fabulous Thunderbirds,Pop/Rock
+126144,Chuck Willis,R&B;
+126168,Christina Milian,R&B;
+126287,Richard Swift,Pop/Rock
+126731,The Disco Biscuits,Pop/Rock
+126782,Lambchop,Pop/Rock
+126862,Jaguares,Latin
+126903,Cindy Walker,Country
+127063,Bell Biv DeVoe,R&B;
+127301,Lamb,Electronic
+127337,Be Bop Deluxe,Pop/Rock
+127360,Everything But the Girl,Pop/Rock
+127369,Ahmad Jamal,Jazz
+127451,Jackie DeShannon,Pop/Rock
+127696,Lalah Hathaway,R&B;
+127766,Jackie Paris,Vocal
+127889,BeBe Winans,Religious
+127898,Eyeless in Gaza,Pop/Rock
+127949,Jackie McLean,Jazz
+128099,James Brown,R&B;
+128141,Cranes,Pop/Rock
+128143,Trey Songz,R&B;
+128231,Jack Wagner,Pop/Rock
+128244,The Beloved,Pop/Rock
+128249,Eydie Gorme,Vocal
+128266,Country Joe & the Fish,Pop/Rock
+128290,The Dirty Dozen Brass Band,Jazz
+128440,Duran Duran,Pop/Rock
+128495,Counting Crows,Pop/Rock
+128585,Jackie Mittoo,Reggae
+128873,Jack White,Pop/Rock
+128881,Dirty South,Unknown
+129254,The Grascals,Country
+129308,The Durutti Column,Pop/Rock
+129430,Cluster,Electronic
+129547,Clarence "Gatemouth" Brown,Blues
+129551,Crossfade,Pop/Rock
+129591,Clarence "Frogman" Henry,R&B;
+129637,Crass,Pop/Rock
+129761,Jimmy Webb,Pop/Rock
+129775,Parliament,R&B;
+129778,Tony Scott,Unknown
+129817,Shabba Ranks,Reggae
+129945,Larry Gatlin,Country
+130028,Freddie Mercury,Pop/Rock
+130036,"Crosby, Stills, Nash & Young",Pop/Rock
+130037,Cross Canadian Ragweed,Country
+130115,Jackson C. Frank,Folk
+130173,Crowded House,Pop/Rock
+130402,Larry Graham,R&B;
+130418,Spragga Benz,Reggae
+130425,Shadow Wilson,Unknown
+130552,Tal Bachman,Pop/Rock
+130686,Jacky Terrasson,Jazz
+130689,Jackson Browne,Pop/Rock
+130764,Face to Face,Pop/Rock
+130855,Tony Rice,Country
+130922,Jai Uttal,New Age
+130932,Crazy Horse,Pop/Rock
+131029,Jam & Spoon,Unknown
+131038,Spoon,Pop/Rock
+131178,James Burton,Country
+131285,Country Joe McDonald,Unknown
+131581,"Crosby, Stills & Nash",Pop/Rock
+131603,Squirrel Nut Zippers,Pop/Rock
+131624,Larry Levan,R&B;
+131627,Creedence Clearwater Revival,Pop/Rock
+131650,Talking Heads,Pop/Rock
+131681,Pat Boone,Vocal
+131841,James Cotton,Blues
+131866,Sean Garrett,Unknown
+132095,Crucifix,Pop/Rock
+132449,Crystal Gayle,Country
+132579,Larry Norman,Religious
+132710,Crime & the City Solution,Pop/Rock
+132849,Crystal Lewis,Religious
+132856,Crystal Waters,R&B;
+132940,Lata Mangeshkar,International
+133057,Jo Dee Messina,Country
+133119,Thad Jones,Jazz
+133177,Tamar Braxton,R&B;
+133420,Dwarves,Pop/Rock
+133528,Jo Jo Gunne,Pop/Rock
+133719,Fatboy Slim,Electronic
+133832,Clark Terry,Jazz
+133883,Cristian Castro,Latin
+133957,Jamelia,Pop/Rock
+133969,Joan Armatrading,Pop/Rock
+133988,Clint Mansell,Stage & Screen
+134051,Elbow,Pop/Rock
+134600,D'Angelo,R&B;
+134729,Faith No More,Pop/Rock
+134761,Pat Green,Country
+135024,Larry Williams,R&B;
+135032,The Beau Brummels,Pop/Rock
+135054,Joan Jett & the Blackhearts,Pop/Rock
+135059,Classics IV,Pop/Rock
+135152,Jodeci,R&B;
+135273,"Earth, Wind & Fire",R&B;
+135378,James Booker,Blues
+135391,Benny Golson,Jazz
+135494,James & Bobby Purify,Unknown
+135543,The Electric Prunes,Pop/Rock
+135740,Midlake,Pop/Rock
+136075,The Crusaders,Jazz
+136124,The Crystal Method,Electronic
+136640,Tammy Wynette,Country
+136871,The Doobie Brothers,Pop/Rock
+137084,Jody Watley,R&B;
+137137,Eddie "Cleanhead" Vinson,Jazz
+137390,The Cure,Pop/Rock
+137401,The Cyrkle,Pop/Rock
+137430,The Cover Girls,R&B;
+137474,Laura Nyro,Pop/Rock
+137494,Fats Domino,R&B;
+137580,The Cramps,Pop/Rock
+137904,Fefe Dobson,Pop/Rock
+137980,The Creatures,Pop/Rock
+138063,Barrington Levy,Reggae
+138071,The Dresden Dolls,Pop/Rock
+138235,Laura Pausini,Pop/Rock
+138271,Cursive,Pop/Rock
+138332,The Crystals,R&B;
+138335,Dobie Gray,R&B;
+138407,The Dramatics,R&B;
+138520,The Damned,Pop/Rock
+138560,Frankie Carle,Jazz
+138699,Frank Zappa,Pop/Rock
+138833,Fela Kuti,International
+138837,Joe Liggins,Blues
+139026,Led Zeppelin,Pop/Rock
+139089,Barenaked Ladies,Pop/Rock
+139212,BarlowGirl,Pop/Rock
+139475,JoÃ£o Bosco,Latin
+139566,Curtis Fuller,Jazz
+139655,Laura Branigan,Pop/Rock
+139709,The Country Gentlemen,Country
+139741,Frankie Goes to Hollywood,Pop/Rock
+139804,Joe Henderson,Jazz
+139908,The Cult,Pop/Rock
+139933,Frankie Lymon,R&B;
+140176,Eddie Fisher,Vocal
+140499,Cocteau Twins,Pop/Rock
+140521,The Crew Cuts,Pop/Rock
+140553,Lecuona Cuban Boys,Latin
+140689,Dead Boys,Pop/Rock
+140816,Eddie Hazel,R&B;
+140963,Frankie Yankovic,Unknown
+141256,Joe Maphis,Country
+141681,Dokken,Pop/Rock
+141683,The Darkness,Pop/Rock
+141774,Curtis Stigers,Jazz
+141838,Eddie Money,Pop/Rock
+141893,Cut Copy,Pop/Rock
+142050,Carlene Carter,Country
+142178,Frankie Laine,Vocal
+142208,Eddie Murphy,Comedy/Spoken
+142249,Basement Jaxx,Electronic
+142652,D.O.A.,Pop/Rock
+142767,The Dave Brubeck Quartet,Jazz
+142963,The Dukes of Stratosphear,Pop/Rock
+143224,D.L. Menard,Unknown
+143367,The Duprees,R&B;
+143490,Cusco,New Age
+143494,The Dubliners,International
+143559,JoaquÃ­n Sabina,Latin
+143749,fIREHOSE,Pop/Rock
+143781,The Del Fuegos,Pop/Rock
+143951,Faron Young,Country
+144349,Ed Bruce,Country
+144458,Curtis Mayfield,R&B;
+144538,Curved Air,Pop/Rock
+144629,Fever Tree,Pop/Rock
+144767,Bassnectar,Unknown
+144847,Eagles,Pop/Rock
+145086,The Easybeats,Pop/Rock
+145128,Echo & the Bunnymen,Pop/Rock
+145443,Fito Olivares,Latin
+145489,Carl Allen,Jazz
+145543,Eddie Safranski,Jazz
+146088,The Easy Riders,Folk
+146354,The Del McCoury Band,Country
+146478,Bang Tango,Pop/Rock
+146490,Fastball,Pop/Rock
+146544,Eddie Van Halen,Pop/Rock
+146551,Cybotron,Electronic
+146748,Le Orme,Unknown
+146755,Cutting Crew,Pop/Rock
+146796,The Deele,R&B;
+147082,James Ingram,R&B;
+147200,The Dells,R&B;
+147245,Duke Jordan,Jazz
+147294,Cymande,R&B;
+147306,Eddy Raven,Country
+147316,Le Tigre,Pop/Rock
+147468,Clay Aiken,Pop/Rock
+147481,Fila Brazillia,Electronic
+147635,Carly Simon,Pop/Rock
+147638,Edgar Froese,Electronic
+147771,Cutty Ranks,Reggae
+147785,Eve 6,Pop/Rock
+148004,Dirty Projectors,Pop/Rock
+148227,Anthony Green,Pop/Rock
+148305,Fred Hammond,Religious
+148355,Egg,Pop/Rock
+148477,Clarence Carter,R&B;
+149044,Barry White,R&B;
+149102,The Distillers,Pop/Rock
+149166,Carolyn Hester,Folk
+149173,Carter Burwell,Stage & Screen
+149515,Joe Cocker,Pop/Rock
+149840,Catherine Wheel,Pop/Rock
+149946,Donald Byrd,Jazz
+149973,Barbara Lynn,R&B;
+150048,Enigma,Electronic
+150062,Earl Hooker,Blues
+150181,Leaf Hound,Pop/Rock
+150530,James Horner,Stage & Screen
+150629,Ã‰dith Piaf,Vocal
+150998,Tosca,Unknown
+151240,Earl Klugh,Jazz
+151290,BÃ©la Fleck,Jazz
+151431,Roger Miller,Country
+151469,Earl King,R&B;
+151504,Bayside,Pop/Rock
+151549,Belinda Carlisle,Pop/Rock
+151666,Julian Bream,Classical
+151769,Carnage,Unknown
+151787,Bathory,Pop/Rock
+151979,Bay City Rollers,Pop/Rock
+151988,Frank Reyes,Latin
+152002,Joe Ely,Country
+152023,Everclear,Pop/Rock
+152228,Club Nouveau,R&B;
+152312,Jack Bruce,Pop/Rock
+152384,ExposÃ©,Pop/Rock
+152973,BeBe & CeCe Winans,Religious
+153103,Donald Fagen,Pop/Rock
+153129,Grayson Hugh,R&B;
+153503,Gary Peacock,Jazz
+153519,Earl Scruggs,Country
+153526,Cliff Richard,Pop/Rock
+153590,Graham Nash,Pop/Rock
+153630,Frente!,Pop/Rock
+153915,Duncan Sheik,Pop/Rock
+153933,Geddy Lee,Pop/Rock
+154297,Anna Nalick,Pop/Rock
+154417,Clutch,Pop/Rock
+154530,Beat Happening,Pop/Rock
+154533,Ewan MacColl,Folk
+154544,Green Day,Pop/Rock
+154548,Eric Burdon,Pop/Rock
+154765,Sha Na Na,Unknown
+154822,Ekoostik Hookah,Pop/Rock
+154998,Bauhaus,Pop/Rock
+155091,Every Time I Die,Pop/Rock
+155170,Passion,Religious
+155563,Take 6,Religious
+155801,Flo & Eddie,Pop/Rock
+156043,Discharge,Pop/Rock
+156122,Fozzy,Pop/Rock
+156484,Sponge,Pop/Rock
+156749,Eric Heatherly,Country
+156886,Spyro Gyra,Jazz
+156938,Shaggy,Reggae
+156950,Chad Brock,Country
+157063,Greg Phillinganes,R&B;
+157377,Ottmar Liebert,New Age
+158018,Dope,Pop/Rock
+158309,Pat Benatar,Pop/Rock
+158540,Gavin DeGraw,Pop/Rock
+158656,Taking Back Sunday,Pop/Rock
+158717,DÃ³ris Monteiro,Latin
+158765,Gavin Friday,Pop/Rock
+158849,Squarepusher,Electronic
+158888,Gas,Electronic
+159214,Dusty Springfield,Pop/Rock
+159312,Bebo Norman,Religious
+159340,Dwele,R&B;
+159406,Franco,International
+159410,Further Seems Forever,Pop/Rock
+159433,Take That,Pop/Rock
+159655,Shadows Fall,Pop/Rock
+159699,Emmylou Harris,Country
+159791,Toots Thielemans,Jazz
+160054,Sham 69,Pop/Rock
+160198,Gene Ammons,Jazz
+160428,Clint Eastwood,Reggae
+160638,Enchantment,R&B;
+160690,En Vogue,R&B;
+160742,Stacey Kent,Vocal
+160848,Gregory Isaacs,Reggae
+161173,Bebo ValdÃ©s,Latin
+161351,Gov't Mule,Pop/Rock
+161436,Chaka Demus & Pliers,Reggae
+161637,Frank Foster,Jazz
+161808,Shania Twain,Country
+161830,Tamba Trio,Latin
+161920,Grace Jones,R&B;
+162197,Ben Folds,Pop/Rock
+162233,Fairport Convention,Pop/Rock
+162265,Franco De Vita,Latin
+162269,Faith Hill,Country
+162487,Dixie Chicks,Country
+162677,Dizzy Gillespie,Jazz
+162794,Shankar,International
+162820,Gene Chandler,R&B;
+162930,Eartha Kitt,Vocal
+162943,Cass McCombs,Pop/Rock
+163059,Electric Six,Pop/Rock
+163198,Carl Smith,Country
+163213,Tweet,R&B;
+163229,Electric Light Orchestra,Pop/Rock
+163256,Feargal Sharkey,Unknown
+163386,Exhorder,Pop/Rock
+163420,G. Love & Special Sauce,Pop/Rock
+163435,Bebel Gilberto,Latin
+163570,Ben Lee,Pop/Rock
+163577,Doug Kershaw,Country
+163835,Manos Hadjidakis,Stage & Screen
+163977,Shannon,R&B;
+164053,Faith Evans,R&B;
+164093,Tammi Terrell,R&B;
+164175,Electric Wizard,Pop/Rock
+164189,Cast,Pop/Rock
+164504,Dream Evil,Pop/Rock
+164594,Ben E. King,R&B;
+164686,Ben Folds Five,Pop/Rock
+164750,Garland Jeffreys,Pop/Rock
+165011,Dionne Warwick,R&B;
+165068,Garnett Silk,Reggae
+165076,Stacey Q,Pop/Rock
+165077,Stacie Orrico,Religious
+165117,Tamia,R&B;
+165162,Gentle Giant,Pop/Rock
+165294,Chapterhouse,Pop/Rock
+165345,ChantÃ© Moore,R&B;
+165354,Franke & the Knockouts,Pop/Rock
+165652,Eagles of Death Metal,Pop/Rock
+165663,Twisted Sister,Pop/Rock
+165736,Eddie & the Hot Rods,Pop/Rock
+165818,Charley Pride,Country
+165830,Cocoa Tea,Reggae
+165855,Frankie Avalon,Pop/Rock
+166025,Eddie "Lockjaw" Davis,Jazz
+166033,Elvis Crespo,Latin
+166291,Eagle-Eye Cherry,Pop/Rock
+166383,Djivan Gasparyan,International
+166505,Feist,Pop/Rock
+166658,Hum,Pop/Rock
+166767,Charlie Barnet,Jazz
+166785,Dan Fogelberg,Pop/Rock
+167220,Djavan,Latin
+167287,Frank Black,Pop/Rock
+167296,Caravan,Pop/Rock
+167320,Fear Factory,Pop/Rock
+167361,Dru Hill,R&B;
+167386,ESG,R&B;
+167399,Marvin Hamlisch,Stage & Screen
+167517,Dire Straits,Pop/Rock
+167762,Drowning Pool,Pop/Rock
+168110,Downset,Pop/Rock
+168126,Ben Kweller,Pop/Rock
+168246,Lukas Foss,Unknown
+168256,Eva Cassidy,Pop/Rock
+168958,Eddie Floyd,R&B;
+168993,Elf,Pop/Rock
+169088,Dr. Buzzard's Original Savannah Band,R&B;
+169099,Lush,Pop/Rock
+169124,Eddie Harris,Jazz
+169189,Down,Pop/Rock
+169202,Doc Watson,Folk
+169228,Dionne Farris,R&B;
+169239,Felix da Housecat,Electronic
+169317,Carnivore,Pop/Rock
+169480,Eddie Griffin,Unknown
+169526,Frankie Paul,Reggae
+169536,Ferlin Husky,Country
+169578,Frankie Ruiz,Latin
+169795,Fiona Apple,Pop/Rock
+169818,Carl Thomas,R&B;
+169856,Luther Allison,Blues
+169948,Eddie Henderson,Jazz
+170211,Eddie Kendricks,R&B;
+170214,Ferrante & Teicher,Easy Listening
+170228,Tygers of Pan Tang,Pop/Rock
+170330,Franz Waxman,Stage & Screen
+170369,Lynyrd Skynyrd,Pop/Rock
+170381,Europe,Pop/Rock
+170454,Carla Thomas,R&B;
+170625,Eddie Holland,Unknown
+170688,Vic Dickenson,Unknown
+170690,Erskine Hawkins,Jazz
+170758,Finley Quaye,Pop/Rock
+170770,Erykah Badu,R&B;
+170815,Fred Neil,Folk
+170879,Fall Out Boy,Pop/Rock
+171015,Lyle Mays,Jazz
+171150,Lydia Lunch,Pop/Rock
+171220,Eliane Elias,Jazz
+171637,Duane Eddy,Pop/Rock
+171693,Victor Jara,Folk
+171726,Eddie Santiago,Latin
+171728,Ethel Merman,Vocal
+171854,Easy Star All-Stars,Reggae
+171889,Elephant Man,Reggae
+171994,Joe South,Pop/Rock
+172041,Joe Strummer,Pop/Rock
+172167,Elliott Smith,Pop/Rock
+172205,Dodgy,Pop/Rock
+172350,Don Byas,Jazz
+172582,Franz Ferdinand,Pop/Rock
+172612,Eddie Palmieri,Latin
+172642,Joe Mooney,Vocal
+172770,Carl Butler,Country
+172772,Ed Ames,Vocal
+173007,Frank Morgan,Jazz
+173487,Joey Ramone,Pop/Rock
+173647,Firefall,Pop/Rock
+173988,Rita Marley,Reggae
+174007,Ugly Kid Joe,Pop/Rock
+174122,Lyle Lovett,Pop/Rock
+174132,Tuxedomoon,Pop/Rock
+174198,Edwin McCain,Pop/Rock
+174506,James Spaulding,Jazz
+174557,Carole King,Pop/Rock
+174752,Eels,Pop/Rock
+174822,Serge Gainsbourg,Pop/Rock
+175025,Eddie Vedder,Pop/Rock
+175049,Firehouse,Pop/Rock
+175087,Elmer Bernstein,Stage & Screen
+175196,Carlos Santana,Pop/Rock
+175286,Dolly Parton,Country
+175291,Elmo & Patsy,Unknown
+175379,Unearth,Pop/Rock
+175459,Dispatch,Pop/Rock
+175525,M83,Pop/Rock
+175530,Fields of the Nephilim,Unknown
+175538,First Choice,R&B;
+175553,John Coltrane,Jazz
+175579,Disturbed,Pop/Rock
+175708,Ry Cooder,Pop/Rock
+175775,Eek-A-Mouse,Reggae
+175992,Rise Against,Pop/Rock
+176083,Ruth Cameron,Jazz
+176148,Riders in the Sky,Country
+176256,Elisa,Pop/Rock
+176332,Right Said Fred,Pop/Rock
+176358,Jamiroquai,R&B;
+176360,Charlie Robison,Country
+176859,Joe Zawinul,Jazz
+176936,Elmore James,Blues
+177060,Janis Joplin,Pop/Rock
+177117,Faster Pussycat,Pop/Rock
+177336,August Burns Red,Pop/Rock
+177372,Don Chezina,Latin
+177454,M People,Electronic
+177588,Jon Hassell,New Age
+177856,Carlos Ponce,Latin
+177957,Don Carlos,Reggae
+178014,U-Roy,Reggae
+178051,Fischerspooner,Electronic
+178122,Filter,Pop/Rock
+178135,The Edwin Hawkins Singers,Religious
+178143,Eloy,Pop/Rock
+178166,Elizabeth Fraser,Unknown
+178301,Fat Freddy's Drop,Electronic
+178345,Jane Child,Pop/Rock
+178371,Egg Hunt,Pop/Rock
+178536,Edgar Winter,Pop/Rock
+178549,The Edge,Pop/Rock
+178621,Ultra Vivid Scene,Pop/Rock
+178645,Altered Images,Pop/Rock
+178654,Pat Metheny Group,Jazz
+178750,Stacy Lattisaw,R&B;
+178799,Staind,Pop/Rock
+178889,Alton Ellis,Reggae
+178906,Jawbox,Pop/Rock
+179105,Fred Eaglesmith,Folk
+179126,David Gates,Pop/Rock
+179191,Edie Brickell,Pop/Rock
+179205,Don McLean,Pop/Rock
+179335,Flaco JimÃ©nez,Latin
+179379,Elvin Jones,Jazz
+179636,Jason Becker,Pop/Rock
+179698,Pat Metheny,Jazz
+179714,Eileen Farrell,Classical
+179730,Charlie Rich,Country
+179764,Fontella Bass,R&B;
+180023,Tortoise,Pop/Rock
+180228,Elvis Presley,Pop/Rock
+180263,Flamin' Groovies,Pop/Rock
+180449,Freddie Jackson,R&B;
+180503,Graham Parker & the Rumour,Pop/Rock
+180516,Dave Grohl,Pop/Rock
+181124,Edith MÃ¡rquez,Unknown
+181321,Graham Parker,Pop/Rock
+181329,David Johansen,Pop/Rock
+181376,UB40,Pop/Rock
+181694,Carmen Miranda,Vocal
+181719,Flaw,Pop/Rock
+181817,Caron Wheeler,R&B;
+182302,Ray LaMontagne,Pop/Rock
+182360,Donny Hathaway,R&B;
+182598,MC5,Pop/Rock
+182884,Jason Donovan,Pop/Rock
+182900,Fleetwood Mac,Pop/Rock
+183139,David Sylvian,Pop/Rock
+183311,Fine Young Cannibals,Pop/Rock
+183699,DÃ³nal Lunny,International
+183715,The Fugitives,Pop/Rock
+183777,John Cafferty,Pop/Rock
+183858,Gary Numan,Pop/Rock
+183867,John Cage,Classical
+184043,Foo Fighters,Pop/Rock
+184091,Don Henley,Pop/Rock
+184187,Gabor Szabo,Jazz
+184199,Emerson Drive,Country
+184208,Great Big Sea,International
+184267,U.K. Subs,Pop/Rock
+184406,Donald Harrison,Jazz
+184451,Greater Vision,Religious
+184471,Unsane,Pop/Rock
+184502,Ella Fitzgerald,Vocal
+184637,Flora Purim,Latin
+184677,Eric Prydz,Electronic
+184811,Erasure,Pop/Rock
+184814,Don Gibson,Country
+185018,Finch,Pop/Rock
+185155,Maceo Parker,R&B;
+185383,French Kicks,Pop/Rock
+185440,David Lanz,New Age
+185543,Green Jelly,Pop/Rock
+185591,Arcade Fire,Pop/Rock
+185615,Gary Stewart,Country
+185617,Fun Boy Three,Pop/Rock
+185669,Mac Davis,Country
+185810,John Foxx,Pop/Rock
+185948,Carmen McRae,Vocal
+185999,Voodoo Glow Skulls,Pop/Rock
+186096,Voivod,Pop/Rock
+186125,Mac McAnally,Country
+186185,CÃ©line Dion,Pop/Rock
+186312,Celia Cruz,Latin
+186390,Donny Osmond,Pop/Rock
+186440,Deadsy,Pop/Rock
+186481,Dos,Pop/Rock
+186545,Mae,Pop/Rock
+186594,FranÃ§oise Hardy,Pop/Rock
+186734,Freddie King,Blues
+186805,Eric Carmen,Pop/Rock
+186927,Harold Budd,Avant-Garde
+187162,Flipper,Pop/Rock
+187172,Flogging Molly,Pop/Rock
+187413,Gary Wilson,Pop/Rock
+187422,Funeral for a Friend,Pop/Rock
+187478,Eric Clapton,Pop/Rock
+187581,Funkadelic,R&B;
+187907,Don Omar,Latin
+188190,Unwound,Pop/Rock
+188202,Don Lamond,Jazz
+188206,Floetry,R&B;
+188261,Eric Johnson,Pop/Rock
+188342,Freddy Fender,Country
+188432,David Sanborn,Jazz
+188467,John Parr,Pop/Rock
+188697,Foxy Brown,Reggae
+188809,Eric Serra,Stage & Screen
+188843,Dori Caymmi,Latin
+188981,Francis Lai,Unknown
+189229,Lee Roy Parnell,Country
+189641,Jean-Jacques Perrey,Electronic
+189644,Doris Day,Vocal
+189678,Galaxie 500,Pop/Rock
+189701,Jean Shepard,Country
+189831,John Taylor,Jazz
+189848,Frank Butler,Jazz
+190012,John Tesh,New Age
+190021,John Holt,Reggae
+190235,Mad Cobra,Reggae
+190531,Frederick Knight,R&B;
+190550,Eric Tingstad,Unknown
+190632,Dottie West,Country
+190843,LeftÃ¶ver Crack,Pop/Rock
+190888,Jeff Lorber,Jazz
+190946,Lefty Frizzell,Country
+191063,Celtic Frost,Pop/Rock
+191070,Wang Chung,Pop/Rock
+191175,Wall of Voodoo,Pop/Rock
+191429,Magic Sam,Blues
+191680,Gato Barbieri,Jazz
+191699,Gal Costa,Latin
+191947,War,R&B;
+191983,Galactic,Pop/Rock
+192260,John Klemmer,Jazz
+192338,Madball,Pop/Rock
+192382,Deep Purple,Pop/Rock
+192840,John Travolta,Pop/Rock
+192925,John Renbourn,Folk
+193025,Gregory Abbott,R&B;
+193160,The Maddox Brothers & Rose,Country
+193216,Free,Pop/Rock
+193231,Gang of Four,Pop/Rock
+193305,Cassie,R&B;
+193320,Def Leppard,Pop/Rock
+193342,Emperor,Pop/Rock
+193444,Cassius,Electronic
+193594,Madeleine Peyroux,Vocal
+193802,Warne Marsh,Jazz
+193963,Warrant,Pop/Rock
+194008,Deicide,Pop/Rock
+194018,Del Shannon,Pop/Rock
+194036,Gene Clark,Pop/Rock
+194039,Geggy Tah,Pop/Rock
+194063,Lee Ann Womack,Country
+194246,Garbage,Pop/Rock
+194380,Emmanuel,Latin
+194578,Gang Green,Pop/Rock
+194703,The Flying Burrito Brothers,Pop/Rock
+194743,Grace Slick,Pop/Rock
+195237,Delaney & Bonnie,Pop/Rock
+195305,Focus,Pop/Rock
+195368,Dorothy Norwood,Religious
+195373,CesÃ¡ria Ã‰vora,International
+195634,Dazz Band,R&B;
+195874,Madness,Pop/Rock
+196200,Dorothy Loudon,Vocal
+196248,Don Williams,Country
+196254,The Flying Luttenbachers,Jazz
+196370,Freestyle,Electronic
+196544,Della Reese,Vocal
+196690,Lee Greenwood,Country
+196969,John Martyn,Folk
+196976,Gretchen Wilson,Country
+197040,Champion Jack Dupree,Blues
+197364,David Byrne,Pop/Rock
+197424,Vicente FernÃ¡ndez,Latin
+197460,Cassandra Wilson,Vocal
+197475,Gene Loves Jezebel,Pop/Rock
+197532,Charles TrÃ©net,Vocal
+197582,Dee Clark,R&B;
+197757,Warren Haynes,Pop/Rock
+197921,The English Beat,Pop/Rock
+198162,Johnnie Taylor,R&B;
+198302,The Dream Syndicate,Pop/Rock
+198426,Changing Faces,R&B;
+198532,Doug Sahm,Pop/Rock
+198783,Johnny Horton,Country
+198901,Webb Pierce,Country
+198922,Esquerita,Pop/Rock
+199089,Halifax,Pop/Rock
+199090,Denise LaSalle,Blues
+199194,Dougie MacLean,Folk
+199229,Johnny Bond,Country
+199369,Cat Anderson,Jazz
+199917,Chantal Kreviazuk,Easy Listening
+199995,Genesis,Pop/Rock
+200074,Lenny Kravitz,Pop/Rock
+200322,Johnny "Hammond" Smith,Jazz
+200448,Erma Franklin,R&B;
+200775,Ernest Tubb,Country
+200777,Ernestine Anderson,Vocal
+200791,Waylon Jennings,Country
+200882,Gene Pitney,Pop/Rock
+200968,Gene Simmons,Pop/Rock
+201022,Lenny Welch,Pop/Rock
+201297,Foghat,Pop/Rock
+201593,Destruction,Pop/Rock
+201667,Vickie Winans,Religious
+201668,Drive-By Truckers,Pop/Rock
+201678,Vince Guaraldi,Jazz
+201716,Ty Herndon,Country
+201760,George Benson,Jazz
+201958,General Public,Pop/Rock
+201983,Westlife,Pop/Rock
+202033,Tony Trischka,Country
+202084,Nouvelle Vague,Pop/Rock
+202089,Charles & Eddie,R&B;
+202162,Derek Trucks,Pop/Rock
+202187,Ernest Ranglin,Reggae
+202344,Vicki Sue Robinson,R&B;
+202545,Generation X,Pop/Rock
+202554,Johnny Mandel,Jazz
+203008,Rush,Pop/Rock
+203592,Max Richter,Classical
+203639,Johnny Rivers,Pop/Rock
+203670,VerÃ³nica Castro,Latin
+203695,Luscious Jackson,Pop/Rock
+203710,Tubeway Army,Unknown
+203711,Tuck & Patti,Jazz
+203764,Wet,Pop/Rock
+203765,Wet Wet Wet,Pop/Rock
+203804,Victor Borge,Comedy/Spoken
+204386,James Taylor,Pop/Rock
+204708,Dr. Feelgood,Pop/Rock
+204714,Johnny Shines,Blues
+204847,Wheatus,Pop/Rock
+204850,Charles Earland,Jazz
+204901,Sarah Vaughan,Vocal
+204968,Charlie Byrd,Jazz
+205180,Dr. John,Pop/Rock
+205254,Vic Damone,Vocal
+205442,Amy Millan,Pop/Rock
+205520,Tullycraft,Pop/Rock
+205627,Charlie Chaplin,Reggae
+205838,DragonForce,Pop/Rock
+205959,Tycho,Electronic
+206167,Dramarama,Pop/Rock
+206241,Eurythmics,Pop/Rock
+206407,Descendents,Pop/Rock
+206465,Type O Negative,Pop/Rock
+206538,Charles Lloyd,Jazz
+206658,Werly Fairburn,Pop/Rock
+206668,Des'ree,R&B;
+206967,Erroll Garner,Jazz
+207127,Ricky Van Shelton,Country
+207290,DeVotchKa,Pop/Rock
+207360,Dub Pistols,Electronic
+207644,The Charlie Daniels Band,Country
+207735,Charlie Feathers,Pop/Rock
+208076,Luther Vandross,R&B;
+208303,Jane Siberry,Pop/Rock
+208404,Dexter Gordon,Jazz
+208582,Lesley Gore,Pop/Rock
+208774,Janet Jackson,R&B;
+208893,Vetiver,Pop/Rock
+208997,Rita Coolidge,Pop/Rock
+209019,Drake Bell,Pop/Rock
+209142,George Harrison,Pop/Rock
+209517,Wilbert Harrison,R&B;
+209773,Joe Pass,Jazz
+210142,Lou Ann Barton,Blues
+210143,Lou Bega,Pop/Rock
+210276,Wesley Willis,Pop/Rock
+210323,Joe Tex,R&B;
+210425,Johnny Thunders & the Heartbreakers,Pop/Rock
+210430,Los Tres,Unknown
+210512,Janie Fricke,Country
+210757,Johnny Guarnieri,Jazz
+210830,Jamie Foxx,R&B;
+210991,Destiny's Child,R&B;
+211095,UnderÃ¸ath,Pop/Rock
+211146,David Lindley,Pop/Rock
+211197,Dick Gregory,Comedy/Spoken
+211424,Dick Hyman,Jazz
+211435,White Noise,Unknown
+211483,Charlie Haden,Jazz
+211570,Dianne Reeves,Vocal
+211578,Jamie Cullum,Pop/Rock
+211758,Charlie Parker,Jazz
+212006,Ricochet,Country
+212129,Charlie Palmieri,Latin
+212131,Ride,Pop/Rock
+212200,Jon Hendricks,Vocal
+212612,Johnny Hartman,Vocal
+212614,Deodato,Latin
+212810,Russ Taff,Religious
+213165,Jan & Dean,Pop/Rock
+213212,Janis Ian,Pop/Rock
+213273,Joey McIntyre,Pop/Rock
+213510,Johnny Griffin,Jazz
+213561,David Guetta,Electronic
+213590,Joe Williams,Vocal
+213921,Less Than Jake,Pop/Rock
+214162,Vince Gill,Country
+214383,U.K.,Pop/Rock
+214546,John Abercrombie,Jazz
+214580,Dimmu Borgir,Pop/Rock
+214593,David Gray,Pop/Rock
+215041,The Jon Spencer Blues Explosion,Pop/Rock
+215058,Jars of Clay,Pop/Rock
+215296,Rilo Kiley,Pop/Rock
+215513,Ciara,R&B;
+215803,Violeta Parra,Unknown
+215997,Carla Bruni,Pop/Rock
+216212,John Cooper Clarke,Pop/Rock
+216294,John Coltrane Quartet,Jazz
+216348,Javier SolÃ­s,Latin
+216586,John Conlee,Country
+216846,Jane Birkin,Pop/Rock
+216986,David Morales,Electronic
+217344,Dido,Pop/Rock
+217622,Japan,Pop/Rock
+217641,M. Ward,Pop/Rock
+217792,Ringo Starr,Pop/Rock
+217963,John D. Loudermilk,Pop/Rock
+217994,Life Without Buildings,Pop/Rock
+218473,Umphrey's McGee,Pop/Rock
+218709,Jonathan Butler,Jazz
+218885,Horace Andy,Reggae
+218994,John Anderson,Country
+219021,Luiz BonfÃ¡,Latin
+219203,U2,Pop/Rock
+219243,VinÃ­cius de Moraes,Latin
+219287,Jane Olivor,Vocal
+219334,I-Roy,Reggae
+219428,Uncle Kracker,Pop/Rock
+219483,Dinosaur Jr.,Pop/Rock
+219655,Little River Band,Pop/Rock
+219966,Vision of Disorder,Pop/Rock
+220024,Vitalic,Electronic
+220312,Jorge Negrete,Latin
+220403,Hombres G,Latin
+220946,David Houston,Country
+220967,Hortense Ellis,Unknown
+221059,Jason Mraz,Pop/Rock
+221426,Hot Action Cop,Pop/Rock
+221445,Machine Head,Pop/Rock
+221603,John Hartford,Country
+221660,John Handy,Jazz
+221684,John Carpenter,Unknown
+221803,UNKLE,Electronic
+221844,Rusted Root,Pop/Rock
+221894,MFSB,R&B;
+222153,Hot Hot Heat,Pop/Rock
+222351,Dead Moon,Pop/Rock
+222387,M.I.A.,Pop/Rock
+222436,David Lee Roth,Pop/Rock
+222601,Hot Rize,Country
+222748,Vixen,Pop/Rock
+222927,Uncle Tupelo,Pop/Rock
+222959,MC 900 Ft. Jesus,Pop/Rock
+222974,MDC,Pop/Rock
+223054,John Fahey,Folk
+223197,Hot Water Music,Pop/Rock
+223523,Dead Meadow,Pop/Rock
+223627,John Frusciante,Pop/Rock
+223683,Machel Montano,Reggae
+223701,John McLaughlin,Jazz
+223861,Bloc Party,Pop/Rock
+224186,John Mellencamp,Pop/Rock
+224294,John Fogerty,Pop/Rock
+224345,Vitamin C,Pop/Rock
+224638,John Cale,Pop/Rock
+224925,Joseph Arthur,Pop/Rock
+225178,Jeff Golub,Unknown
+225309,Dee Dee Warwick,Unknown
+225389,Jay McShann,Jazz
+225607,Lizz Wright,Jazz
+225690,Jeff Foxworthy,Comedy/Spoken
+225754,Hound Dog Taylor,Blues
+225930,Liz Phair,Pop/Rock
+225944,Shadow,International
+225948,Dead Can Dance,Pop/Rock
+226331,John Entwistle,Pop/Rock
+226380,Lee Morgan,Jazz
+226420,Vivian Green,R&B;
+226556,Dead or Alive,Pop/Rock
+226908,Big John Patton,Jazz
+227088,Deana Carter,Country
+227487,John Gorka,Folk
+227527,Flatt & Scruggs,Country
+227697,Robbie Williams,Pop/Rock
+227708,Walter Hawkins,Religious
+227776,Lee Konitz,Jazz
+228058,Lonnie Liston Smith,Jazz
+228087,Zoot Sims,Jazz
+228099,Howard Jones,Pop/Rock
+228180,Howard Huntsberry,R&B;
+228266,Jeff Lynne,Pop/Rock
+228299,Jean-Luc Ponty,Jazz
+228323,Death,Pop/Rock
+228371,Death in June,Pop/Rock
+228444,Lee Ritenour,Jazz
+228714,Mario Lanza,Vocal
+228889,Jobriath,Pop/Rock
+229157,Magazine,Pop/Rock
+230105,Howard Stern,Comedy/Spoken
+230111,David Wilcox,Folk
+230244,Local H,Pop/Rock
+230297,Walk the Moon,Pop/Rock
+230478,Walter Wanderley,Unknown
+230667,Zucchero,Pop/Rock
+230784,Lord Creator,Reggae
+230845,Death Angel,Pop/Rock
+230886,Roaring Lion,International
+230963,John P. Kee,Religious
+231013,Marisela,Latin
+231225,The Wannadies,Pop/Rock
+231342,Deee-Lite,Pop/Rock
+231397,Lil' Mo,R&B;
+231645,Jean Ritchie,Folk
+232480,John Williams,Stage & Screen
+232564,John Lennon,Pop/Rock
+232598,Days of the New,Pop/Rock
+232701,Jeannie C. Riley,Country
+232869,Macy Gray,R&B;
+233035,Debbie Reynolds,Vocal
+233066,Lou Reed,Pop/Rock
+233136,Josh Ritter,Pop/Rock
+233147,Howie Day,Pop/Rock
+233228,Lou Rawls,R&B;
+233300,Hugh Mundell,Reggae
+233862,Mahavishnu Orchestra,Jazz
+234192,John Kay,Pop/Rock
+234325,Loretta Lynn,Country
+234374,Hubert Laws,Jazz
+234488,Del McCoury,Country
+234647,Deborah Cox,R&B;
+234844,Debbie Harry,Pop/Rock
+235169,Rob Zombie,Pop/Rock
+235881,Wardell Gray,Jazz
+235923,Leif Garrett,Pop/Rock
+236287,Maddy Prior,International
+237205,Madonna,Pop/Rock
+237517,Lee Hazlewood,Country
+237668,Deacon Blue,Pop/Rock
+237773,Mark Ronson,Pop/Rock
+238115,Sam Cooke,R&B;
+238245,Denis Leary,Comedy/Spoken
+238297,Delta 5,Pop/Rock
+238440,Robert Fripp,Pop/Rock
+238495,John Mayall,Blues
+238506,John Mayall & the Bluesbreakers,Blues
+238686,Robin Thicke,R&B;
+238968,Johnny Hates Jazz,Pop/Rock
+239638,Johnny Jenkins,Blues
+239655,Sandi Patty,Religious
+239827,John Mayer,Pop/Rock
+239859,Leonard Bernstein,Classical
+239921,Depeche Mode,Pop/Rock
+239961,Johnny Kidd & the Pirates,Pop/Rock
+240009,Johnny "Big Moose" Walker,Blues
+240081,Sandie Shaw,Pop/Rock
+240252,Juan Gabriel,Latin
+240267,Johnny Lee,Country
+240311,Link Wray,Pop/Rock
+240403,Bobby Troup,Unknown
+240503,Leon Redbone,Pop/Rock
+240665,Jeff Buckley,Pop/Rock
+240865,Jeff Beck,Pop/Rock
+240923,Sam Phillips,Pop/Rock
+240999,Mark Lindsay,Unknown
+241004,Salaam Remi,R&B;
+241635,Dennis DeYoung,Pop/Rock
+241650,Lemon Jelly,Electronic
+241724,The Rockets,Pop/Rock
+241813,Johnny Burnette,Pop/Rock
+242211,Saliva,Pop/Rock
+242343,Demon,Unknown
+242473,Johnny Adams,Blues
+242511,Johnny "Guitar" Watson,Blues
+242578,Razorlight,Pop/Rock
+242861,Dennis Brown,Reggae
+242949,Wayman Tisdale,Jazz
+242966,Lennie Tristano,Jazz
+243008,Weezer,Pop/Rock
+243012,Rockpile,Pop/Rock
+243238,Johnny Clegg,International
+243418,Wayne Hancock,Country
+243474,Lionel Richie,R&B;
+243527,Weather Report,Jazz
+243611,David Tudor,Unknown
+243777,LÃ©o FerrÃ©,Vocal
+243812,Leon Ware,R&B;
+243933,Liquid,Unknown
+244048,Sammie,R&B;
+244073,Samiam,Pop/Rock
+244254,Dennis Coffey,Unknown
+244406,Johnny Mercer,Vocal
+244537,Wendy & Lisa,Pop/Rock
+244608,The Derek Trucks Band,Pop/Rock
+244711,Johnny Maestro,R&B;
+245019,Sandy Denny,Folk
+245039,Vassar Clements,Country
+245133,Robert Klein,Comedy/Spoken
+245250,Juanes,Latin
+245292,Rodney Dangerfield,Comedy/Spoken
+245489,Deuter,New Age
+245513,Liquid Tension Experiment,Pop/Rock
+245534,Johnny Rodriguez,Country
+245760,Les McCann,Jazz
+245992,Johnny Smith,Jazz
+246022,Merle Travis,Country
+246032,Devendra Banhart,Pop/Rock
+246127,Les Nubians,R&B;
+246169,Whiskeytown,Pop/Rock
+246487,Lenny White,Jazz
+246611,Judas Priest,Pop/Rock
+246628,Johnny Nash,R&B;
+246768,Derrick Morgan,Reggae
+246885,Johnny Mathis,Vocal
+246947,Sammi Smith,Unknown
+246960,Wham!,Pop/Rock
+247004,Roberto Torres,Latin
+247065,Destroyer,Pop/Rock
+247545,Robin Guthrie,Pop/Rock
+247699,We Are Scientists,Pop/Rock
+247824,Lisa Lisa,R&B;
+247963,Love Battery,Pop/Rock
+247966,Julie London,Vocal
+248392,Wes Montgomery,Jazz
+248452,Johnny Pacheco,Latin
+248798,Judee Sill,Pop/Rock
+248885,Lisandro Meza,Latin
+248916,Johnny Osbourne,Reggae
+248920,Sara Evans,Country
+249175,Les Baxter,Easy Listening
+249238,Roger Glover,Unknown
+249303,Wet Willie,Pop/Rock
+249420,Judy Henske,Folk
+249444,Grupo Mojado,Latin
+249528,DevilDriver,Pop/Rock
+249973,Devo,Pop/Rock
+250435,Wayne Shorter,Jazz
+250798,White Town,Electronic
+250976,Low,Pop/Rock
+251033,Pedro the Lion,Pop/Rock
+251206,Julie Roberts,Country
+251210,Pee Wee Crayton,Blues
+251361,Dexys Midnight Runners,Pop/Rock
+251375,Johnny Paycheck,Country
+251437,People Like Us,Electronic
+251474,Junior Byles,Reggae
+251491,Leo Sayer,Pop/Rock
+251595,Whitesnake,Pop/Rock
+251604,Diamond Head,Pop/Rock
+251851,Joi,R&B;
+251925,Wayne Smith,Reggae
+252026,Junior Mance,Jazz
+252184,Johnny Thunders,Pop/Rock
+252315,Diana King,Reggae
+252495,Wayne Newton,Vocal
+252509,Leon Haywood,R&B;
+252513,Wayne Watson,Pop/Rock
+253076,Scooter,Electronic
+253137,Junior Senior,Pop/Rock
+253142,Scott Walker,Pop/Rock
+253232,Junior Vasquez,Electronic
+253296,Leroy Van Dyke,Country
+253397,Dick Gaughan,International
+253408,White Lion,Pop/Rock
+253457,Dick Haymes,Vocal
+253657,JoJo,Pop/Rock
+253734,Johnny Gill,R&B;
+253861,Jon Anderson,Pop/Rock
+253914,Wayne Toups,International
+254083,Wayne Wonder,Reggae
+254215,Wilco,Pop/Rock
+254411,The Academy Is...,Pop/Rock
+254535,Jon Lucien,Vocal
+254556,Roger Waters,Pop/Rock
+254827,Diamond Rio,Country
+254972,Julee Cruise,Pop/Rock
+255051,RÃ³isÃ­n Murphy,Pop/Rock
+255210,Diana Krall,Jazz
+255268,Lucky Dube,Reggae
+255347,Savatage,Pop/Rock
+255371,Leslie West,Pop/Rock
+255377,Pepper Adams,Jazz
+255576,Honeymoon Suite,Pop/Rock
+255704,Pegboy,Pop/Rock
+255733,Johnny Hallyday,Pop/Rock
+255770,Wilbur Ware,Jazz
+255887,Level 42,Pop/Rock
+256349,Peggy Lee,Vocal
+256482,Diane Schuur,Vocal
+256528,Lucy Pearl,R&B;
+256557,Department S,Pop/Rock
+256575,Percy Heath,Jazz
+256831,Levi Stubbs,R&B;
+256951,Say Anything,Pop/Rock
+256974,Wild Cherry,R&B;
+257141,Widespread Panic,Pop/Rock
+257160,Jon Brion,Pop/Rock
+257364,Justin Adams,R&B;
+257544,Van der Graaf Generator,Pop/Rock
+257787,Little Big Town,Country
+258000,T-Pain,R&B;
+258090,Scott LaFaro,Jazz
+258430,Pennywise,Pop/Rock
+258514,Jordan Rudess,Pop/Rock
+258567,Dillinger Four,Pop/Rock
+258741,Jon B.,R&B;
+258882,Jon Secada,R&B;
+258947,Various Artists,Electronic
+259240,Vanessa Paradis,Pop/Rock
+259270,Arrow,International
+259529,Lester Young,Jazz
+259561,Let's Active,Pop/Rock
+259800,Saxon,Pop/Rock
+260007,Dinah Shore,Vocal
+260038,Dinah Washington,Vocal
+260206,Van Halen,Pop/Rock
+260212,Pet Shop Boys,Pop/Rock
+260384,Julian Lennon,Pop/Rock
+261087,Life of Agony,Pop/Rock
+261106,Hoodoo Gurus,Pop/Rock
+261309,Vybz Kartel,Reggae
+261332,Jonah Jones,Jazz
+261623,Pete Droge,Pop/Rock
+261866,Jonathan Edwards,Unknown
+262255,Mariah Carey,R&B;
+262794,Hootie & the Blowfish,Pop/Rock
+263271,Lifehouse,Pop/Rock
+263852,Dion & the Belmonts,Pop/Rock
+263937,Dio,Pop/Rock
+263995,Jeffrey Lewis,Folk
+264350,Sean Paul,Reggae
+264430,Hooverphonic,Pop/Rock
+264499,Amos Lee,Pop/Rock
+264617,Lighthouse,Pop/Rock
+265440,Jorma Kaukonen,Pop/Rock
+265456,Dion,Pop/Rock
+266063,Chris Brown,R&B;
+266129,Jennifer Hudson,R&B;
+266151,Little Texas,Country
+266160,Pete Seeger,Folk
+266255,Jonathan Richman,Pop/Rock
+266503,Marilyn McCoo,R&B;
+266534,Josef K,Pop/Rock
+266916,Marilyn Monroe,Vocal
+266952,Livingston Taylor,Unknown
+267354,Horace Silver,Jazz
+267411,JosÃ© Alfredo JimÃ©nez,Latin
+267435,DiÃ³medes DÃ­az,Country
+267814,Hot Chocolate,R&B;
+268161,Diego Torres,Latin
+268700,Jonny Lang,Pop/Rock
+268871,Hot Tuna,Pop/Rock
+268990,Luna,Pop/Rock
+269172,Lester Flatt,Country
+269390,Homer & Jethro,Country
+269972,Little Willie John,R&B;
+270060,Marie Osmond,Country
+270243,Maria Rita,Latin
+270491,Joni Mitchell,Pop/Rock
+270667,Live,Pop/Rock
+270770,Celtic Woman,International
+271029,Esther Phillips,R&B;
+271113,JosÃ© Feliciano,Vocal
+272563,S Club 7,Pop/Rock
+272567,Louis Prima,Jazz
+272713,Peter Knight,Vocal
+273105,Dr. Lonnie Smith,Jazz
+273531,Liza Minnelli,Vocal
+273628,Louie Bellson,Unknown
+274321,"Peter, Paul and Mary",Folk
+274520,Los Alegres de TerÃ¡n,Latin
+274637,Mario,R&B;
+274822,Lonnie Mack,Blues
+275130,Robbie Robertson,Pop/Rock
+275335,Josh Groban,Vocal
+275386,Jerry Garcia Band,Pop/Rock
+275757,Pharrell Williams,R&B;
+275832,Ron Carter,Jazz
+275991,Robby Krieger,Unknown
+276085,Howlin' Wolf,Blues
+276381,Howard Hewett,R&B;
+276592,Jess Stacy,Jazz
+276626,Rob Halford,Pop/Rock
+276917,Howard McGhee,Jazz
+277059,Josh Kelley,Pop/Rock
+277351,Loggins & Messina,Pop/Rock
+277496,Roachford,Pop/Rock
+277572,Phoenix,Pop/Rock
+277764,Josh Turner,Country
+277977,Sabu Martinez,Latin
+278559,Jerry Lewis,Comedy/Spoken
+278575,Hoyt Axton,Country
+278644,Howard Shore,Stage & Screen
+279097,Lola BeltrÃ¡n,Latin
+279141,Ritchie Valens,Pop/Rock
+279308,Lila McCann,Country
+279315,Josh Rouse,Pop/Rock
+279337,Sade,R&B;
+279395,Gyptian,Reggae
+280445,Howard Tate,R&B;
+280692,Jill Sobule,Pop/Rock
+280897,Deerhunter,Pop/Rock
+280956,Rollins Band,Pop/Rock
+280960,Lone Justice,Pop/Rock
+281225,Rooney,Pop/Rock
+281254,Lonestar,Country
+281564,Mark Harris,Religious
+281953,Marion Meadows,Jazz
+282709,Sam & Dave,R&B;
+282731,Lorez Alexandria,Unknown
+282752,Robbie Dupree,Pop/Rock
+282766,Loudon Wainwright III,Folk
+282800,Rites of Spring,Pop/Rock
+282912,Robert Mirabal,International
+283015,Jesse Powell,R&B;
+283335,Saga,Pop/Rock
+283405,Mark Chesnutt,Country
+283538,Mark Collie,Unknown
+284207,Ronan Keating,Pop/Rock
+284546,Phil Lynott,Pop/Rock
+284939,Los Ãngeles Negros,Latin
+285232,Maroon 5,Pop/Rock
+285272,Rosanne Cash,Country
+285693,Robert Gordon,Pop/Rock
+286092,Philip Aaberg,New Age
+286115,Lorrie Morgan,Country
+286439,Calle 13,Latin
+286483,Jim Hall,Jazz
+286518,Platinum Blonde,Pop/Rock
+286530,Jessica Andrews,Country
+286561,Robert Earl Keen,Folk
+286572,Joss Stone,Pop/Rock
+286639,Play,Pop/Rock
+286660,Robert Randolph & the Family Band,Unknown
+286662,Sam Bush,Country
+286866,Los Huracanes del Norte,Latin
+287092,Sam Kinison,Comedy/Spoken
+287249,Arik Einstein,Unknown
+287259,Saint Vitus,Pop/Rock
+287350,Mark Lanegan,Pop/Rock
+287407,Jessica Simpson,Pop/Rock
+287604,Louis Jordan,Jazz
+287860,Robin Williams,Comedy/Spoken
+287917,Lindsey Buckingham,Pop/Rock
+288111,Los Fabulosos Cadillacs,Latin
+288154,Rose Tattoo,Pop/Rock
+288350,Robert Randolph,Religious
+288830,RocÃ­o Jurado,Latin
+288904,Richard & Linda Thompson,Pop/Rock
+288985,Robert Glasper,Jazz
+289058,Saigon Kick,Pop/Rock
+289177,Sam the Sham & the Pharaohs,Pop/Rock
+289599,Linkin Park,Pop/Rock
+289629,Linton Kwesi Johnson,Reggae
+289685,Robyn,Pop/Rock
+290040,Roy Hamilton,R&B;
+290072,Roberta Flack,R&B;
+290414,Rose Maddox,Country
+290464,Roy Haynes,Jazz
+290502,Limp Bizkit,Pop/Rock
+290590,Samantha Fox,Pop/Rock
+290775,Sam Rivers,Jazz
+290812,Joy Division,Pop/Rock
+290853,Richard Ashcroft,Pop/Rock
+290969,Lime,Unknown
+291043,Journey,Pop/Rock
+291235,Rockwell,R&B;
+292559,Roberto Menescal,Latin
+292876,Joyce,Latin
+292915,Robert Wyatt,Pop/Rock
+293391,Mark O'Connor,Country
+293448,Rossington Collins Band,Pop/Rock
+293490,Sarah Brightman,Vocal
+293896,Rod Stewart,Pop/Rock
+293897,Rod Temperton,R&B;
+293969,RÃ¶yksopp,Electronic
+294085,Rodney Crowell,Country
+294126,Sammy,Pop/Rock
+294197,Polvo,Pop/Rock
+294511,Joy Williams,Unknown
+294923,Judy Collins,Folk
+294941,Rowan Atkinson,Unknown
+295274,Los Lonely Boys,Pop/Rock
+295276,Jimmy Cliff,Reggae
+295285,Lisa Gerrard,Pop/Rock
+295415,Richard Pryor,Comedy/Spoken
+295545,Richie Havens,Folk
+295756,Santana,Pop/Rock
+295933,Judy Kuhn,Pop/Rock
+295976,Linda Eder,Vocal
+296024,RubÃ©n Blades,Latin
+296402,Jimmy Bryant,Country
+296487,Roger Daltrey,Pop/Rock
+296601,Lionel Cartwright,Country
+296802,Lisa Loeb,Pop/Rock
+296815,Linda Perhacs,Folk
+296903,Love and Rockets,Pop/Rock
+297569,Plastilina Mosh,Pop/Rock
+297702,Sammy Hagar,Pop/Rock
+297839,Sasha,Pop/Rock
+297849,Kaleidoscope,Pop/Rock
+297894,Poco,Pop/Rock
+297955,The Rubinoos,Pop/Rock
+298225,Poison the Well,Pop/Rock
+298764,Roxette,Pop/Rock
+298766,Plastic Bertrand,Pop/Rock
+299277,Santo & Johnny,Pop/Rock
+299429,Possessed,Pop/Rock
+299471,Scorpions,Pop/Rock
+299567,Poi Dog Pondering,Pop/Rock
+299668,KC & the Sunshine Band,R&B;
+299776,Urge Overkill,Pop/Rock
+299840,Rufus & Chaka Khan,R&B;
+299882,Karen Dalton,Folk
+300013,Urbie Green,Jazz
+300024,Prefab Sprout,Pop/Rock
+300035,Judge,Pop/Rock
+300245,Rick Wakeman,Pop/Rock
+300534,Little Milton,Blues
+300578,Blitzen Trapper,Pop/Rock
+300583,Junior Brown,Country
+300659,Pedro Infante,Latin
+300749,Sammy Kershaw,Country
+300801,Little Peggy March,Unknown
+301404,Rick Derringer,Pop/Rock
+301619,Portishead,Pop/Rock
+301919,Love Committee,Unknown
+301955,Lowell Fulson,Blues
+302026,Running Wild,Pop/Rock
+302106,Lisa Stansfield,R&B;
+302685,Rufus,R&B;
+302765,Prince Far I,Reggae
+302774,Roger Sanchez,Electronic
+302823,Lucienne Boyer,Unknown
+302955,Junior Kelly,Reggae
+303050,Rufus Thomas,R&B;
+303422,Lucky Ali,International
+303506,Usher,R&B;
+303626,Kansas,Pop/Rock
+303651,Scientist,Reggae
+304102,Utah Saints,Electronic
+304401,Procol Harum,Pop/Rock
+304458,Jule Styne,Stage & Screen
+305335,Lisette Melendez,Pop/Rock
+305363,Saves the Day,Pop/Rock
+305468,Lita Ford,Pop/Rock
+305501,Roger,R&B;
+305541,Percy Faith,Easy Listening
+306446,Junior Kimbrough,Blues
+306851,Junkie XL,Electronic
+307025,Roky Erickson,Pop/Rock
+307083,Junkyard,Pop/Rock
+307102,Puddle of Mudd,Pop/Rock
+307135,Rick Nielsen,Pop/Rock
+307332,Scratch Acid,Unknown
+307461,Van Morrison,Pop/Rock
+307875,Nanci Griffith,Country
+307913,Martin Sexton,Folk
+308013,"Jump, Little Children",Pop/Rock
+308625,Luis Alberto Spinetta,Latin
+308645,Pulp,Pop/Rock
+308742,Julian Cope,Pop/Rock
+308762,Penguin Cafe Orchestra,New Age
+308871,Little Anthony & the Imperials,R&B;
+308932,Pentagram,Pop/Rock
+309068,Pescado Rabioso,Latin
+309328,Percy Mayfield,R&B;
+309458,Screamin' Jay Hawkins,R&B;
+309839,Justin Tubb,Country
+310383,PÃ©rez Prado,Latin
+310455,Pestilence,Pop/Rock
+310533,Marvin Winans,Unknown
+310724,Penetration,Pop/Rock
+310789,SeÃ¡n Ã“ Riada,International
+310905,Lucero,Pop/Rock
+311074,Martin Denny,Easy Listening
+311674,Vanilla Fudge,Pop/Rock
+311680,Luis Miguel,Latin
+312004,Luis Fonsi,Latin
+312062,Marvin Sease,Blues
+312126,K-Ci & JoJo,R&B;
+312140,Pete Fountain,Unknown
+312353,Screaming Trees,Pop/Rock
+312354,Screeching Weasel,Pop/Rock
+312464,Pierre Bachelet,Stage & Screen
+312657,Blindside,Pop/Rock
+312890,Justin Timberlake,Pop/Rock
+313128,Mary Black,International
+313284,Little Feat,Pop/Rock
+313521,VAST,Pop/Rock
+313899,Lucia Mendez,Latin
+314050,Narada Michael Walden,Jazz
+314113,Julie Andrews,Stage & Screen
+314155,Peter Allen,Vocal
+314346,Little Jimmy Dickens,Country
+314372,Sea Level,Pop/Rock
+314505,Vanessa Williams,R&B;
+314576,Mary Gauthier,Country
+314600,Love,Pop/Rock
+314923,Quantic,Electronic
+315104,Luis Enrique,Latin
+315142,Scandal,Pop/Rock
+315336,Perry Como,Vocal
+315339,QueensrÃ¿che,Pop/Rock
+315403,Venom,Pop/Rock
+315909,Pete Johnson,Jazz
+316269,Jennifer Holliday,Pop/Rock
+316340,Luiz Gonzaga,Latin
+316611,Marvelous 3,Pop/Rock
+316834,Marvin Gaye,R&B;
+317093,Nat King Cole,Jazz
+317108,Jeffrey Osborne,R&B;
+317129,Charlie Parr,Folk
+317417,Quicksilver Messenger Service,Pop/Rock
+317545,NOFX,Pop/Rock
+317571,Jennifer Love Hewitt,Pop/Rock
+317865,Jennifer Lopez,Pop/Rock
+318085,Panic! At the Disco,Pop/Rock
+318882,Jason Aldean,Country
+318966,Martin Gore,Pop/Rock
+319021,Jellyfish,Pop/Rock
+319347,R. Kelly,R&B;
+319425,Digitalism,Unknown
+319846,Jens Lekman,Pop/Rock
+319945,Peter Criss,Pop/Rock
+319956,Company,Pop/Rock
+320426,Tsunami Bomb,Pop/Rock
+320442,Racer X,Pop/Rock
+320470,Lumidee,R&B;
+320761,Ricky Skaggs,Country
+320845,Peter Frampton,Pop/Rock
+321126,Secret Weapon,R&B;
+321321,Lulu,Pop/Rock
+321944,Matt Redman,Religious
+322027,Nelson Riddle,Easy Listening
+322279,Pete Steele,Folk
+322339,Peter Rowan,Country
+322365,Jem,Pop/Rock
+322642,Jello Biafra,Comedy/Spoken
+322765,Jermaine Stewart,R&B;
+323194,Jerry Cantrell,Pop/Rock
+323641,Matchbook Romance,Pop/Rock
+324646,Ned's Atomic Dustbin,Pop/Rock
+324819,Jeri Southern,Vocal
+324854,Jermaine Jackson,R&B;
+325357,Arctic Monkeys,Pop/Rock
+325401,Petula Clark,Pop/Rock
+325443,Petra,Religious
+325459,R.E.M.,Pop/Rock
+325727,Jenni Rivera,Latin
+326096,Jerry Byrd,Country
+326249,Radiohead,Pop/Rock
+326540,Rafael Cortijo,Unknown
+327130,Jerry Douglas,Country
+327735,REO Speedwagon,Pop/Rock
+327765,John Barry,Stage & Screen
+328014,Peter Tosh,Reggae
+328201,She Wants Revenge,Pop/Rock
+328288,Jerry Garcia,Pop/Rock
+328352,The New Christy Minstrels,Folk
+328824,Rahsaan Patterson,R&B;
+328956,Matt Bianco,Pop/Rock
+329232,New Found Glory,Pop/Rock
+329313,Richard Harris,Unknown
+329468,Jerry Butler,R&B;
+329542,Jonathan Coulton,Pop/Rock
+329883,RX Bandits,Pop/Rock
+329978,Eluveitie,Pop/Rock
+330061,Rage,Pop/Rock
+330453,Ralph Tresvant,R&B;
+330575,Neil Sedaka,Pop/Rock
+330601,Pharoah Sanders,Jazz
+330634,Jerry Goldsmith,Stage & Screen
+330967,The New Lost City Ramblers,Folk
+331323,10 Years,Pop/Rock
+331400,Ronnie Dunn,Country
+331473,Ronnie Laws,Jazz
+331666,Jesse Cook,New Age
+332141,Jerry Lee Lewis,Pop/Rock
+332257,Neneh Cherry,Pop/Rock
+332536,Ronnie Foster,Jazz
+332641,Nic Jones,Folk
+332852,Ronnie Hawkins,Pop/Rock
+333175,Jesse Belvin,R&B;
+333181,Ronnie Self,Pop/Rock
+333447,Phyllis Hyman,R&B;
+333464,Phish,Pop/Rock
+333539,Jim Brickman,New Age
+333573,Randy Crawford,R&B;
+333634,Phil Ochs,Folk
+333643,Maurice Jarre,Stage & Screen
+333648,Rammstein,Pop/Rock
+333766,New Model Army,Pop/Rock
+333903,New Musik,Pop/Rock
+334041,Mark Wills,Country
+334054,Marmalade,Pop/Rock
+334101,Max Romeo,Reggae
+334193,New Order,Pop/Rock
+334216,Hollywood Undead,Pop/Rock
+334243,Phil Ramone,Pop/Rock
+334644,Jerry Reed,Country
+334740,Ronnie Milsap,Country
+334770,Ramsey Lewis,Jazz
+334829,Jim & Jesse,Country
+335302,Mayhem,Pop/Rock
+335431,Nicholas Payton,Jazz
+335747,Rancid,Pop/Rock
+335937,Los Corraleros de Majagual,Latin
+336783,Nick Drake,Pop/Rock
+337015,Ralph Burns,Jazz
+337119,Phil Collins,Pop/Rock
+337271,Jessi Colter,Country
+337404,Jerry Rivera,Latin
+337631,Rory Gallagher,Blues
+337856,Mother Maybelle Carter,Country
+338179,The Rance Allen Group,Religious
+338287,Pieces of a Dream,Jazz
+338593,CÃ©u,Latin
+338887,Jerry Vale,Vocal
+339490,Rare Earth,Pop/Rock
+339577,Meat Puppets,Pop/Rock
+339624,Meat Loaf,Pop/Rock
+339905,Jesse Winchester,Pop/Rock
+340152,Ratt,Pop/Rock
+340364,Philip Bailey,R&B;
+340446,McBride & the Ride,Country
+340527,Raul Malo,Country
+341137,Roy Buchanan,Blues
+341422,Ray Barretto,Latin
+341652,Roy Clark,Country
+341672,No Doubt,Pop/Rock
+342004,Phil Vassar,Country
+342691,Pilot,Pop/Rock
+342768,Roscoe Holcomb,Folk
+342833,Mel Brooks,Comedy/Spoken
+343215,Rose Royce,R&B;
+343396,Roy Brown,R&B;
+343455,Pinback,Pop/Rock
+343930,The Jesus and Mary Chain,Pop/Rock
+343940,Ray Brown,Jazz
+343954,Mercyful Fate,Pop/Rock
+344037,No Use for a Name,Pop/Rock
+344275,Mel TormÃ©,Vocal
+344332,Jim Ed Brown,Country
+344609,Jesus Jones,Pop/Rock
+344729,Rich Mullins,Religious
+345168,Roy Ayers,Jazz
+345227,Nikki Jean,Pop/Rock
+345355,Melissa Etheridge,Pop/Rock
+345426,Roy Hargrove,Jazz
+345427,Roy Harper,Pop/Rock
+345708,Pink Martini,Pop/Rock
+345734,Rosemary Clooney,Vocal
+346336,Pink Floyd,Pop/Rock
+346637,Roy Eldridge,Jazz
+346684,Richard Hawley,Pop/Rock
+346806,Jet,Pop/Rock
+347148,Night Ranger,Pop/Rock
+347151,Jewel,Pop/Rock
+347451,Plumb,Pop/Rock
+347639,Jimmie Vaughan,Pop/Rock
+347741,Rebecca Lynn Howard,Country
+347886,Richard Lewis,Unknown
+348884,Ray Stevens,Country
+349157,Melvins,Pop/Rock
+349180,Jimmy Barnes,Pop/Rock
+350139,Plain White T's,Pop/Rock
+350585,Pirates of the Mississippi,Country
+350840,Jimmy Buffett,Pop/Rock
+350892,Jimmy Cobb,Jazz
+351227,Richard Marx,Pop/Rock
+351733,Nine Inch Nails,Pop/Rock
+351842,Jimmy Castor,R&B;
+351908,Nine Pound Hammer,Unknown
+352164,Kai Winding,Jazz
+352171,Richie Spice,Reggae
+352248,Niney the Observer,Unknown
+352294,Pixinguinha,Latin
+352524,Jimmy Dawkins,Blues
+352575,Men at Large,R&B;
+352770,Planet P Project,Pop/Rock
+352992,Jimmy Dean,Unknown
+352999,K.T. Oslin,Country
+353145,Roy Rogers,Country
+353211,Richard Smallwood,Unknown
+354105,Jimi Hendrix,Pop/Rock
+354158,Kaleidoscope,Pop/Rock
+354189,Los Panchos,Latin
+354609,Kajagoogoo,Pop/Rock
+354631,Men of Standard,Religious
+354722,Rick Astley,Pop/Rock
+354733,Los Lobos,Pop/Rock
+354883,Poe,Pop/Rock
+355052,Rick Braun,Jazz
+355142,Nirvana,Pop/Rock
+355208,Porno for Pyros,Pop/Rock
+355412,Placebo,Pop/Rock
+355451,Porter Wagoner,Country
+355555,Nitzer Ebb,Pop/Rock
+355616,Poison,Pop/Rock
+355998,Ruben Studdard,R&B;
+356422,Karen Akers,Vocal
+357057,Ruby Braff,Jazz
+357406,Nirvana,Pop/Rock
+358055,Kandi,R&B;
+358528,Rick Trevino,Country
+358532,Preservation Hall Jazz Band,Jazz
+358641,Every Avenue,Pop/Rock
+358820,Primal Scream,Pop/Rock
+359016,Richard Thompson,Pop/Rock
+359026,Ricky Martin,Latin
+359062,KMFDM,Pop/Rock
+359123,Royal Crown Revue,Pop/Rock
+359179,Karla Bonoff,Pop/Rock
+359199,Billy Strayhorn,Jazz
+359326,Primus,Pop/Rock
+359494,Prince Buster,Reggae
+359555,Karunesh,New Age
+359559,Karyn White,R&B;
+359613,Rick Springfield,Pop/Rock
+359966,Rickie Lee Jones,Pop/Rock
+360948,Rupee,Latin
+360956,Jimmy Giuffre,Jazz
+361393,Prince,R&B;
+361541,Kasabian,Pop/Rock
+361973,Kashif,R&B;
+362437,Kathy Mattea,Country
+362922,Los RelÃ¡mpagos del Norte,Latin
+363100,Prong,Pop/Rock
+363307,Marta SÃ¡nchez,Latin
+363327,Propellerheads,Electronic
+364399,Public Image Ltd.,Pop/Rock
+364537,Hayley Williams,Unknown
+364861,Rudy Ray Moore,Comedy/Spoken
+365542,Katrina & the Waves,Pop/Rock
+365821,Kano,R&B;
+366164,Rick James,R&B;
+366407,Nancy Sinatra,Pop/Rock
+366681,Paramore,Pop/Rock
+366889,Martha Raye,Vocal
+367156,Martin Rev,Pop/Rock
+367188,Rihanna,Pop/Rock
+367231,Martha Wainwright,Pop/Rock
+367272,Kavita Krishnamurthy,International
+367417,Martha Wash,R&B;
+367459,Naked Raygun,Pop/Rock
+368112,Martina McBride,Country
+368367,Nancy Wilson,Vocal
+368451,Nana Mouskouri,Vocal
+368578,Puffy AmiYumi,Pop/Rock
+369183,Wolf Parade,Pop/Rock
+369270,Professor Longhair,Blues
+369389,Kay Thompson,Vocal
+369955,Kathryn Williams,Pop/Rock
+370326,Sara Bareilles,Pop/Rock
+370703,Keb' Mo',Blues
+371258,Napalm Death,Pop/Rock
+371530,Nara LeÃ£o,Latin
+371879,Pure Prairie League,Pop/Rock
+372201,Martha Munizzi,Unknown
+372322,Natalie Merchant,Pop/Rock
+372986,Natalie Grant,Religious
+373592,Nate Dogg,R&B;
+374126,Natalie Imbruglia,Pop/Rock
+375101,Philip Wesley,New Age
+375945,Psychic TV,Pop/Rock
+376150,Kiri Te Kanawa,Unknown
+376204,Mary J. Blige,R&B;
+376422,Queens of the Stone Age,Pop/Rock
+376608,The Marvelettes,R&B;
+376739,Koko Taylor,Blues
+376793,Brandi Carlile,Pop/Rock
+376888,Nappy Brown,Blues
+377035,Mass Production,R&B;
+377060,Nat Adderley,Jazz
+377581,Mary Margaret O'Hara,Pop/Rock
+377891,Nazareth,Pop/Rock
+377908,NRBQ,Pop/Rock
+378041,Marty Stuart,Country
+378288,Massive Attack,Electronic
+378624,Quincy Jones,Jazz
+379125,Neil Young,Pop/Rock
+380235,Rebirth Brass Band,R&B;
+380259,Dalva de Oliveira,Latin
+380651,Metric,Pop/Rock
+380704,Red Foley,Country
+380737,mewithoutYou,Pop/Rock
+381371,Neko Case,Pop/Rock
+382565,Mastodon,Pop/Rock
+382630,Chiodos,Pop/Rock
+382671,Red Rat,Reggae
+382734,Matt Monro,Vocal
+383056,The Click Five,Pop/Rock
+383853,Neal McCoy,Country
+383889,Matchbox Twenty,Pop/Rock
+384675,Mary Wells,R&B;
+384920,R. Stevie Moore,Pop/Rock
+385180,Masters of Reality,Pop/Rock
+385393,North Mississippi Allstars,Pop/Rock
+385611,Redd Kross,Pop/Rock
+385766,Rachelle Ferrell,Vocal
+385797,Matt Nathanson,Pop/Rock
+385879,Radney Foster,Country
+386253,Negative Approach,Pop/Rock
+386560,Regina Spektor,Pop/Rock
+387095,Reel Big Fish,Pop/Rock
+387097,El Michels Affair,R&B;
+387219,Norma Jean,Pop/Rock
+387352,Norman Blake,Country
+387530,Matthew Sweet,Pop/Rock
+387720,Michael Bolton,Pop/Rock
+387815,Neu!,Electronic
+388167,Norman Brown,Jazz
+388198,Neurosis,Pop/Rock
+388773,M.I.A.,Electronic
+388972,Material Issue,Pop/Rock
+389213,R.L. Burnside,Blues
+389378,Mason Jennings,Pop/Rock
+389979,Ralph Stanley,Country
+390185,Aly & AJ,Pop/Rock
+390390,Ohio Players,R&B;
+390477,New Kids on the Block,Pop/Rock
+390532,Oingo Boingo,Pop/Rock
+390743,OK Go,Pop/Rock
+391003,Norman Greenbaum,Pop/Rock
+391151,Railroad Earth,Pop/Rock
+391177,Next,R&B;
+391285,Michael Card,Religious
+391398,Ramblin' Jack Elliott,Folk
+391519,New Grass Revival,Country
+391586,James Blunt,Pop/Rock
+391933,Rainbow,Pop/Rock
+392299,Michael Franks,Vocal
+392553,Ram Jam,Pop/Rock
+392856,Be Your Own Pet,Pop/Rock
+392925,Zac Brown,Country
+393031,Ohio Express,Pop/Rock
+393257,Newsboys,Religious
+393345,Oasis,Pop/Rock
+393789,Restless Heart,Country
+394013,Ryan Leslie,R&B;
+394325,Esperanza Spalding,Jazz
+394449,Michael Hurley,Folk
+394806,Randy Newman,Pop/Rock
+395187,Nena,Pop/Rock
+395633,Nick Heyward,Pop/Rock
+395819,Maxine Sullivan,Vocal
+396154,Maxine Brown,R&B;
+396372,Max Roach,Jazz
+396676,Randy Travis,Country
+397042,Maynard Ferguson,Jazz
+397156,Randy Scruggs,Country
+397412,The McGuire Sisters,Unknown
+397794,The Go! Team,Pop/Rock
+397876,Mavis Staples,R&B;
+397880,Nick Cave,Pop/Rock
+398020,Michelle Williams,Religious
+398259,New Riders of the Purple Sage,Pop/Rock
+398615,Oliver Nelson,Jazz
+398653,Rhapsody,Unknown
+398892,Michael Ruff,Pop/Rock
+398909,Randy Waldman,Jazz
+399249,Michael White,Jazz
+399361,Crazy Frog,Pop/Rock
+399437,Odyssey,R&B;
+399659,The Mavericks,Country
+399733,Nickel Creek,Country
+400279,Randy Rhoads,Pop/Rock
+400717,Opeth,Pop/Rock
+400815,Nerf Herder,Pop/Rock
+401066,Michel Legrand,Jazz
+401114,Maze,R&B;
+401166,Raven,Pop/Rock
+401287,Mazzy Star,Pop/Rock
+402117,Mclusky,Pop/Rock
+402249,Raphael Saadiq,R&B;
+402351,Meshell Ndegeocello,R&B;
+402872,The Meters,R&B;
+403120,The Mills Brothers,Vocal
+403184,The Osmonds,Pop/Rock
+403454,Mecano,Latin
+403784,Lecrae,Religious
+404136,Ratatat,Pop/Rock
+404345,The Monks,Pop/Rock
+404434,The Moody Blues,Pop/Rock
+404463,Ravi Shankar,International
+404529,Mike Birbiglia,Comedy/Spoken
+404734,Me First and the Gimme Gimmes,Pop/Rock
+405113,Ray Anthony,Jazz
+405142,Ray J,R&B;
+405494,The Motors,Pop/Rock
+405522,The Mothers of Invention,Pop/Rock
+405732,The Microphones,Pop/Rock
+405903,Midnight Oil,Pop/Rock
+406294,Megadeth,Pop/Rock
+406575,The Outsiders,Pop/Rock
+406583,"Medeski, Martin & Wood",Jazz
+406589,Medicine,Pop/Rock
+406657,Meredith Brooks,Pop/Rock
+406733,Meredith Monk,Avant-Garde
+406898,The Monotones,R&B;
+407101,Nicolette Larson,Pop/Rock
+407300,Mel Tillis,Country
+407331,Meli'sa Morgan,R&B;
+407942,Medwyn Goodall,New Age
+407986,Melissa Manchester,Pop/Rock
+408500,Ready for the World,R&B;
+408531,Ray Nance,Jazz
+408696,Mercury Rev,Pop/Rock
+409337,Orquesta AragÃ³n,Latin
+409670,Melanie,Pop/Rock
+409756,Reagan Youth,Unknown
+409954,Ray Price,Country
+409968,Reba McEntire,Country
+409985,The Peasall Sisters,Country
+410219,Merle Haggard,Country
+411487,The RH Factor,Jazz
+411745,The Radiators,Pop/Rock
+411761,Nina Simone,Vocal
+411830,Nile Rodgers,R&B;
+412134,The Pioneers,Reggae
+412393,Melanie C,Pop/Rock
+412710,Milli Vanilli,Pop/Rock
+412715,Ralfi Pagan,Latin
+413405,Mike Stern,Jazz
+413524,The Police,Pop/Rock
+413683,Otis Taylor,Blues
+413853,The Expendables,Pop/Rock
+414016,Nina Hagen,Pop/Rock
+414251,Otis Redding,R&B;
+414291,Ray Wylie Hubbard,Country
+414506,Milly Quezada,Latin
+414745,Nils Lofgren,Pop/Rock
+414889,The Presidents of the United States of America,Pop/Rock
+415239,The Primitives,Pop/Rock
+416785,Nino Rota,Stage & Screen
+417607,The Red Krayola,Pop/Rock
+418519,Mingus Big Band,Jazz
+418662,The Psychedelic Furs,Pop/Rock
+418740,Sex Pistols,Pop/Rock
+418955,The Shangri-Las,Pop/Rock
+418981,The Shirelles,R&B;
+419102,The Shins,Pop/Rock
+419197,Marconi Union,Electronic
+420133,Ministry,Pop/Rock
+420504,Overkill,Pop/Rock
+420539,The Residents,Pop/Rock
+421122,Memphis Slim,Blues
+421315,The Rezillos,Pop/Rock
+422405,The Replacements,Pop/Rock
+422658,The Six Parts Seven,Pop/Rock
+422891,Nivea,R&B;
+422947,Minor Threat,Pop/Rock
+423095,The Skyliners,R&B;
+423267,Small Faces,Pop/Rock
+423305,Mission of Burma,Pop/Rock
+423467,Mista,R&B;
+423829,Miles Davis,Jazz
+424117,The Rippingtons,Jazz
+424244,Ozzy Osbourne,Pop/Rock
+424292,John Lewis,Jazz
+424296,The Righteous Brothers,Pop/Rock
+424302,Miles Davis Quintet,Jazz
+424928,The Robins,R&B;
+425105,The Skatalites,Reggae
+426564,Ozomatli,Pop/Rock
+428329,Matt Costa,Pop/Rock
+428717,The Sonics,Pop/Rock
+428725,2 Brothers on the 4th Floor,Pop/Rock
+431669,Nobuo Uematsu,Unknown
+443997,Sylvia Telles,Latin
+444140,The Naked Brothers Band,Pop/Rock
+446509,Metallica,Pop/Rock
+447241,The King Khan & BBQ Show,Pop/Rock
+448144,Reckless Kelly,Pop/Rock
+448152,Methods of Mayhem,Pop/Rock
+448207,Donna Lewis,Pop/Rock
+449578,Miami Sound Machine,Pop/Rock
+450398,Noisia,Unknown
+450700,Noel Redding,Pop/Rock
+450786,Messiah,Electronic
+450883,CSS,Pop/Rock
+450991,The Weepies,Pop/Rock
+451183,Michael Chapman,Folk
+451296,Red House Painters,Pop/Rock
+451398,The Kooks,Pop/Rock
+453009,Mest,Pop/Rock
+453041,Meshuggah,Pop/Rock
+453908,Red Simpson,Country
+454240,Red Sovine,Country
+456896,Michael Crawford,Stage & Screen
+457692,Off Broadway,Pop/Rock
+457807,O.V. Wright,R&B;
+458887,Michael English,Unknown
+459027,Noro Morales,Latin
+459616,Michael McDonald,Pop/Rock
+459860,Editors,Pop/Rock
+460389,Okay Temiz,Unknown
+460390,Okkervil River,Pop/Rock
+460553,Belanova,Latin
+461391,Nuclear Assault,Pop/Rock
+461698,Old 97's,Pop/Rock
+461737,Old & In the Way,Country
+462110,The Reverend Horton Heat,Pop/Rock
+463435,Michael Nesmith,Pop/Rock
+463527,Return to Forever,Jazz
+463663,Nuyorican Soul,Electronic
+464348,Old Crow Medicine Show,Pop/Rock
+465387,Michael Gira,Unknown
+465562,Obituary,Pop/Rock
+466442,Olga TaÃ±Ã³n,Latin
+466759,Michael W. Smith,Religious
+467203,Michael Jackson,R&B;
+467382,Michael Penn,Pop/Rock
+467444,Of Montreal,Pop/Rock
+467749,Peggy Lee,Avant-Garde
+467853,Mick Ronson,Pop/Rock
+468218,Reuben Wilson,Unknown
+468632,Ricardo Montaner,Latin
+468911,Rey Ruiz,Latin
+468938,Omarion,R&B;
+469286,The Music Machine,Pop/Rock
+469519,Ashley Tisdale,Pop/Rock
+470588,Mick Taylor,Pop/Rock
+471156,Mickey Gilley,Country
+471355,Operation Ivy,Pop/Rock
+471645,Klaxons,Pop/Rock
+472102,Taylor Swift,Pop/Rock
+472735,Rhonda Vincent,Country
+472925,The Offspring,Pop/Rock
+473554,Olivia Newton-John,Pop/Rock
+473652,Michel Berger,Pop/Rock
+473909,The Matches,Pop/Rock
+474150,The National,Pop/Rock
+474482,Minutemen,Pop/Rock
+474648,The Melodians,Reggae
+475010,The Moldy Peaches,Pop/Rock
+475209,The Strangeloves,Unknown
+475334,The Suicide Machines,Pop/Rock
+475362,Arthur Russell,Avant-Garde
+475431,Stray Cats,Pop/Rock
+475511,The Subdudes,Pop/Rock
+475650,The Outfield,Pop/Rock
+475932,The Only Ones,Pop/Rock
+475980,The Monochrome Set,Pop/Rock
+476248,The Mooney Suzuki,Pop/Rock
+476282,A Skylit Drive,Pop/Rock
+476356,The Modernaires,Vocal
+476414,The System,Unknown
+476425,Mika,Pop/Rock
+476541,Corbin Bleu,Pop/Rock
+476558,Madina Lake,Pop/Rock
+476599,Collie Buddz,Reggae
+476645,The Maytals,Reggae
+476744,3LW,Pop/Rock
+477001,Texas Tornados,Pop/Rock
+477116,Moby,Electronic
+477377,The Memphis Horns,R&B;
+477523,Mighty Sparrow,International
+477793,The String Cheese Incident,Pop/Rock
+477875,The Supremes,R&B;
+477954,Moe Bandy,Country
+478173,Marsha Ambrosius,R&B;
+478246,The Tymes,R&B;
+478426,Orange Juice,Pop/Rock
+478603,The Monkees,Pop/Rock
+479028,Anita O'Day,Vocal
+479113,The Nerves,Pop/Rock
+479149,A Perfect Circle,Pop/Rock
+479204,Anita Ward,R&B;
+479350,The Toasters,Pop/Rock
+479548,The Upsetters,Reggae
+479582,The Moonglows,R&B;
+479772,The Motels,Pop/Rock
+480086,Modest Mouse,Pop/Rock
+480099,Modjo,Unknown
+480108,a-ha,Pop/Rock
+480472,Anita Bryant,Vocal
+480549,Dance Gavin Dance,Pop/Rock
+480830,The Mountain Goats,Pop/Rock
+480956,Midtown,Pop/Rock
+480984,Off with Their Heads,Pop/Rock
+481057,Orchestral Manoeuvres in the Dark,Pop/Rock
+481354,Orbital,Electronic
+481461,Orleans,Pop/Rock
+481827,The Tractors,Country
+482334,The Specials,Pop/Rock
+482572,The West Coast Pop Art Experimental Band,Pop/Rock
+482600,The Spencer Davis Group,Pop/Rock
+482677,The Lemonheads,Pop/Rock
+482787,The Whispers,R&B;
+483334,The Pied Pipers,Vocal
+483473,The Pietasters,Pop/Rock
+483563,The Verve Pipe,Pop/Rock
+483587,The Move,Pop/Rock
+483716,The Vapors,Pop/Rock
+483848,The Vibrators,Pop/Rock
+484145,The Partridge Family,Pop/Rock
+484396,Ornette Coleman,Jazz
+484607,Millencolin,Pop/Rock
+484880,Sugarland,Country
+484890,The Witnesses,Pop/Rock
+485118,Mike Shinoda,Pop/Rock
+485135,311,Pop/Rock
+485191,The Pastels,Pop/Rock
+485204,Ingrid Michaelson,Pop/Rock
+485365,Thirty Seconds to Mars,Pop/Rock
+485525,The Starting Line,Pop/Rock
+485689,MoKenStef,R&B;
+485791,Wipers,Pop/Rock
+485991,Mike Laure,Latin
+486047,Sublime,Pop/Rock
+486115,The Rockin' Berries,Pop/Rock
+486305,Junior Parker,Blues
+486395,The Ocean Blue,Pop/Rock
+486645,The Plimsouls,Pop/Rock
+486775,Otis Spann,Blues
+487012,The Wailers,Pop/Rock
+487038,The Rapture,Electronic
+487186,Suicide,Pop/Rock
+487219,The Wonder Stuff,Unknown
+487271,Mike Seeger,Folk
+487357,Anthony B,Reggae
+487534,Molotov,Latin
+487535,Abbey Lincoln,Vocal
+487614,Moloko,Electronic
+487663,The Pop Group,Pop/Rock
+488378,Os Mutantes,International
+488394,The Cave Singers,Pop/Rock
+488859,Millie Jackson,R&B;
+488921,Oscar Lopez,Latin
+489207,Annette Peacock,Jazz
+489209,The dB's,Pop/Rock
+489303,The Yardbirds,Pop/Rock
+489316,Oscar Peterson,Jazz
+489435,The Walkmen,Pop/Rock
+489520,Mike Oldfield,New Age
+489606,Millie Small,Reggae
+489676,The Pretty Things,Pop/Rock
+489845,Milt Jackson,Jazz
+489876,The Pogues,Pop/Rock
+489999,The Raincoats,Pop/Rock
+490004,Ramones,Pop/Rock
+490141,The Weirdos,Pop/Rock
+490416,Thelonious Monk,Jazz
+490549,Anne Murray,Country
+490554,The Posies,Pop/Rock
+490620,The Real Kids,Pop/Rock
+490738,Monica,R&B;
+490763,The Ravens,Vocal
+490769,Sunnyland Slim,Blues
+490805,The Royal Guardsmen,Pop/Rock
+490852,Our Lady Peace,Pop/Rock
+490860,Three Days Grace,Pop/Rock
+490952,Anthrax,Pop/Rock
+491174,Suffocation,Pop/Rock
+491220,The Ronettes,Pop/Rock
+491565,The Power Station,Pop/Rock
+491786,Thelonious Monk Quartet,Jazz
+491802,The Records,Pop/Rock
+491996,A.C. Reed,Blues
+492037,The Proclaimers,Pop/Rock
+492162,The Prodigy,Electronic
+492275,The Runaways,Pop/Rock
+492331,Pretenders,Pop/Rock
+492466,Montrose,Pop/Rock
+492521,Mina,Pop/Rock
+492663,Mon Rivera,Latin
+492670,Monty Python,Comedy/Spoken
+493122,The Rascals,Pop/Rock
+493327,They Might Be Giants,Pop/Rock
+493412,Oumou Sangare,International
+493848,Aphex Twin,Electronic
+494016,The Samples,Pop/Rock
+494038,Thrice,Pop/Rock
+494355,Mike Ratledge,Unknown
+494474,Third World,Reggae
+494537,Milt Hinton,Jazz
+494746,Another Bad Creation,R&B;
+494774,Anouk,Pop/Rock
+495288,The Rentals,Pop/Rock
+495338,Ace of Base,Pop/Rock
+495455,Monster Magnet,Pop/Rock
+495547,Mindless Self Indulgence,Pop/Rock
+495702,The Salsoul Orchestra,R&B;
+495784,Keely Smith,Vocal
+495861,Mindy McCready,Country
+496097,Miriam Makeba,International
+496370,The Shamen,Electronic
+496405,The Shadows,Pop/Rock
+496487,Adam Ant,Pop/Rock
+496525,Moondog,Avant-Garde
+497132,Milton Nascimento,Latin
+497236,Adina Howard,R&B;
+497277,Adema,Pop/Rock
+497760,Mink DeVille,Pop/Rock
+498241,Minus the Bear,Pop/Rock
+498484,The Rembrandts,Pop/Rock
+498691,The Slits,Pop/Rock
+498961,'Til Tuesday,Pop/Rock
+498987,SWV,R&B;
+499683,Miroslav Vitous,Jazz
+499745,Mirwais,Electronic
+499780,Adriana Calcanhotto,Latin
+500298,Morgan Heritage,Reggae
+500612,Adam Sandler,Comedy/Spoken
+500664,The Seeds,Pop/Rock
+500889,Minnie Riperton,R&B;
+500992,MÃ¶tley CrÃ¼e,Pop/Rock
+501081,"10,000 Maniacs",Pop/Rock
+501407,MotÃ¶rhead,Pop/Rock
+501436,Morgana King,Unknown
+501537,12 Stones,Pop/Rock
+501692,1910 Fruitgum Company,Pop/Rock
+501802,The Soft Boys,Pop/Rock
+501860,Against Me!,Pop/Rock
+502163,10cc,Pop/Rock
+502198,Luke Bryan,Country
+502199,Art Farmer,Jazz
+502269,Mother Love Bone,Pop/Rock
+502351,The Silhouettes,R&B;
+502371,Missy Elliott,R&B;
+502398,Archie Bell & the Drells,R&B;
+502774,The Rivieras,Pop/Rock
+502806,The Rivingtons,R&B;
+502854,Wim Mertens,Unknown
+502978,Oysterhead,Pop/Rock
+502989,Armin van Buuren,Electronic
+503242,Miranda Lambert,Country
+503247,Miri Ben-Ari,R&B;
+503279,Archie Shepp,Jazz
+503283,Miracle Legion,Pop/Rock
+503460,Adele,Pop/Rock
+503602,The Sea and Cake,Pop/Rock
+503668,The Miracles,R&B;
+503913,Mountain,Pop/Rock
+504169,Al Cohn,Jazz
+504276,The Selecter,Pop/Rock
+504815,Art Garfunkel,Pop/Rock
+504928,The 13th Floor Elevators,Pop/Rock
+505047,Art Pepper,Jazz
+505154,Art Taylor,Unknown
+505532,Tim Hardin,Pop/Rock
+506513,Mr. Bungle,Pop/Rock
+507558,Tito Nieves,Latin
+507955,The Sounds,Pop/Rock
+507975,Al Hirt,Jazz
+508391,Mtume,R&B;
+508443,Air Supply,Pop/Rock
+509156,Mudvayne,Pop/Rock
+509223,Mudhoney,Pop/Rock
+509356,Atlantic Starr,R&B;
+509367,Al Martino,Vocal
+509524,Al Kooper,Pop/Rock
+510805,Toby Keith,Country
+510885,TobyMac,Religious
+510953,As I Lay Dying,Pop/Rock
+511029,Artie Shaw,Jazz
+511041,Aterciopelados,Latin
+511257,The Soup Dragons,Pop/Rock
+511773,Les Brown,Jazz
+513813,Flight of the Conchords,Comedy/Spoken
+514563,Muse,Pop/Rock
+515156,Tom Russell,Folk
+515251,Murphy's Law,Pop/Rock
+515600,Thelma Houston,R&B;
+515628,Tom T. Hall,Country
+515641,Alcatrazz,Pop/Rock
+515750,Albertina Walker,Religious
+515790,Alex Bugnon,Jazz
+516202,Brian Hyland,Pop/Rock
+516706,Tommy Collins,Country
+516929,*NSYNC,Pop/Rock
+517074,Brian McKnight,R&B;
+517264,Tom Rush,Folk
+517607,Brand New,Pop/Rock
+517796,Brian Poole & the Tremeloes,Pop/Rock
+518252,Baby Rasta & Gringo,Latin
+518313,Todd Terry,Electronic
+518937,Mr. Scruff,Electronic
+519637,Brian Setzer,Pop/Rock
+519715,Tommy Flanagan,Jazz
+519954,Brian Tyler,Stage & Screen
+520033,The Boomtown Rats,Pop/Rock
+520215,Cactus,Pop/Rock
+520545,My Chemical Romance,Pop/Rock
+520583,My Morning Jacket,Pop/Rock
+520975,Tommy James & the Shondells,Pop/Rock
+521564,Brian Culbertson,Jazz
+521674,The Brecker Brothers,Jazz
+521704,Yoko Ono,Pop/Rock
+521851,MxPx,Pop/Rock
+522377,Sting,Pop/Rock
+522430,Camila,Latin
+522768,Brooks & Dunn,Country
+523661,Stonewall Jackson,Country
+524050,Bryan Ferry,Pop/Rock
+524239,Brook Benton,R&B;
+524522,Joan Osborne,Pop/Rock
+524581,Lotus,Unknown
+524634,The Bucketheads,Electronic
+527024,Bruce Dickinson,Pop/Rock
+527267,Built to Spill,Pop/Rock
+527379,Bukka White,Blues
+528221,Dave Van Ronk,Folk
+528243,Mystery Jets,Pop/Rock
+528895,Vasco Rossi,Pop/Rock
+529050,Girls Aloud,Pop/Rock
+530569,Hariprasad Chaurasia,Unknown
+530745,Bruce Springsteen,Pop/Rock
+531653,The Raconteurs,Pop/Rock
+531986,David Bowie,Pop/Rock
+532487,David Cassidy,Pop/Rock
+532610,Chrisette Michele,R&B;
+532957,Cab Calloway,Jazz
+533042,Cabas,Latin
+533117,George Clinton,R&B;
+533503,Flyleaf,Pop/Rock
+533551,Buckcherry,Pop/Rock
+535892,Magnus Karlsson,Pop/Rock
+536035,Buddy Emmons,Country
+536122,George Duke,Jazz
+536275,Sweet,Pop/Rock
+536321,MGMT,Pop/Rock
+536754,Burl Ives,Folk
+537414,Bring Me the Horizon,Pop/Rock
+537444,Busted,Pop/Rock
+538677,Buddy Holly,Pop/Rock
+538840,Joe Arroyo,Latin
+540010,Capleton,Reggae
+540139,Camilo Sesto,Latin
+540742,Basshunter,Pop/Rock
+540867,Hellyeah,Pop/Rock
+540883,Guns N' Roses,Pop/Rock
+541125,Gerry & the Pacemakers,Pop/Rock
+541760,Dailey & Vincent,Country
+542549,Gerry Mulligan,Jazz
+542976,Candi Staton,R&B;
+543045,Candido,Unknown
+543055,Georgie Fame,Pop/Rock
+543169,Gustavo Cerati,Latin
+543595,Candlebox,Pop/Rock
+543867,Guy Clark,Country
+544965,Daniel Powter,Pop/Rock
+545074,George Michael,Pop/Rock
+545534,Cannibal Corpse,Pop/Rock
+545726,Guided by Voices,Pop/Rock
+546205,Melody Gardot,Jazz
+546214,Gwen Stefani,Pop/Rock
+546735,Gilbert O'Sullivan,Pop/Rock
+546738,Jazmine Sullivan,R&B;
+546926,Matt and Kim,Pop/Rock
+546976,Cold War Kids,Pop/Rock
+548020,Gilberto Santa Rosa,Latin
+548180,The Gaslight Anthem,Pop/Rock
+548336,Geraldo Azevedo,Unknown
+548338,Cannonball Adderley,Jazz
+548397,Jonas Brothers,Pop/Rock
+549797,Hank Williams,Country
+550940,Witch,Pop/Rock
+551115,J. Holiday,R&B;
+551465,Gillian Welch,Folk
+551762,Miley Cyrus,Pop/Rock
+551815,Gil Evans,Jazz
+551872,The Bird and the Bee,Pop/Rock
+552325,Orlando "Cachaito" Lopez,Latin
+552576,Gino Soccio,R&B;
+553483,Happy Mondays,Pop/Rock
+553810,Girlschool,Pop/Rock
+554804,The Wreckers,Country
+554963,Harry Chapin,Pop/Rock
+555695,Gipsy Kings,Latin
+556199,HammerFall,Pop/Rock
+556242,Hamza el Din,International
+556292,Veil of Maya,Pop/Rock
+557191,Hot Chip,Pop/Rock
+557905,Hardline,Pop/Rock
+558339,Hank Jones,Jazz
+558490,Gorguts,Unknown
+558596,Hampton Hawes,Jazz
+558954,Natasha Bedingfield,Pop/Rock
+559405,Daddy Yankee,Latin
+559501,Fred Anderson,Jazz
+559785,Damn Yankees,Pop/Rock
+559927,Maktub,R&B;
+560208,Harry Nilsson,Pop/Rock
+560554,Glass Candy,Pop/Rock
+561037,MaxÃ¯mo Park,Pop/Rock
+561105,Hatebreed,Pop/Rock
+561715,Godflesh,Pop/Rock
+562030,Hawkshaw Hawkins,Country
+562105,Hayes Carll,Pop/Rock
+562144,Rogue Wave,Pop/Rock
+562304,The Stooges,Pop/Rock
+562615,Jason Isbell,Pop/Rock
+562663,Harpers Bizarre,Pop/Rock
+562850,Lily Allen,Pop/Rock
+563390,Colbie Caillat,Pop/Rock
+563834,Dag Nasty,Pop/Rock
+564239,The Turtles,Pop/Rock
+564333,The Stone Roses,Pop/Rock
+564726,The Sundays,Pop/Rock
+565521,The Sylvers,R&B;
+565634,HÃ©ctor Lavoe,Latin
+566113,Malo,Unknown
+566138,Kat DeLuna,Pop/Rock
+566448,Justin Townes Earle,Country
+566918,The The,Pop/Rock
+566984,Man Parrish,Electronic
+566988,Dangerous Toys,Pop/Rock
+567153,Daughtry,Pop/Rock
+567190,? & the Mysterians,Pop/Rock
+567294,Dalis Car,Pop/Rock
+567325,The Modern Jazz Quartet,Jazz
+567374,Dallas Holm,Religious
+567570,Thompson Twins,Pop/Rock
+567624,The Stylistics,R&B;
+567769,Saving Abel,Pop/Rock
+567822,Aniceto Molina,Unknown
+567862,A Flock of Seagulls,Pop/Rock
+567959,Stuff,R&B;
+568071,The Stranglers,Pop/Rock
+568137,The Strokes,Pop/Rock
+568368,Helen Merrill,Vocal
+568622,Alec Wilder,Jazz
+568861,The Sweet Inspirations,R&B;
+568956,The Swingle Singers,Unknown
+569064,Ocean,R&B;
+569119,Danny Elfman,Stage & Screen
+569256,The Tams,R&B;
+569402,The Teardrop Explodes,Pop/Rock
+569600,Angels & Airwaves,Pop/Rock
+569644,Wizzard,Pop/Rock
+569685,The Temptations,R&B;
+569914,Moby Grape,Pop/Rock
+570046,Marc Almond,Electronic
+570061,The Tragically Hip,Pop/Rock
+570155,Taio Cruz,Pop/Rock
+570825,The Modern Lovers,Pop/Rock
+571258,Frightened Rabbit,Pop/Rock
+571472,Hepcat,Reggae
+571845,Margaret Whiting,Vocal
+572105,4Him,Religious
+572106,The Three Degrees,R&B;
+572327,Marcy Playground,Pop/Rock
+572499,The Velvelettes,R&B;
+572508,Steve Angello,Electronic
+572578,Animotion,Pop/Rock
+572579,Anita Baker,R&B;
+572737,Helmet,Pop/Rock
+573100,Daryle Singletary,Country
+573241,7 Seconds,Pop/Rock
+573391,Paolo Nutini,Pop/Rock
+573410,Maria BethÃ¢nia,International
+573870,The Troggs,Pop/Rock
+573978,Marcia Griffiths,Reggae
+574033,Modern English,Pop/Rock
+574035,St. Vincent,Pop/Rock
+574057,Sugar Minott,Reggae
+574102,Dashboard Confessional,Pop/Rock
+574119,Sugar Ray,Pop/Rock
+574143,moe.,Pop/Rock
+574483,The Wild Tchoupitoulas,R&B;
+574597,ABC,Pop/Rock
+574772,AC/DC,Pop/Rock
+575012,Darlene Love,R&B;
+575051,Herman's Hermits,Pop/Rock
+575335,2nd Chapter of Acts,Unknown
+575379,The Vaselines,Pop/Rock
+575522,The Verve,Pop/Rock
+575695,Dave Stewart,Pop/Rock
+576072,A Taste of Honey,R&B;
+576718,Seal,Pop/Rock
+576839,The Winans,Religious
+577235,The Staple Singers,R&B;
+577261,Mitch Miller,Easy Listening
+577358,The Used,Pop/Rock
+577531,Woody Guthrie,Folk
+577590,Dave Bartholomew,R&B;
+577627,The Who,Pop/Rock
+577701,A.R. Rahman,International
+577720,The Stanley Brothers,Country
+578028,Mojo Nixon,Pop/Rock
+578031,The Statler Brothers,Country
+578141,The Spinners,R&B;
+578744,William Bell,R&B;
+578999,Aaliyah,R&B;
+579037,Sun Kil Moon,Pop/Rock
+579234,Rhiannon Giddens,Country
+579458,Luciano Pavarotti,Classical
+579823,Holly Dunn,Country
+579839,Suicidal Tendencies,Pop/Rock
+580058,Aaron Tippin,Country
+580300,Sufjan Stevens,Pop/Rock
+580485,Willie Hutch,R&B;
+581713,Anthony Hamilton,R&B;
+581859,The Vogues,Pop/Rock
+582024,The Walker Brothers,Pop/Rock
+582253,Aaron Neville,R&B;
+582313,The Zombies,Pop/Rock
+582419,Subhumans,Pop/Rock
+582463,The Vines,Pop/Rock
+582629,The Subways,Pop/Rock
+582930,David Gilmour,Pop/Rock
+583478,The Wedding Present,Pop/Rock
+583618,Sunny Day Real Estate,Pop/Rock
+583723,MiklÃ³s RÃ³zsa,Stage & Screen
+583843,APB,Pop/Rock
+583935,Sun,R&B;
+583959,Willie Nelson,Country
+583992,Yerba Buena,Unknown
+584257,William Orbit,Electronic
+584695,Willie Johnson,Blues
+584923,Dave Edmunds,Pop/Rock
+585092,Dave Holland,Jazz
+585189,X-Ray Spex,Pop/Rock
+585210,The Waitresses,Pop/Rock
+585249,Annie Lennox,Pop/Rock
+585574,Sum 41,Pop/Rock
+585874,Acoustic Alchemy,New Age
+585896,The Wallflowers,Pop/Rock
+586319,MÃ³nica Naranjo,Latin
+586798,Thievery Corporation,Electronic
+586843,The Dangerous Summer,Pop/Rock
+587608,Ryuichi Sakamoto,Electronic
+587631,Moodymann,Electronic
+588112,Ace,Pop/Rock
+588145,Crookers,Electronic
+588246,Los Campesinos!,Pop/Rock
+588450,Annihilator,Pop/Rock
+588508,Ace Frehley,Pop/Rock
+588679,Theodore Bikel,Folk
+588887,Thom Yorke,Pop/Rock
+588918,Yonder Mountain String Band,Country
+588943,The Abyssinians,Reggae
+589209,Monica Zetterlund,Jazz
+589256,Monty Alexander,Jazz
+589630,AFI,Pop/Rock
+589767,The Weakerthans,Pop/Rock
+589802,Yarbrough & Peoples,R&B;
+590265,Annie Ross,Vocal
+590285,Billy Preston,R&B;
+590441,Young Marble Giants,Pop/Rock
+590479,Thin Lizzy,Pop/Rock
+590483,Third Day,Religious
+591048,Anti-Nowhere League,Pop/Rock
+591104,Mongo Santamaria,Latin
+591220,Anton LaVey,Unknown
+591459,TiÃ«sto,Electronic
+591620,Antonio MachÃ­n,Latin
+591857,Leontyne Price,Unknown
+591902,Admiral Bailey,Reggae
+592161,Theory of a Deadman,Pop/Rock
+592401,Tim Maia,Unknown
+592595,Thursday,Pop/Rock
+592954,Tim McGraw,Country
+593129,Tim O'Brien,Country
+593772,April Wine,Pop/Rock
+593930,Argent,Pop/Rock
+594113,Acceptance,Pop/Rock
+594309,Tiger Army,Pop/Rock
+594665,Diana Ross,R&B;
+594765,Buckethead,Avant-Garde
+595101,Tim Buckley,Pop/Rock
+595559,Arif Mardin,Pop/Rock
+595768,Motion City Soundtrack,Pop/Rock
+595969,Afro-Cuban All Stars,Latin
+596126,Mott the Hoople,Pop/Rock
+596451,Zapp,R&B;
+596922,Yusef Lateef,Jazz
+597094,Morrissey,Pop/Rock
+597239,April March,Pop/Rock
+597266,Art Blakey & the Jazz Messengers,Unknown
+597269,Against All Authority,Pop/Rock
+597309,Tina Turner,R&B;
+597314,Arch Enemy,Pop/Rock
+597736,Morcheeba,Electronic
+597875,Adriano Celentano,Pop/Rock
+597965,Archers of Loaf,Pop/Rock
+599777,After 7,R&B;
+600069,James Taylor,Pop/Rock
+600228,Al Di Meola,Jazz
+600264,Mr. Big,Pop/Rock
+600386,Mother Earth,Electronic
+600435,Aqua,Pop/Rock
+600637,Zeca Pagodinho,Unknown
+600640,Tindersticks,Pop/Rock
+600720,Ziggy Marley & the Melody Makers,Reggae
+601079,Eros Ramazzotti,Pop/Rock
+601421,Adamski,Electronic
+601430,Morphine,Pop/Rock
+601697,Taken by Trees,Pop/Rock
+603036,Todd Rhodes,R&B;
+603226,Dirty Heads,Pop/Rock
+603590,Aswad,Reggae
+603621,Tinariwen,International
+603980,Tiny Tim,Comedy/Spoken
+604075,Agent Orange,Pop/Rock
+604090,Aim,Electronic
+604702,Afro Celt Sound System,Pop/Rock
+604852,Aerosmith,Pop/Rock
+604924,Arthur Conley,R&B;
+605375,Alan Jackson,Country
+605965,Atlanta Rhythm Section,Pop/Rock
+606043,Mr. Fingers,Electronic
+606283,Al Jarreau,Vocal
+607028,Arthur Lyman,Easy Listening
+607053,At the Gates,Pop/Rock
+607094,Toadies,Pop/Rock
+607105,Aida Cuevas,Latin
+607202,Air,Electronic
+607283,Tito Puente,Latin
+607448,Al Green,R&B;
+607773,Al B. Sure!,R&B;
+607804,Alan Lomax,Folk
+607967,Astor Piazzolla,Latin
+608135,Mulgrew Miller,Jazz
+608166,Al Bowlly,Vocal
+608701,Muddy Waters,Blues
+608945,Brandy,R&B;
+609396,Tom Jones,Pop/Rock
+609590,Caribou,Pop/Rock
+609966,The Highway Q.C.'s,Religious
+610339,Toad the Wet Sprocket,Pop/Rock
+610346,Aimee Mann,Pop/Rock
+610706,Bread,Pop/Rock
+610730,Arthur Verocai,Unknown
+610880,Brad Paisley,Country
+611007,Todd Edwards,Electronic
+611102,Albert Collins,Blues
+611104,Atomic Kitten,Pop/Rock
+611877,Tom Lehrer,Comedy/Spoken
+611881,Atomic Rooster,Pop/Rock
+611929,Tom Tom Club,Pop/Rock
+612095,Tomahawk,Pop/Rock
+612716,Tom Petty,Pop/Rock
+614339,Albert Ayler,Jazz
+614455,The Brian Jonestown Massacre,Pop/Rock
+614823,Brenda Russell,R&B;
+614830,Metro Station,Pop/Rock
+614933,Four Year Strong,Pop/Rock
+614982,Brand X,Pop/Rock
+615026,Asha Bhosle,International
+615119,Tom Waits,Pop/Rock
+615247,The Fratellis,Pop/Rock
+615304,Ash,Pop/Rock
+615489,Bratmobile,Pop/Rock
+615937,Brian Regan,Comedy/Spoken
+616296,Ashlee Simpson,Pop/Rock
+616664,Todd Snider,Pop/Rock
+616979,Brainstorm,R&B;
+617196,Brian Eno,Pop/Rock
+617336,Tom Morello,Pop/Rock
+617370,Tom Moulton,R&B;
+617536,Alejandra GuzmÃ¡n,Latin
+617568,Brenton Wood,R&B;
+617613,Alejandro FernÃ¡ndez,Latin
+617844,Albert King,Blues
+617980,My Life with the Thrill Kill Kult,Pop/Rock
+618230,Alex Van Halen,Pop/Rock
+618589,Mushroomhead,Pop/Rock
+618713,Aldo Nova,Pop/Rock
+618726,The Infamous Stringdusters,Country
+619388,Alejandro Sanz,Latin
+619423,Ashford & Simpson,R&B;
+619460,Mr. Mister,Pop/Rock
+619536,Pretty Ricky,R&B;
+620056,Bright Eyes,Pop/Rock
+620121,Brinsley Schwarz,Pop/Rock
+620126,The Bothy Band,Unknown
+620386,Tommy James,Pop/Rock
+620495,The Breeders,Pop/Rock
+620578,Tommy Sands,Pop/Rock
+620603,Edwyn Collins,Pop/Rock
+620759,Alain Bashung,Pop/Rock
+621101,The Bouncing Souls,Pop/Rock
+621112,Mya,R&B;
+621423,Alejandro Escovedo,Pop/Rock
+621944,The Boo Radleys,Pop/Rock
+621959,Seefeel,Electronic
+622277,TonÃ©x,R&B;
+622379,Asleep at the Wheel,Country
+622604,Brick,R&B;
+622805,Stevie Wonder,R&B;
+623254,Asia,Pop/Rock
+623443,Brian Blade,Jazz
+623518,Brigitte Bardot,Pop/Rock
+623985,Budgie,Pop/Rock
+624107,Bronski Beat,Pop/Rock
+624190,The Bravery,Pop/Rock
+624215,The Brothers Johnson,R&B;
+624282,Joshua Radin,Pop/Rock
+624504,The Box Tops,Pop/Rock
+625201,Alexander O'Neal,R&B;
+625203,Britny Fox,Pop/Rock
+625278,Broken Social Scene,Pop/Rock
+625731,Seether,Pop/Rock
+625736,Brian Wilson,Pop/Rock
+625739,Stevie Ray Vaughan,Pop/Rock
+626115,The Brooklyn Tabernacle Choir,Religious
+626268,Buffy Sainte-Marie,Folk
+626310,Aslan,Pop/Rock
+626463,Stone Temple Pilots,Pop/Rock
+626774,Bulletboys,Pop/Rock
+626939,Stone Sour,Pop/Rock
+627026,Amy Winehouse,R&B;
+627250,Buena Vista Social Club,Latin
+627337,Tommy Roe,Pop/Rock
+627787,Jamey Johnson,Country
+628467,Britney Spears,Pop/Rock
+628571,Reik,Latin
+628684,The Brand New Heavies,R&B;
+628912,Strangefolk,Pop/Rock
+628981,The Buckinghams,Pop/Rock
+629609,David Allan Coe,Country
+630603,The Browns,Country
+630845,Breakwater,R&B;
+630882,Brownie McGhee,Blues
+631071,Buddy Tate,Jazz
+631078,David Ball,Country
+631275,Emmure,Pop/Rock
+631535,The Business,Pop/Rock
+631579,Bruce Cockburn,Pop/Rock
+631667,YACHT,Pop/Rock
+631774,The Byrds,Pop/Rock
+632233,Eric Church,Country
+632986,Jordan Pruitt,Pop/Rock
+633044,Strunz & Farah,International
+633078,Bruce Hornsby,Pop/Rock
+633079,Strawberry Alarm Clock,Pop/Rock
+633080,Strawberry Switchblade,Pop/Rock
+633181,Butthole Surfers,Pop/Rock
+633313,Katharine McPhee,Pop/Rock
+633358,Danity Kane,R&B;
+634377,David Axelrod,Pop/Rock
+634463,CKY,Pop/Rock
+634674,Buck Clayton,Jazz
+635413,Cabaret Voltaire,Pop/Rock
+635425,Atlas Sound,Pop/Rock
+635760,David Benoit,Jazz
+635822,L'Arc-en-Ciel,Unknown
+635930,Buck-O-Nine,Pop/Rock
+636044,The Cadillacs,R&B;
+636106,Buckwheat Zydeco,International
+636382,Bud Shank,Jazz
+636394,Strung Out,Pop/Rock
+636433,The Cardigans,Pop/Rock
+636474,Bunny Wailer,Reggae
+636511,Strike Anywhere,Pop/Rock
+636841,Ryan Bingham,Country
+637022,The Capitols,Unknown
+637150,David Frizzell,Country
+638603,David Bromberg,Folk
+638632,Shiny Toy Guns,Electronic
+638918,Buddy DeFranco,Jazz
+638960,Buddy Greco,Vocal
+639005,George Carlin,Comedy/Spoken
+639053,HÃ¼sker DÃ¼,Pop/Rock
+639056,Bush,Pop/Rock
+639397,Caetano Veloso,Latin
+639621,Caifanes,Latin
+639697,Cachao,Latin
+639748,Blue,Pop/Rock
+639789,Bunny Berigan,Jazz
+640208,Five Finger Death Punch,Pop/Rock
+640675,Bud Powell,Jazz
+641111,Buster Brown,Blues
+641450,Buddy Collette,Jazz
+641626,Cecilia Bartoli,Classical
+641709,Camera Obscura,Pop/Rock
+641994,Burning Spear,Reggae
+642354,Bushman,Reggae
+642427,Buddy Clark,Vocal
+642542,Burt Bacharach,Pop/Rock
+642664,George Shearing,Jazz
+642796,Camille Yarbrough,Pop/Rock
+643543,Jason Derulo,Pop/Rock
+643549,Cal Tjader,Jazz
+643682,Burial,Electronic
+643755,Yeasayer,Pop/Rock
+644216,David Cross,Comedy/Spoken
+644880,David Crosby,Pop/Rock
+645474,David Essex,Pop/Rock
+645612,Can,Pop/Rock
+645956,Burzum,Pop/Rock
+646260,C.W. McCall,Country
+646353,George Russell,Jazz
+647156,The Menzingers,Pop/Rock
+647246,Camouflage,Pop/Rock
+647670,Gerald Albright,Jazz
+647796,Camper Van Beethoven,Pop/Rock
+647834,George Thorogood,Pop/Rock
+648097,Guadalcanal Diary,Pop/Rock
+648106,Justice,Electronic
+648407,Candlemass,Pop/Rock
+649435,Gerald Levert,R&B;
+649950,George Martin,Pop/Rock
+650362,Cute Is What We Aim For,Pop/Rock
+650525,George Morgan,Country
+651107,Marianne Faithfull,Pop/Rock
+651156,Guy,R&B;
+651187,The Georgia Satellites,Pop/Rock
+651796,Gustavo Santaolalla,Latin
+651848,Guaco,Latin
+651972,H-Town,R&B;
+652178,Guttermouth,Pop/Rock
+652192,Memphis May Fire,Pop/Rock
+652255,Gilberto Gil,International
+654490,Guitar Slim,Blues
+654543,Cap'n Jazz,Pop/Rock
+655273,Ginger Baker,Pop/Rock
+655346,Gwen Guthrie,Unknown
+655547,GWAR,Pop/Rock
+656021,Gianluca Grignani,Pop/Rock
+656420,Lola Flores,Latin
+656541,OneRepublic,Pop/Rock
+657041,Glenn Frey,Pop/Rock
+657062,Hercules & Love Affair,Electronic
+657329,CamarÃ³n de la Isla,Latin
+658346,Gil Scott-Heron,R&B;
+659118,Barry Gibb,Unknown
+659277,Franco Battiato,Unknown
+659299,Gary Allan,Country
+659517,Grand Funk Railroad,Pop/Rock
+660053,Grandaddy,Pop/Rock
+660155,Girl Talk,Electronic
+660244,Caviar,Pop/Rock
+660246,Grandpa Jones,Unknown
+660401,Gary Glitter,Pop/Rock
+660507,Giorgio Moroder,Pop/Rock
+661524,Donna Summer,R&B;
+661525,Front 242,Pop/Rock
+661974,Gigi Gryce,Jazz
+662149,Gary McFarland,Jazz
+662225,H2O,Pop/Rock
+662416,Vampire Weekend,Pop/Rock
+662545,Glenn Lewis,R&B;
+662642,Hal Ketchum,Country
+662797,Ginuwine,R&B;
+662800,Hank Snow,Country
+663255,The Dodos,Pop/Rock
+663424,D.J. Rogers,R&B;
+663455,Half Pint,Reggae
+663645,Bon Iver,Pop/Rock
+664194,Hank Ballard,R&B;
+664272,Keri Hilson,R&B;
+664346,Glassjaw,Pop/Rock
+664378,Glen Campbell,Country
+664457,Missy Higgins,Pop/Rock
+664618,DJ Nelson,Latin
+664770,Gorillaz,Pop/Rock
+664817,Gloria Estefan,Pop/Rock
+664849,Gloria Gaynor,R&B;
+664883,Gloria Lynne,R&B;
+665824,Mal Waldron,Jazz
+665860,Godsmack,Pop/Rock
+665908,Good Charlotte,Pop/Rock
+665944,Harold Land,Jazz
+665945,Godspeed You! Black Emperor,Pop/Rock
+665957,Harold Melvin & the Blue Notes,R&B;
+666073,Cascada,Electronic
+666244,The Knife,Pop/Rock
+666623,Teenage Bottlerocket,Pop/Rock
+666763,Hank Crawford,Jazz
+667020,Malcolm McLaren,Pop/Rock
+667169,Gladys Knight & the Pips,R&B;
+667556,Harvey Fuqua,R&B;
+667584,Damien Rice,Folk
+667622,Heatwave,R&B;
+667657,The Maine,Pop/Rock
+667669,Daft Punk,Electronic
+667738,Dan Hill,Pop/Rock
+667794,Gordon Lightfoot,Folk
+668127,Godhead,Pop/Rock
+668222,The Cribs,Pop/Rock
+668302,Dan Penn,Pop/Rock
+668448,James Cleveland,Religious
+668922,Heaven 17,Pop/Rock
+669015,Malvina Reynolds,Folk
+669057,Dan Tyminski,Country
+669194,Jack's Mannequin,Pop/Rock
+669303,Golden Earring,Pop/Rock
+669473,Harold Melvin,R&B;
+669511,Marco Antonio SolÃ­s,Latin
+670088,Dan Hicks & His Hot Licks,Pop/Rock
+670226,The Killers,Pop/Rock
+670273,Gogol Bordello,Pop/Rock
+670641,Harry "Sweets" Edison,Jazz
+670734,Goldfinger,Pop/Rock
+670997,Heatmiser,Unknown
+671156,Hazel Dickens,Folk
+671204,Within Temptation,Pop/Rock
+671244,Witchfinder General,Pop/Rock
+671452,The Felice Brothers,Pop/Rock
+671953,Heart,Pop/Rock
+672011,Hawkwind,Pop/Rock
+672269,Mandy Patinkin,Vocal
+672411,Golden Smog,Pop/Rock
+672498,Goldie,Electronic
+672835,Hella,Pop/Rock
+672910,Wire,Pop/Rock
+672918,HÃ©ctor Montemayor,Latin
+673082,Marcus Roberts,Jazz
+673114,Marcus Miller,Jazz
+673208,Manowar,Pop/Rock
+673360,Helen Forrest,Vocal
+673486,Marc Anthony,Latin
+673621,ManÃ¡,Latin
+673752,Lloyd,R&B;
+673883,Marc Dorsey,Pop/Rock
+673933,Mandy Moore,Pop/Rock
+674011,Manu Dibango,Jazz
+674150,Helen Reddy,Vocal
+674161,Manu Chao,Latin
+674163,Danny & the Juniors,R&B;
+674262,Mandrill,R&B;
+674263,Daniel Johnston,Pop/Rock
+674310,Herb Ellis,Jazz
+674332,Herb Alpert,Easy Listening
+674417,Dane Cook,Comedy/Spoken
+674600,Manfred Mann's Earth Band,Pop/Rock
+674662,Manfred Mann,Pop/Rock
+674749,The Manhattan Transfer,Vocal
+674873,Wishbone Ash,Pop/Rock
+674887,Daryl Hall & John Oates,Pop/Rock
+674937,Daryl Coley,Religious
+675351,Day26,R&B;
+675495,Mannheim Steamroller,New Age
+675500,Yael NaÃ¯m,Pop/Rock
+675710,Marc Cohn,Pop/Rock
+675728,Hezekiah Walker,Religious
+675976,Glenn Jones,Pop/Rock
+676313,Hi-Five,R&B;
+676818,Darryl Worley,Country
+677089,Daniel O'Donnell,Vocal
+677241,Lyfe Jennings,R&B;
+677352,Dar Williams,Folk
+677781,Wilson Pickett,R&B;
+677842,Hellhammer,Pop/Rock
+677991,John Scofield,Jazz
+678009,Henry Mancini,Easy Listening
+678098,Marc Broussard,Pop/Rock
+678339,XTC,Pop/Rock
+678408,Herbie Mann,Jazz
+678459,William Clarke,Blues
+678650,Winger,Pop/Rock
+678769,Darkthrone,Pop/Rock
+678852,Hilary Stagg,Unknown
+679219,Dave Alvin,Pop/Rock
+679749,Xavier Rudd,Pop/Rock
+679889,Daniela Romo,Unknown
+680003,Woody Shaw,Jazz
+680065,Jeff Wayne,Pop/Rock
+680374,Womack & Womack,R&B;
+680476,Hole,Pop/Rock
+680522,Yaz,Pop/Rock
+681154,Yeah Yeah Yeahs,Pop/Rock
+681171,Highway 101,Country
+681340,Yellowman,Reggae
+681718,Xiu Xiu,Pop/Rock
+681956,Xscape,R&B;
+683065,Wynn Stewart,Country
+683085,"Dave Dee, Dozy, Beaky, Mick & Tich",Pop/Rock
+683658,Yabby You,Reggae
+683686,Willie Nile,Pop/Rock
+683750,Yellow Magic Orchestra,Electronic
+683795,Yello,Electronic
+683921,Yami Bolo,Reggae
+684240,Wreckless Eric,Pop/Rock
+684253,Wynton Kelly,Jazz
+684612,Yellowjackets,Jazz
+684830,Willie Mitchell,R&B;
+684920,Dave Grusin,Jazz
+685031,Wilfrido Vargas,Latin
+685647,Yes,Pop/Rock
+685751,Yma Sumac,Easy Listening
+686359,Yellowcard,Pop/Rock
+686560,Wynonna,Country
+686577,Willie ColÃ³n,Latin
+686897,Linda Ronstadt,Pop/Rock
+687081,The Williams Brothers,Unknown
+687487,Yo La Tengo,Pop/Rock
+687561,Dave Matthews,Pop/Rock
+687933,Yanni,New Age
+688400,Willis Alan Ramsey,Pop/Rock
+688515,Dave Hollister,R&B;
+688804,Willie Bobo,Latin
+689367,Yngwie Malmsteen,Pop/Rock
+689836,Joel Rafael,Folk
+689965,Z.Z. Hill,Blues
+690254,ZZ Top,Pop/Rock
+690456,Youth of Today,Pop/Rock
+690718,Yolanda Adams,Religious
+691371,Avenged Sevenfold,Pop/Rock
+691616,Ryan Cabrera,Pop/Rock
+691807,Stephen Sondheim,Stage & Screen
+692100,Youssou N'Dour,International
+692251,The Youngbloods,Pop/Rock
+694273,Zakk Wylde,Pop/Rock
+694325,Gheorghe Zamfir,Easy Listening
+694411,Zap Pow,Reggae
+695019,Zakir Hussain,International
+695189,Yves Montand,Vocal
+695943,Zion & Lennox,Latin
+696015,Phoebe Snow,Pop/Rock
+696668,Zero 7,Electronic
+697350,Ziggy Marley,Reggae
+697391,ZhanÃ©,R&B;
+701790,Brandon Heath,Religious
+710448,Katie Herzig,Pop/Rock
+711954,The Black Angels,Pop/Rock
+716022,The Watson Twins,Unknown
+716469,Portugal. The Man,Pop/Rock
+717234,Ane Brun,Pop/Rock
+717419,Flying Lotus,Electronic
+720741,Hannah Montana,Pop/Rock
+720786,Pete Brown,Jazz
+721409,Gojira,Pop/Rock
+721416,Paris Hilton,Pop/Rock
+722133,Boys Like Girls,Pop/Rock
+722448,Born of Osiris,Pop/Rock
+723868,Newton Faulkner,Pop/Rock
+724598,Crystal Castles,Electronic
+724720,Donavon Frankenreiter,Pop/Rock
+725175,Volbeat,Pop/Rock
+726201,Motionless in White,Pop/Rock
+726942,As Blood Runs Black,Pop/Rock
+727318,We the Kings,Pop/Rock
+729857,Jordin Sparks,R&B;
+731975,Giuseppe di Stefano,Classical
+732652,Kellie Pickler,Country
+733717,Corinne Bailey Rae,R&B;
+736318,All Time Low,Pop/Rock
+737886,Enrique Iglesias,Latin
+737969,Gary Bartz,Jazz
+738182,Gary Burton,Jazz
+738674,Donna Fargo,Country
+738855,Grant Green,Jazz
+739041,Fountains of Wayne,Pop/Rock
+739713,The Antlers,Pop/Rock
+739975,Gravity Kills,Pop/Rock
+740569,Frida,Pop/Rock
+740576,Maria Callas,Classical
+740833,Grant Lee Buffalo,Pop/Rock
+741127,From First to Last,Pop/Rock
+741177,Entombed,Pop/Rock
+741236,Four Tet,Electronic
+741380,Donnie McClurkin,Religious
+741512,Enuff Z'nuff,Pop/Rock
+741525,Fourplay,Jazz
+741671,Palomo,Latin
+741692,Alexander Robotnick,R&B;
+741731,Alexandre Pires,Latin
+741746,Sepultura,Pop/Rock
+742166,Speedy West,Country
+742673,Ali Akbar Khan,International
+742899,Stan Getz,Jazz
+742980,Patra,Reggae
+743623,Spacehog,Pop/Rock
+743709,Alien Ant Farm,Pop/Rock
+743760,Alien Sex Fiend,Pop/Rock
+743929,Stan Kenton,Jazz
+743966,Tantric,Pop/Rock
+743968,Patrice Rushen,R&B;
+744075,Toumani DiabatÃ©,International
+744265,Tony Joe White,Pop/Rock
+744548,Spike Jones,Comedy/Spoken
+744736,Sharon Shannon,International
+744796,Townes Van Zandt,Folk
+744969,Alvin & the Chipmunks,Children's
+745071,Alison Krauss,Country
+745241,Status Quo,Pop/Rock
+745316,Stanley Clarke,Jazz
+745318,Pale Saints,Pop/Rock
+745568,Seven Mary Three,Pop/Rock
+745584,Steel Pulse,Reggae
+745617,Paul Bley,Jazz
+745915,Paul Anka,Pop/Rock
+745964,The Allman Brothers Band,Pop/Rock
+746010,Spirit,Pop/Rock
+746068,Steeleye Span,Folk
+746128,Steelheart,Pop/Rock
+746182,Translator,Pop/Rock
+746302,Train,Pop/Rock
+746387,Tracy Lawrence,Country
+746407,Sister Nancy,Reggae
+746409,Travis Barker,Pop/Rock
+746470,Tracey Ullman,Pop/Rock
+746666,Sister Sledge,R&B;
+746707,Allure,R&B;
+746731,Spiritualized,Pop/Rock
+746915,Paul Carrack,Pop/Rock
+747028,Trevor Jones,Stage & Screen
+747200,Troop,R&B;
+747243,Trouble,Pop/Rock
+747445,Patti Smith,Pop/Rock
+747506,Patti Page,Vocal
+747561,TÃ©lÃ©popmusik,Electronic
+747757,Split Enz,Pop/Rock
+747761,Paul Gilbert,Pop/Rock
+747984,Paul Chambers,Jazz
+748088,Bert Kaempfert,Easy Listening
+748222,Siouxsie and the Banshees,Pop/Rock
+748262,Shellac,Pop/Rock
+748421,Trey Anastasio,Pop/Rock
+748773,Amos Milburn,Blues
+748827,Slide Hampton,Jazz
+748904,Stereophonics,Pop/Rock
+748933,Slaid Cleaves,Folk
+749132,Paul Kelly,Pop/Rock
+749175,Skeeter Davis,Country
+749222,Paul Oakenfold,Electronic
+749272,Slim & Slam,Vocal
+749273,Paul Overstreet,Country
+749335,Anberlin,Pop/Rock
+749476,Trisha Yearwood,Country
+749504,StÃ©phane Grappelli,Jazz
+749571,Skillet,Religious
+749671,Ana Gabriel,Latin
+749734,Slade,Pop/Rock
+749743,Steps,Pop/Rock
+749970,Ted Nugent,Pop/Rock
+750131,Terri Clark,Country
+750146,Stephen Schwartz,Stage & Screen
+750203,Slim Gaillard,Vocal
+750456,Paul Revere & the Raiders,Pop/Rock
+750519,Terry Riley,Avant-Garde
+750742,Slipknot,Pop/Rock
+750895,Trivium,Pop/Rock
+750925,Shirley Ellis,R&B;
+750970,Skinny Puppy,Pop/Rock
+751019,The Animals,Pop/Rock
+751201,ThalÃ­a,Latin
+751256,Superdrag,Pop/Rock
+751592,Sly & Robbie,Reggae
+751604,Slint,Pop/Rock
+751613,Andrea Bocelli,Classical
+751623,Paul Stanley,Pop/Rock
+751738,Steve Cropper,R&B;
+751910,Testament,Pop/Rock
+752022,Supersuckers,Pop/Rock
+752094,Supreme Beings of Leisure,Pop/Rock
+752150,Andrew Dice Clay,Comedy/Spoken
+752303,Snapcase,Pop/Rock
+752314,Pavement,Pop/Rock
+752613,Shivaree,Pop/Rock
+752673,Steve Forbert,Pop/Rock
+752770,Peaches,Electronic
+752773,Shuggie Otis,R&B;
+752812,Smile Empty Soul,Pop/Rock
+752945,Paul van Dyk,Electronic
+753004,Steve Lacy,Jazz
+753056,Something Corporate,Pop/Rock
+753094,Son House,Blues
+753098,Sigue Sigue Sputnik,Pop/Rock
+753104,Andy Irvine,International
+753237,Suzy Bogguss,Country
+753254,Paul Williams,Pop/Rock
+753422,The Album Leaf,Pop/Rock
+753507,Soda Stereo,Latin
+753570,Snooks Eaglin,Blues
+753598,Snow,Reggae
+753617,The Adverts,Pop/Rock
+753685,Soft Machine,Pop/Rock
+753706,The All-American Rejects,Pop/Rock
+753742,Sia,Pop/Rock
+753833,Son Volt,Pop/Rock
+753852,The Astronauts,Unknown
+753868,Sigur RÃ³s,Pop/Rock
+753963,The Association,Pop/Rock
+753985,Steve Lawrence,Vocal
+754032,The Beatles,Pop/Rock
+754055,Sophie B. Hawkins,Pop/Rock
+754219,Anthony Newley,Vocal
+754251,Suzanne Vega,Pop/Rock
+754587,Steve Hackett,Pop/Rock
+754767,AndrÃ© Kostelanetz,Easy Listening
+754879,Angel Witch,Pop/Rock
+755030,Steve Harley & Cockney Rebel,Pop/Rock
+755152,The Avett Brothers,Pop/Rock
+755156,Sonic Youth,Pop/Rock
+755494,Silver Apples,Pop/Rock
+755496,Silver Jews,Pop/Rock
+755519,Soul Asylum,Pop/Rock
+755570,Angela Bofill,R&B;
+755745,Swingin' Utters,Pop/Rock
+755792,Angela Winbush,R&B;
+755918,The Black Keys,Pop/Rock
+756180,SinÃ©ad O'Connor,Pop/Rock
+756291,Sylvester,R&B;
+756518,The Bobbettes,R&B;
+756656,Bert Jansch,Folk
+756740,Swell Maps,Pop/Rock
+756754,Silversun Pickups,Pop/Rock
+756772,Angelic Upstarts,Pop/Rock
+756959,Steve Young,Country
+757070,Steve Perry,Pop/Rock
+757093,Syleena Johnson,R&B;
+757157,Simply Red,Pop/Rock
+757177,The Blasters,Pop/Rock
+757251,The Bluegrass Album Band,Country
+757335,John Adams,Classical
+757342,blink-182,Pop/Rock
+757665,The Lounge Lizards,Jazz
+758194,Beny MorÃ©,Latin
+758208,Beth Orton,Pop/Rock
+758402,Bloodhound Gang,Pop/Rock
+758444,Blur,Pop/Rock
+758453,Blues Traveler,Pop/Rock
+758520,Big Black,Pop/Rock
+758601,Blossom Dearie,Vocal
+758630,Better Than Ezra,Pop/Rock
+758661,Richard Adler,Stage & Screen
+758920,The Ethiopians,Reggae
+758943,Big Brother & the Holding Company,Pop/Rock
+758999,Boards of Canada,Electronic
+759031,Aztec Camera,Pop/Rock
+759187,Blaque,R&B;
+759224,Blaze Foley,Country
+759454,Big D and the Kids Table,Pop/Rock
+759491,The Exploited,Pop/Rock
+759668,Beres Hammond,Reggae
+759694,Bob Berg,Jazz
+759822,Bo Hansson,Unknown
+759998,Autechre,Electronic
+760154,Blind Faith,Pop/Rock
+760214,Dr. Dog,Pop/Rock
+760238,Great Lake Swimmers,Pop/Rock
+760240,Bernard Herrmann,Stage & Screen
+760389,Audio Adrenaline,Religious
+760417,The Firm,Pop/Rock
+760658,The Fall of Troy,Pop/Rock
+760977,The Five Stairsteps,R&B;
+761064,Blue Mitchell,Jazz
+761108,Avail,Pop/Rock
+761109,Blue Mountain,Pop/Rock
+761179,BeyoncÃ©,R&B;
+761341,Beverley Knight,R&B;
+761478,Laurindo Almeida,Jazz
+761706,The Fleetwoods,Pop/Rock
+762097,Blue October,Pop/Rock
+762177,The Feelies,Pop/Rock
+762288,Big Mama Thornton,Blues
+762496,Folk Implosion,Pop/Rock
+762500,Bikini Kill,Pop/Rock
+762618,Bob Eberly,Vocal
+762652,Big Youth,Reggae
+762663,The Cheetah Girls,Pop/Rock
+762724,The Chenille Sisters,Unknown
+762731,The Chi-Lites,R&B;
+762821,Big & Rich,Country
+762885,Avril Lavigne,Pop/Rock
+762921,The Charioteers,Religious
+762990,The Chantays,Pop/Rock
+763237,Big Audio Dynamite,Pop/Rock
+763301,The Fugs,Pop/Rock
+763341,Bill Justis,Pop/Rock
+763551,The Chordettes,R&B;
+763554,Bill Doggett,R&B;
+763601,The Gories,Pop/Rock
+763611,The Godz,Pop/Rock
+763670,Bill Charlap,Jazz
+763747,The Gourds,Pop/Rock
+763831,Bob Luman,Country
+764181,The Church,Pop/Rock
+764636,The Clark Sisters,Religious
+764702,Bill Evans,Jazz
+764890,Ian Tyson,Country
+765302,Badly Drawn Boy,Pop/Rock
+765435,Bobby Timmons,Jazz
+765494,Bobby Watson,Jazz
+765585,Baden Powell,Latin
+765595,Backstreet Boys,Pop/Rock
+765722,The Collins Kids,Pop/Rock
+765773,Jimmy McPartland,Jazz
+765900,Keith Emerson,Pop/Rock
+765997,Bobby ValentÃ­n,Latin
+766066,Bobby Vinton,Vocal
+766078,The Get Up Kids,Pop/Rock
+766094,Commodores,R&B;
+766354,The Connection,Pop/Rock
+766361,The Go-Betweens,Pop/Rock
+766385,The Go-Go's,Pop/Rock
+766444,The Horrors,Pop/Rock
+766533,Bolt Thrower,Pop/Rock
+766557,Baha Men,Pop/Rock
+766893,The Isley Brothers,R&B;
+767016,Keith Sweat,R&B;
+767068,Keith Richards,Pop/Rock
+767095,Bohannon,R&B;
+767129,The Heartbeats,R&B;
+767139,Bobby Konders,Unknown
+767370,Billy Dean,Country
+767404,Kenny Garrett,Jazz
+767558,All Shall Perish,Pop/Rock
+767741,Billy Cobham,Jazz
+767816,Billy Butterfield,Unknown
+768010,The Ides of March,Pop/Rock
+768027,Kenny Dorham,Jazz
+768149,Billy Taylor,Jazz
+768231,Ian Matthews,Pop/Rock
+768241,Kid Loco,Electronic
+768321,INXS,Pop/Rock
+768367,Bobby McFerrin,Vocal
+768455,Bonham,Pop/Rock
+768585,Billy Talent,Pop/Rock
+768737,Icehouse,Pop/Rock
+769109,Kid Koala,Electronic
+769388,Billy May,Jazz
+769444,BjÃ¶rk,Pop/Rock
+769486,Iced Earth,Pop/Rock
+769523,The Jesters,R&B;
+769616,Jimmy Rogers,Blues
+769638,Idina Menzel,Vocal
+769876,Little Jimmy Scott,Vocal
+770007,King Diamond,Pop/Rock
+770628,Billy Walker,Country
+770629,Illinois Jacquet,Jazz
+770853,The Kendalls,Country
+771010,The Left Banke,Pop/Rock
+771269,Bono,Pop/Rock
+771297,King Sunny Ade,International
+771388,Black Rebel Motorcycle Club,Pop/Rock
+771419,King's X,Pop/Rock
+771438,Black Sabbath,Pop/Rock
+771470,Boy George,Pop/Rock
+771792,Killswitch Engage,Pop/Rock
+771838,Immature,R&B;
+771905,Bowling for Soup,Pop/Rock
+772191,The Bonzo Dog Band,Pop/Rock
+772526,Irma Thomas,R&B;
+772567,Iron Butterfly,Pop/Rock
+772721,Incognito,R&B;
+772745,Incubus,Pop/Rock
+772976,Booker T. Jones,R&B;
+773063,Kim Waters,Jazz
+773147,Chavela Vargas,Unknown
+773383,Chilliwack,Unknown
+773392,China Crisis,Pop/Rock
+773407,Charlie Watts,Jazz
+773615,Klaus Badelt,Stage & Screen
+773642,The Kingsmen,Pop/Rock
+773666,The Wailin' Jennys,Pop/Rock
+774227,Nicole Scherzinger,Pop/Rock
+774588,Kris Kristofferson,Country
+774791,The Chocolate Watchband,Pop/Rock
+774909,Roy Rogers,Blues
+774956,Chris Kenner,R&B;
+774983,Krishna Das,New Age
+775212,Kronos Quartet,Classical
+775254,Infectious Grooves,Pop/Rock
+775323,Chris Isaak,Pop/Rock
+775377,Chris Lake,Unknown
+775406,Chris Cornell,Pop/Rock
+775446,Chris Lord-Alge,Pop/Rock
+775494,Cherish,R&B;
+775588,Cherry Poppin' Daddies,Pop/Rock
+775694,The Futureheads,Pop/Rock
+775850,Issac Delgado,Latin
+775877,Coldplay,Pop/Rock
+775904,Chris de Burgh,Pop/Rock
+776011,Kyuss,Pop/Rock
+776093,Kylie Minogue,Pop/Rock
+776301,Chico Hamilton,Jazz
+776371,Color Me Badd,R&B;
+776406,Koop,Electronic
+776408,Kula Shaker,Pop/Rock
+776562,Colin Blunstone,Pop/Rock
+776576,Israel Houghton,Religious
+776659,Israel Vibration,Reggae
+777009,Comeback Kid,Pop/Rock
+777054,Kurt Elling,Vocal
+777210,Kool & the Gang,R&B;
+777366,La Bouche,Electronic
+777466,J.K. & Co.,Pop/Rock
+778344,LaVern Baker,R&B;
+778363,Jack Jones,Vocal
+778526,Compound Red,Pop/Rock
+778568,J.D. Crowe & the New South,Country
+778655,Lacuna Coil,Pop/Rock
+778656,Cornelius Brothers & Sister Rose,R&B;
+778906,L.A. Guns,Pop/Rock
+778925,Hellogoodbye,Pop/Rock
+778959,La Ley,Latin
+778960,Battles,Pop/Rock
+779146,Chris Thile,Folk
+779209,La Lupe,Latin
+779599,Lara Fabian,Pop/Rock
+779670,Cradle of Filth,Pop/Rock
+780005,LCD Soundsystem,Pop/Rock
+780258,Christina Aguilera,Pop/Rock
+780451,Conway Twitty,Country
+780581,Lagwagon,Pop/Rock
+780616,Lard,Unknown
+780625,Cracker,Pop/Rock
+780948,Ladytron,Electronic
+780955,Aqualung,Pop/Rock
+781094,The Clancy Brothers,International
+781172,Jimmy Smith,Jazz
+781350,Lamb of God,Pop/Rock
+781370,Chumbawamba,Pop/Rock
+781399,Jackie Gleason,Easy Listening
+781423,Bill Evans Trio,Jazz
+781680,Jagjit Singh,International
+781732,Clannad,International
+781766,Cro-Mags,Pop/Rock
+781837,AntÃ´nio Carlos Jobim,Latin
+781932,Lalo Schifrin,Jazz
+782163,Jaheim,R&B;
+782191,Larry Heard,Electronic
+782297,Crumb,Pop/Rock
+782375,Clarence Clemons,Pop/Rock
+782631,Cousin Emmy,Folk
+782768,Creed,Pop/Rock
+783025,Jimmy Yancey,Blues
+783250,Gloria Jones,Pop/Rock
+783909,Antonio Aguilar,Latin
+784010,Gym Class Heroes,Pop/Rock
+784056,Leela James,R&B;
+784122,Cupid,R&B;
+784527,Barney Kessel,Jazz
+784535,The Donnas,Pop/Rock
+784597,Barney,Children's
+784732,Joe Jackson,Pop/Rock
+784760,The Cowsills,Pop/Rock
+784766,Clan of Xymox,Pop/Rock
+784811,Joanna Newsom,Pop/Rock
+784814,The Cranberries,Pop/Rock
+785101,Bananarama,Pop/Rock
+785283,JoÃ£o Gilberto,International
+785357,James McMurtry,Pop/Rock
+785380,Lee "Scratch" Perry,Reggae
+785500,James Morrison,Jazz
+785611,The Dave Clark Five,Pop/Rock
+785773,Laurie Anderson,Avant-Garde
+785817,The Crests,R&B;
+786080,James Moody,Jazz
+786126,James Newton Howard,Stage & Screen
+786228,Barry Harris,Jazz
+786245,Barry Adamson,Pop/Rock
+786360,D.R.I.,Pop/Rock
+786402,Cledus T. Judd,Unknown
+786613,Dead Kennedys,Pop/Rock
+787428,Evanescence,Pop/Rock
+787579,The Decemberists,Pop/Rock
+787696,Dicks,Pop/Rock
+787702,The Dillinger Escape Plan,Pop/Rock
+787757,The Dictators,Pop/Rock
+787940,LeVert,R&B;
+787960,Joe Diffie,Country
+788283,Lea Salonga,Unknown
+788347,Barcelona,Pop/Rock
+788508,Beenie Man,Reggae
+788568,The Dillards,Country
+788569,Barbara Mandrell,Country
+788582,El General,Latin
+788673,Fabrizio De AndrÃ©,Unknown
+788937,Evelyn "Champagne" King,R&B;
+789055,Explosions in the Sky,Pop/Rock
+789064,Extreme,Pop/Rock
+789065,Exuma,Unknown
+789340,Belly,Pop/Rock
+789514,El Gran Combo de Puerto Rico,Latin
+789560,Bembeya Jazz National,Unknown
+789721,Earl Thomas Conley,Country
+789754,Dirty Vegas,Electronic
+789775,Clifford Brown,Jazz
+790078,Fad Gadget,Pop/Rock
+790224,Tony Vega,Latin
+790227,Tal Farlow,Jazz
+790496,Bennie Maupin,Jazz
+790509,Alphaville,Pop/Rock
+790604,Taj Mahal,Blues
+790667,Tony! Toni! TonÃ©!,R&B;
+790732,Squeeze,Pop/Rock
+790797,Shakira,Latin
+790814,Talk Talk,Pop/Rock
+790820,Tool,Pop/Rock
+790833,Shalamar,R&B;
+790988,Toots & the Maytals,Reggae
+791120,The Roches,Folk
+791283,Passenger,Unknown
+791294,Benny Blanco,Unknown
+791308,Shai,R&B;
+791318,Tony Williams,Jazz
+791480,Exile,Country
+791483,Dwight Yoakam,Country
+791609,Benny Benassi,Electronic
+791734,Coal Chamber,Pop/Rock
+792018,East 17,Pop/Rock
+792051,Bebe Neuwirth,Comedy/Spoken
+792175,Fats Navarro,Jazz
+792190,Dyke & the Blazers,R&B;
+792348,E.U.,R&B;
+792370,Clint Black,Country
+792507,Frank Sinatra,Vocal
+792530,Tori Amos,Pop/Rock
+792583,Pat Martino,Jazz
+792733,Ben Harper,Pop/Rock
+792839,Shanice,R&B;
+792852,Stabbing Westward,Pop/Rock
+792925,Fear,Pop/Rock
+792953,Carl Perkins,Pop/Rock
+793022,Cock Sparrer,Pop/Rock
+793108,Keren Ann,Pop/Rock
+793225,Diplo,Electronic
+793227,Ben Webster,Jazz
+793425,Feeder,Pop/Rock
+793456,Electronic,Pop/Rock
+793664,El DeBarge,R&B;
+793821,Frankie Knuckles,Electronic
+793845,Falco,Pop/Rock
+793848,Faithless,Electronic
+793898,Cockney Rejects,Pop/Rock
+793913,FM,Pop/Rock
+793988,Eddie Cochran,Pop/Rock
+794161,CocoRosie,Pop/Rock
+794173,Frankie Miller,Pop/Rock
+794257,Fenix TX,Pop/Rock
+794306,EMF,Pop/Rock
+794401,Robert Francis,Pop/Rock
+794419,Doctor Ross,Blues
+794449,Frankie Valli,Pop/Rock
+794846,Eddie Rabbitt,Country
+795053,Fantasia,R&B;
+795054,El Tri,Latin
+795271,Eddie Gale,Jazz
+795288,Pierre Boulez,Classical
+795341,Felt,Pop/Rock
+795387,Eddie Shaw,Blues
+795841,Don Blackman,R&B;
+795905,Dolores Keane,International
+796045,Fishbone,Pop/Rock
+796166,Don Cherry,Jazz
+796281,Five for Fighting,Pop/Rock
+796439,Carlos Vives,Latin
+796710,Freda Payne,R&B;
+796734,Elton John,Pop/Rock
+796736,Elvin Bishop,Pop/Rock
+796741,Eddy Arnold,Country
+796872,Benjamin Britten,Unknown
+796914,Carman,Religious
+796950,Elizabeth Cotten,Folk
+796957,Fifty Foot Hose,Pop/Rock
+797056,Elis Regina,International
+797147,Edie Brickell & New Bohemians,Pop/Rock
+797205,Elizeth Cardoso,Latin
+797431,Elastica,Pop/Rock
+797470,Toshiko Akiyoshi,Jazz
+797670,Divine,Pop/Rock
+797881,Ella Mae Morse,Vocal
+798113,Elvis Costello & the Attractions,Pop/Rock
+798248,Garth Brooks,Country
+798326,Freddie Hubbard,Jazz
+798477,Freddie McGregor,Reggae
+798543,EdÃº Lobo,Latin
+798587,Finger Eleven,Pop/Rock
+798606,Fugazi,Pop/Rock
+798658,EmilÃ­ana Torrini,Pop/Rock
+798662,Ennio Morricone,Stage & Screen
+798751,Flesh for Lulu,Pop/Rock
+798792,Graham Central Station,R&B;
+798992,"Emerson, Lake & Palmer",Pop/Rock
+799053,Donovan,Pop/Rock
+799081,Full Force,R&B;
+799100,Great White,Pop/Rock
+799348,The Future Sound of London,Electronic
+799466,France Gall,Pop/Rock
+799644,Chad & Jeremy,Pop/Rock
+799771,Green River,Pop/Rock
+800100,Eric Dolphy,Jazz
+800332,Eric Donaldson,Reggae
+800426,Greg Brown,Folk
+800475,Eric BenÃ©t,R&B;
+800492,Dory Previn,Stage & Screen
+800695,Fun Lovin' Criminals,Pop/Rock
+800926,Emitt Rhodes,Pop/Rock
+801101,Gregg Allman,Unknown
+801573,Doris Troy,R&B;
+801615,Casino Versus Japan,Electronic
+801762,Floyd Cramer,Country
+802048,Gregory Hines,R&B;
+802264,Cassius Clay,Comedy/Spoken
+802302,Chaka Khan,R&B;
+802382,Casting Crowns,Religious
+802464,Freedy Johnston,Pop/Rock
+802745,Gene Harris,Jazz
+802791,Gene Kelly,Vocal
+803009,Cat Power,Pop/Rock
+803026,Government Issue,Pop/Rock
+803115,Catch 22,Pop/Rock
+803162,Grady Tate,Jazz
+803242,Lyn Collins,R&B;
+803469,Dream,Pop/Rock
+803513,The Dream Academy,Pop/Rock
+803533,Twila Paris,Religious
+803544,Dream Theater,Pop/Rock
+803720,Gene Vincent,Pop/Rock
+803752,Glenn Gould,Classical
+803757,Gene Watson,Country
+804289,Lynn Anderson,Country
+804338,Drop Nineteens,Pop/Rock
+804431,Dropkick Murphys,Pop/Rock
+804476,Charles Aznavour,Vocal
+804516,Doves,Pop/Rock
+804559,Joe Sample,Jazz
+804635,Grim Reaper,Pop/Rock
+804706,Gabby Pahinui,International
+805208,Joe Simon,R&B;
+805216,Russ Barenberg,Unknown
+805225,Vertical Horizon,Pop/Rock
+805332,The Charlatans,Pop/Rock
+805345,Down by Law,Pop/Rock
+805493,Luther Ingram,R&B;
+805661,Humble Pie,Pop/Rock
+805785,Joe Satriani,Pop/Rock
+805930,Charlie Christian,Jazz
+806168,Veruca Salt,Pop/Rock
+806247,Charlie Daniels,Country
+806336,Los Tigres del Norte,Latin
+806507,Tyrone Davis,R&B;
+806523,Luther "Guitar Junior" Johnson,Blues
+806542,Etta James,Blues
+806601,Charlie Hunter,Jazz
+806740,Turbonegro,Pop/Rock
+806822,Joey Dee,Pop/Rock
+806829,Jane's Addiction,Pop/Rock
+806877,Ruth Brown,R&B;
+806991,Vikki Carr,Vocal
+807026,Lyres,Pop/Rock
+807028,Duane Allman,Pop/Rock
+807068,Rita Lee,Latin
+807121,Lou Christie,Pop/Rock
+807181,Turtle Island String Quartet,Jazz
+807294,JÃ³hann JÃ³hannsson,Electronic
+807361,Tyrese,R&B;
+807428,VÃ­ctor Manuelle,Latin
+807489,Charlie Louvin,Country
+807869,Joe Nichols,Country
+807949,Underworld,Electronic
+808003,Jamie O'Neal,Country
+808155,Jamie Principle,Electronic
+808198,Lou Donaldson,Jazz
+808212,Charlie Sexton,Pop/Rock
+808214,Joe Walsh,Pop/Rock
+808304,Lou Gramm,Pop/Rock
+808336,Ryan Adams,Pop/Rock
+808388,Vince Neil,Pop/Rock
+808416,David Grant,Unknown
+808613,Russell Malone,Jazz
+808626,Joel Grey,Children's
+808944,Jawbreaker,Pop/Rock
+809058,Jay & the Americans,Pop/Rock
+809266,Ultravox,Pop/Rock
+809334,Jan Garbarek,Jazz
+809357,Jan Hammer,Jazz
+809396,David Grisman,Country
+809446,Visage,Pop/Rock
+809765,U.S. Bombs,Unknown
+809900,Jane Monheit,Vocal
+809999,UFO,Pop/Rock
+810166,Vonda Shepard,Pop/Rock
+810592,Machines of Loving Grace,Pop/Rock
+810912,John Cafferty & the Beaver Brown Band,Pop/Rock
+810996,VolovÃ¡n,Pop/Rock
+811178,Uncle Sam,R&B;
+811392,David Raksin,Unknown
+811395,MÃºm,Electronic
+811598,David Ruffin,R&B;
+811622,John Denver,Pop/Rock
+811897,John Michael Montgomery,Country
+812040,Jean Knight,R&B;
+812046,John Hiatt,Pop/Rock
+812101,MK,Electronic
+812239,Wade Bowen,Country
+812388,Kenny Wayne Shepherd,Pop/Rock
+812476,Jenny Lewis,Pop/Rock
+812480,John Stewart,Folk
+812711,Death Cab for Cutie,Pop/Rock
+812741,John Petrucci,Pop/Rock
+812802,Death in Vegas,Electronic
+812877,Deep Blue Something,Pop/Rock
+813092,John Jacob Niles,Folk
+813175,Macka B,Unknown
+813392,Dean Martin,Vocal
+813463,John Waite,Pop/Rock
+813485,Lee Wiley,Vocal
+813731,Debbie Gibson,Pop/Rock
+813910,Leftover Salmon,Pop/Rock
+813946,Deftones,Pop/Rock
+814036,Davy Graham,Folk
+814220,Debby Boone,Religious
+814312,The Millennium,Pop/Rock
+814340,Jeanne Moreau,Vocal
+814387,John Legend,R&B;
+814530,Deitrick Haddon,Religious
+814606,Wanda Jackson,Pop/Rock
+814751,John Prine,Pop/Rock
+814852,John Sebastian,Pop/Rock
+814871,Mad Season,Pop/Rock
+814898,Lee Dorsey,R&B;
+815039,John Lee Hooker,Blues
+815090,W.A.S.P.,Pop/Rock
+815236,Delbert McClinton,Blues
+815537,Del Amitri,Pop/Rock
+815575,Lena Horne,Vocal
+815837,Debra Laws,R&B;
+816267,Dawn Upshaw,Classical
+816387,Leon Russell,Pop/Rock
+816517,DeBarge,R&B;
+816701,Deniece Williams,R&B;
+816844,Hinder,Pop/Rock
+816890,Johnny Cash,Country
+816895,The Delta Rhythm Boys,Jazz
+816896,Johnnie Ray,Vocal
+816900,Warren Zevon,Pop/Rock
+817000,Johnny Ace,R&B;
+817011,Was (Not Was),Pop/Rock
+817369,Derek & the Dominos,Pop/Rock
+817754,Ween,Pop/Rock
+817911,Leo Dan,Unknown
+818254,Lenny Williams,R&B;
+818366,Leonard Rosenman,Stage & Screen
+818576,Deva Premal,New Age
+818593,The Deviants,Pop/Rock
+818627,Devin Townsend,Pop/Rock
+818702,Grizzly Bear,Pop/Rock
+819344,Desmond Dekker,Reggae
+819894,Johnny Otis,Blues
+819946,Leroy Hutson,R&B;
+819983,Johnny Winter,Blues
+820115,White Zombie,Pop/Rock
+820232,Dick Dale,Pop/Rock
+820434,Whitney Houston,R&B;
+820596,Johnny Tillotson,Pop/Rock
+820780,Whoopi Goldberg,Comedy/Spoken
+820999,The Wilburn Brothers,Country
+821252,Dick Curless,Country
+821544,Letters to Cleo,Unknown
+821571,Smokey Robinson,R&B;
+821590,Diana Ross & the Supremes,R&B;
+821675,Jon Bon Jovi,Pop/Rock
+822089,Jordan Knight,Pop/Rock
+822777,Liberace,Easy Listening
+822874,JosÃ© JosÃ©,Latin
+822910,Hoobastank,Pop/Rock
+822913,LiberaciÃ³n,Latin
+823012,Dillard & Clark,Country
+823165,Levon Helm,Pop/Rock
+823482,Hopeton Lewis,Reggae
+823762,Horace Brown,R&B;
+824022,Little Richard,Pop/Rock
+824219,Jonathan Winters,Comedy/Spoken
+824406,LFO,Pop/Rock
+824599,Little Walter,Blues
+824866,Marian McPartland,Jazz
+824879,Horace Parlan,Jazz
+824895,El Chicano,Pop/Rock
+825032,Hot Lips Page,Jazz
+825087,Living Colour,Pop/Rock
+825168,The Jones Girls,R&B;
+825208,Lightnin' Hopkins,Blues
+825209,Lightning Bolt,Pop/Rock
+825251,Marilyn Manson,Pop/Rock
+825387,Hothouse Flowers,Pop/Rock
+825793,Maria McKee,Pop/Rock
+825883,Dierks Bentley,Country
+825924,Marillion,Pop/Rock
+826364,Liz Story,New Age
+826660,Josey Wales,Reggae
+826936,Liam Lynch,Pop/Rock
+827224,Louie Ramirez,Latin
+827250,Lloyd Price,R&B;
+827367,Long John Baldry,Blues
+827760,Loose Ends,R&B;
+827859,Lo Fidelity Allstars,Electronic
+828349,Marisa Monte,Latin
+828507,Howard Roberts,Jazz
+828740,Lord Invader,Reggae
+828756,Lord Melody,International
+828768,Lord Kitchener,International
+829033,Huey Lewis,Pop/Rock
+829122,Huey Lewis & the News,Pop/Rock
+829125,Loleatta Holloway,R&B;
+829267,Loreena McKennitt,Folk
+829643,Hubert Sumlin,Blues
+829717,Loudness,Pop/Rock
+830028,Huey "Piano" Smith,R&B;
+830063,Robben Ford,Jazz
+830319,Hugh Masekela,Jazz
+830375,Lorraine Ellison,R&B;
+830425,Robert Cray,Blues
+830538,Robert Plant,Pop/Rock
+830890,Lori McKenna,Folk
+831215,Saint Etienne,Pop/Rock
+831236,Mark Knopfler,Pop/Rock
+831381,Robin Trower,Pop/Rock
+831448,Romeo Void,Pop/Rock
+831708,RocÃ­o DÃºrcal,Latin
+831733,Lindsay Lohan,Pop/Rock
+832341,Robert Goulet,Vocal
+832507,Rocket from the Crypt,Pop/Rock
+832833,Samantha Mumba,Pop/Rock
+833539,Mark Morrison,R&B;
+833610,Ron White,Comedy/Spoken
+833631,Los Bukis,Latin
+833782,Liquid Liquid,Pop/Rock
+834108,Sarah McLachlan,Pop/Rock
+834292,Saosin,Unknown
+834466,Roger McGuinn,Pop/Rock
+834673,Linda Jones,R&B;
+835085,Lisa Fischer,R&B;
+835506,Love Spit Love,Unknown
+835585,Loverboy,Pop/Rock
+835648,Uriah Heep,Pop/Rock
+835894,Lowell George,Pop/Rock
+836017,Scott Nygaard,Country
+836103,Pepe Aguilar,Latin
+836312,Junior Murvin,Reggae
+836313,Junior Reid,Reggae
+836376,Julieta Venegas,Latin
+836394,Scissor Sisters,Pop/Rock
+836737,Jumbo,International
+837150,Peggy Seeger,Folk
+837215,Lucinda Williams,Folk
+837311,Julia Fordham,Pop/Rock
+837328,Rokia TraorÃ©,International
+837486,Utopia,Pop/Rock
+837526,Save Ferris,Pop/Rock
+837592,June Christy,Vocal
+837886,Lit,Pop/Rock
+837946,Juice Newton,Country
+837985,Sawyer Brown,Country
+838195,Percy Sledge,R&B;
+838241,Van Dyke Parks,Pop/Rock
+838272,Pere Ubu,Pop/Rock
+838300,June Carter Cash,Country
+838327,Savage Garden,Pop/Rock
+838414,June Tabor,Folk
+838524,Savoy Brown,Pop/Rock
+838559,Pentangle,Folk
+838847,Vanessa-Mae,Pop/Rock
+838875,Scritti Politti,Pop/Rock
+838884,Vanessa Bell Armstrong,Religious
+839037,Little Caesar,Pop/Rock
+839369,Little Eva,R&B;
+839432,Vanessa Carlton,Pop/Rock
+840000,Vangelis,Electronic
+840102,Jefferson Airplane,Pop/Rock
+840215,Peter Murphy,Pop/Rock
+840289,Seaweed,Pop/Rock
+840348,Velvet Revolver,Pop/Rock
+840402,The Velvet Underground,Pop/Rock
+840523,Sebadoh,Pop/Rock
+840708,Vengaboys,Pop/Rock
+840812,SÃ©bastien Tellier,Pop/Rock
+841160,Jeffrey Gaines,Pop/Rock
+841870,Jennifer Paige,Pop/Rock
+841881,Michael Wycoff,R&B;
+841950,Verdine White,R&B;
+842269,Vern Gosdin,Country
+842351,Pete Townshend,Pop/Rock
+842379,Section 25,Pop/Rock
+842492,Peter Erskine,Jazz
+842611,Peter Green,Pop/Rock
+842624,De la Ghetto,Unknown
+842802,Peter Gabriel,Pop/Rock
+843106,Peter Sarstedt,Pop/Rock
+843259,The Budos Band,R&B;
+843607,Peter Hammill,Pop/Rock
+843995,Peter Bjorn and John,Pop/Rock
+844043,Pete Yorn,Pop/Rock
+844255,Peter White,Unknown
+844440,Phantom Planet,Pop/Rock
+845196,Norman Connors,Jazz
+845443,Philly Joe Jones,Jazz
+845468,Jerry Jeff Walker,Country
+845625,Ronnie Lane,Pop/Rock
+845662,Jill Scott,R&B;
+845668,Phil Manzanera,Pop/Rock
+845775,Ronnie James Dio,Pop/Rock
+845918,Clap Your Hands Say Yeah,Pop/Rock
+846092,Phosphorescent,Pop/Rock
+846634,Ne-Yo,R&B;
+846671,Mark-Almond,Pop/Rock
+847305,Los del Rio,Latin
+847374,Jesse McCartney,Pop/Rock
+847703,Jerry Ross,Pop/Rock
+847735,Marlene Dietrich,Vocal
+847756,Marlena Shaw,Vocal
+847880,Phil Keaggy,Religious
+847970,Piebald,Pop/Rock
+848034,Jim Croce,Pop/Rock
+848572,Phil Woods,Jazz
+848784,Roy Acuff,Country
+848913,Richard Hell,Pop/Rock
+848952,Richard "Groove" Holmes,Jazz
+849246,Jim Ford,Pop/Rock
+849405,Marques Houston,R&B;
+849672,Philip Glass,Classical
+850161,Jessie Hill,R&B;
+850692,Jethro Tull,Pop/Rock
+850693,Jets to Brazil,Pop/Rock
+851205,Richard Cheese,Pop/Rock
+851240,Pitchshifter,Pop/Rock
+851639,PlÃ¡cido Domingo,Classical
+852007,Roy Orbison,Pop/Rock
+852399,Jim Steinman,Unknown
+852405,Rotary Connection,R&B;
+852656,RuPaul,Pop/Rock
+852665,Poncho Sanchez,Jazz
+852688,Jimmy Eat World,Pop/Rock
+852718,Kaki King,Pop/Rock
+852810,Pop Will Eat Itself,Pop/Rock
+852842,Planxty,International
+852855,Roxy Music,Pop/Rock
+852970,Richard Elliot,Jazz
+852997,k.d. lang,Pop/Rock
+853254,Ruby,Electronic
+853492,Marshall Crenshaw,Pop/Rock
+853926,Popol Vuh,Electronic
+854203,Porcupine Tree,Pop/Rock
+854854,Rufus Wainwright,Pop/Rock
+854866,Kaskade,Electronic
+855034,Powderfinger,Pop/Rock
+855232,Powerman 5000,Pop/Rock
+855356,Kate Wolf,Folk
+855405,Kate & Anna McGarrigle,Folk
+855423,Kate Bush,Pop/Rock
+855531,Barbra Streisand,Vocal
+855619,Primitive Radio Gods,Pop/Rock
+855655,Los Reyes del Camino,Latin
+855773,Prince Jazzbo,Reggae
+855780,Najee,Jazz
+855836,The Promise Ring,Pop/Rock
+855952,Propagandhi,Pop/Rock
+856451,Naked Eyes,Pop/Rock
+857203,Kay Starr,Vocal
+857621,Keane,Pop/Rock
+857887,Pulse Ultra,Pop/Rock
+858006,Quarterflash,Pop/Rock
+858375,Mary Chapin Carpenter,Country
+858710,Marty Robbins,Country
+858788,Keel,Pop/Rock
+858827,Queen,Pop/Rock
+859026,Natalia Lafourcade,Latin
+859509,Quicksand,Pop/Rock
+859589,Katy Perry,Pop/Rock
+859868,Quiet Riot,Pop/Rock
+860080,Nada Surf,Pop/Rock
+860561,The Fray,Pop/Rock
+860985,Mary Mary,Religious
+860996,Corb Lund,Country
+861057,Rachael Yamagata,Pop/Rock
+861252,Carrie Underwood,Country
+861321,Nellee Hooper,Unknown
+861600,Nelson,Pop/Rock
+861687,Nelly Furtado,Pop/Rock
+861757,David Foster,Pop/Rock
+862343,Mat Kearney,Pop/Rock
+862583,Rachid Taha,Unknown
+862761,Brett Dennen,Pop/Rock
+862855,KT Tunstall,Pop/Rock
+862902,Mary Youngblood,New Age
+863102,Neutral Milk Hotel,Pop/Rock
+863733,Raheem DeVaughn,R&B;
+863774,Ralph McTell,Folk
+863790,Rage Against the Machine,Pop/Rock
+864209,Neil Diamond,Pop/Rock
+864257,Rahsaan Roland Kirk,Jazz
+865016,New Edition,R&B;
+865403,Bullet for My Valentine,Pop/Rock
+865440,RamÃ³n Ayala,Unknown
+866215,McFly,Pop/Rock
+866271,Nick Cave & the Bad Seeds,Pop/Rock
+866417,Maxi Priest,Reggae
+866491,Maxwell,R&B;
+866767,Randy VanWarmer,Pop/Rock
+866769,Mayday,International
+866786,New York Dolls,Pop/Rock
+866841,Nick Lowe,Pop/Rock
+867307,Augustana,Pop/Rock
+867862,Nickolas Ashford,Unknown
+867978,JosÃ© GonzÃ¡lez,Pop/Rock
+867980,Nicky Jam,Latin
+868063,RaulÃ­n RodrÃ­guez,Latin
+868086,Janelle MonÃ¡e,R&B;
+868092,McCoy Tyner,Jazz
+868174,Rascal Flatts,Country
+868306,Nico,Pop/Rock
+868456,Melba Montgomery,Country
+868616,Nickelback,Pop/Rock
+868628,Nightwish,Pop/Rock
+869364,Nicole,R&B;
+869409,Melba Moore,R&B;
+869417,Nightmares on Wax,Electronic
+869487,Ray Conniff,Easy Listening
+869708,Mel Lewis,Jazz
+870589,Ray Lynch,Unknown
+870646,Far East Movement,Pop/Rock
+870809,MercyMe,Religious
+873085,Men at Work,Pop/Rock
+873886,Raymond Scott,Jazz
+874289,Menudo,Latin
+879144,Deadmau5,Electronic
+882431,Metal Church,Pop/Rock
+882950,Red Garland,Jazz
+883069,Merril Bainbridge,Pop/Rock
+883318,Red Hot Chili Peppers,Pop/Rock
+883345,Red Mitchell,Jazz
+883619,Red Rider,Pop/Rock
+884251,O-Town,Pop/Rock
+884269,Red Lorry Yellow Lorry,Pop/Rock
+884449,O.A.R.,Pop/Rock
+884686,Norah Jones,Pop/Rock
+884962,Regina Belle,R&B;
+885138,Reef,Pop/Rock
+885216,Norma Jean,Unknown
+885298,ReneÃ© Olstead,Vocal
+885375,Refused,Pop/Rock
+885387,The O.C. Supertones,Pop/Rock
+885569,Michael BublÃ©,Vocal
+885875,Michael Martin Murphey,Country
+886261,Rev. Milton Brunson,Unknown
+886648,Republica,Pop/Rock
+886961,Relient K,Pop/Rock
+887235,Revis,Pop/Rock
+887348,The Oak Ridge Boys,Country
+887513,Michael Nyman,Stage & Screen
+887619,Renaissance,Pop/Rock
+887638,Michael Hedges,New Age
+887718,Michael Henderson,R&B;
+887719,Nusrat Fateh Ali Khan,International
+887806,Oleta Adams,Pop/Rock
+887990,Michael Giacchino,Stage & Screen
+888262,Ocean Colour Scene,Pop/Rock
+888394,O'Bryan,R&B;
+888484,Michelle Branch,Pop/Rock
+888730,Odetta,Folk
+888942,The Muppets,Children's
+889097,Ric Ocasek,Pop/Rock
+889276,Michal Urbaniak,Jazz
+889449,Mickey & Sylvia,R&B;
+890559,The Olivia Tremor Control,Pop/Rock
+890683,Mijares,Latin
+890724,The Originals,R&B;
+890799,The McCoys,Pop/Rock
+891032,The Mighty Mighty Bosstones,Pop/Rock
+891063,Misfits,Pop/Rock
+891264,The Outlaws,Pop/Rock
+891575,The Orb,Electronic
+891907,Orchestra Baobab,International
+891911,Midnight Star,R&B;
+892586,The Normal,Pop/Rock
+892771,The O'Jays,R&B;
+892775,Miguel BosÃ©,Latin
+892823,Mick Jagger,Pop/Rock
+893111,The Paragons,Reggae
+893383,The Muffs,Pop/Rock
+893719,The Penguins,R&B;
+894333,Os Paralamas do Sucesso,Unknown
+894335,The Platters,R&B;
+894465,The Rolling Stones,Pop/Rock
+894531,Otis Clay,R&B;
+894664,Oscar Brand,Folk
+894827,"Oscar Brown, Jr.",Vocal
+894831,Oscar D'LeÃ³n,Latin
+894847,The Pointer Sisters,R&B;
+894930,The Radio Dept.,Pop/Rock
+894956,Otis Rush,Blues
+894962,The Postal Service,Pop/Rock
+895074,The Romantics,Pop/Rock
+895136,Pixies,Pop/Rock
+895365,The Producers,Pop/Rock
+895443,The Human League,Pop/Rock
+896041,Mike Reid,Country
+896216,Band of Horses,Pop/Rock
+896309,Los Secretos,Latin
+896600,Otep,Pop/Rock
+896817,The Sapphires,Pop/Rock
+896965,Mikey Dread,Reggae
+897035,The Saw Doctors,Pop/Rock
+897214,The Rutles,Pop/Rock
+897322,The Remains,Pop/Rock
+897382,(hed) p.e.,Pop/Rock
+897783,The Silvertones,Reggae
+898188,Mint Condition,R&B;
+898275,Missing Persons,Pop/Rock
+898331,Mississippi Fred McDowell,Blues
+898336,Mississippi Sheiks,Blues
+898479,The Smithereens,Pop/Rock
+898828,The Searchers,Pop/Rock
+898946,Mitch Hedberg,Comedy/Spoken
+899198,The Smothers Brothers,Comedy/Spoken
+899223,The Slackers,Pop/Rock
+899530,The Smiths,Pop/Rock
+900349,The Soul Survivors,R&B;
+902138,20/20,Pop/Rock
+903009,Joe Cuba,Latin
+903609,Jim Reeves,Country
+907816,Foy Vance,Unknown
+907868,Alice Smith,R&B;
+911622,Todd Terje,Unknown
+911827,Bat for Lashes,Pop/Rock
+912566,Geoff Zanelli,Stage & Screen
+913130,Gnarls Barkley,R&B;
+913210,Hurt,Pop/Rock
+914671,Christian Finnegan,Comedy/Spoken
+915816,James Morrison,Pop/Rock
+915835,The Sword,Pop/Rock
+916783,Mayday Parade,Pop/Rock
+918111,The Knocks,Pop/Rock
+918140,Someone Still Loves You Boris Yeltsin,Pop/Rock
+918290,The Tubes,Pop/Rock
+918400,A Certain Ratio,Pop/Rock
+918569,The Streets,Electronic
+918600,The Style Council,Pop/Rock
+918682,The Surfaris,Unknown
+919239,4 Non Blondes,Pop/Rock
+919282,999,Pop/Rock
+919418,The Thermals,Pop/Rock
+919525,The Sugarcubes,Pop/Rock
+919598,A Guy Called Gerald,Electronic
+919603,Animal Collective,Pop/Rock
+919717,45 Grave,Pop/Rock
+919812,The Time,R&B;
+919846,54-40,Pop/Rock
+919853,The Tokens,Pop/Rock
+919928,The Techniques,Reggae
+920004,A Static Lullaby,Pop/Rock
+920073,The Undertones,Pop/Rock
+920101,The United States of America,Pop/Rock
+920117,The Uniques,Pop/Rock
+920165,The Tornados,Pop/Rock
+920939,The Undisputed Truth,R&B;
+920994,The Vandals,Pop/Rock
+921002,Ann Peebles,R&B;
+921024,The Veldt,Pop/Rock
+921289,Stuart Duncan,Country
+921306,808 State,Electronic
+921359,The Tremeloes,Pop/Rock
+921384,Mitch Miller & the Sing-Along Gang,Vocal
+921542,A.R. Kane,Pop/Rock
+921554,The Whites,Religious
+921598,Sugar,Pop/Rock
+921710,The White Stripes,Pop/Rock
+921888,Alborosie,Reggae
+921965,The Ventures,Pop/Rock
+922200,Violent Femmes,Pop/Rock
+922301,3 Inches of Blood,Pop/Rock
+922398,Sugababes,Pop/Rock
+922704,Escape the Fate,Pop/Rock
+922728,ABBA,Pop/Rock
+922811,Mitzi Gaynor,Vocal
+922911,Mojave 3,Pop/Rock
+923033,Styx,Pop/Rock
+923063,ATB,Electronic
+923208,The Von Bondies,Pop/Rock
+923323,3 Doors Down,Pop/Rock
+923332,MUTEMATH,Pop/Rock
+923384,Molly Hatchet,Pop/Rock
+923432,The Wailers,Reggae
+923497,Thomas Newman,Stage & Screen
+923618,The Standells,Pop/Rock
+923705,Mogwai,Pop/Rock
+923745,Aaron Carter,Pop/Rock
+923801,The Young Rascals,Pop/Rock
+924232,Sun Ra,Jazz
+924306,Thousand Foot Krutch,Pop/Rock
+924318,Monchy & Alexandra,Latin
+924508,The Waterboys,Pop/Rock
+924780,Anti-Flag,Pop/Rock
+925066,Montell Jordan,R&B;
+925181,Them,Pop/Rock
+925450,Three Dog Night,Pop/Rock
+925528,Throwing Muses,Pop/Rock
+925635,Sunshine Anderson,R&B;
+925636,Therapy?,Pop/Rock
+925837,Accept,Pop/Rock
+925852,Anvil,Pop/Rock
+926021,Monifah,R&B;
+926085,Thunder,Pop/Rock
+926108,Montgomery Gentry,Country
+926115,Acker Bilk,Jazz
+926237,Third Eye Blind,Pop/Rock
+926307,This Mortal Coil,Pop/Rock
+926428,Thomas Dolby,Pop/Rock
+926548,Iggy Pop,Pop/Rock
+926604,Throbbing Gristle,Pop/Rock
+927278,Adiemus,New Age
+927373,Adolescents,Pop/Rock
+927555,Aretha Franklin,R&B;
+927627,Mose Allison,Jazz
+927650,Tiffany,Pop/Rock
+927736,Arlo Guthrie,Folk
+927795,Tift Merritt,Country
+928160,Armand Van Helden,Electronic
+928351,Morbid Angel,Pop/Rock
+928942,Art Blakey,Jazz
+929659,Armor for Sleep,Pop/Rock
+929673,Moxy FrÃ¼vous,Pop/Rock
+929776,Arvo PÃ¤rt,Classical
+930204,The Art of Noise,Pop/Rock
+930642,Morris Day,R&B;
+930651,Tim Hecker,Electronic
+930722,Timi Yuro,Pop/Rock
+931015,Tom Cochrane,Pop/Rock
+931086,Astrud Gilberto,Latin
+931105,Agnostic Front,Pop/Rock
+931231,Tippa Irie,Reggae
+931567,Titus Turner,Pop/Rock
+931869,Alan Silvestri,Stage & Screen
+932299,Tito Rodriguez,Latin
+932328,Kaiser Chiefs,Pop/Rock
+932665,Alanis Morissette,Pop/Rock
+932858,Tom ZÃ©,International
+932922,Brass Construction,R&B;
+933172,Allen Toussaint,R&B;
+933458,Akon,R&B;
+933568,Tommy Bolin,Pop/Rock
+933621,Alannah Myles,Pop/Rock
+933633,Mungo Jerry,Pop/Rock
+933781,Albert Hammond,Unknown
+933809,Tom Verlaine,Pop/Rock
+933883,Al Stewart,Pop/Rock
+933898,Ashanti,R&B;
+933927,Brant Bjork,Pop/Rock
+934069,Brenda Lee,Country
+934243,Tom Robinson Band,Pop/Rock
+934305,Brad Mehldau,Jazz
+934350,Tom Scott,Jazz
+934367,Breaking Benjamin,Pop/Rock
+934721,Tom Paxton,Folk
+934801,Brian Kennedy,Pop/Rock
+935117,N'Dea Davenport,Jazz
+935330,Toni Braxton,R&B;
+935413,Musical Youth,Reggae
+935456,Alabama 3,Unknown
+935739,Musiq Soulchild,R&B;
+935990,Brewer & Shipley,Pop/Rock
+936009,Heather Headley,R&B;
+936095,Tonic,Pop/Rock
+936126,Tommy Edwards,R&B;
+936190,Stevie Nicks,Pop/Rock
+936195,The Bolshoi,Unknown
+936206,Alabama,Country
+936425,Todd Rundgren,Pop/Rock
+936521,Mychael Danna,Stage & Screen
+936658,Brigitte Fontaine,Pop/Rock
+936946,Tommy Makem,International
+937003,My Bloody Valentine,Pop/Rock
+937098,Stiff Little Fingers,Pop/Rock
+937150,Broadcast,Electronic
+937242,Toninho Horta,Jazz
+937397,Brooklyn Bridge,Pop/Rock
+937628,Stone Poneys,Unknown
+937703,The Brothers Four,Folk
+938337,Black Moth Super Rainbow,Pop/Rock
+938487,Mr. Vegas,Reggae
+938638,Buffalo Tom,Pop/Rock
+938798,A Day to Remember,Pop/Rock
+938878,Brownsville Station,Pop/Rock
+939033,Sunny Sweeney,Country
+939187,Buju Banton,Reggae
+939565,Bryan White,Country
+939567,Buffalo Springfield,Pop/Rock
+939871,Mandisa,Religious
+940246,Streetlight Manifesto,Pop/Rock
+940583,The Call,Pop/Rock
+940831,Captain & Tennille,Pop/Rock
+941579,Buck Owens,Country
+942252,Compay Segundo,Latin
+942335,Groove Armada,Electronic
+942498,Hunters & Collectors,Unknown
+942529,Buddy Guy,Blues
+942624,Caedmon's Call,Religious
+943268,Camel,Pop/Rock
+943649,Morton Feldman,Avant-Garde
+943827,Cake,Pop/Rock
+943936,Buddy Miles,Pop/Rock
+944084,George Strait,Country
+944105,Grupo ManÃ­a,Latin
+944206,"Grover Washington, Jr.",Jazz
+944293,Calexico,Pop/Rock
+944310,George Jones,Country
+944349,Cameo,R&B;
+944643,Georges Delerue,Stage & Screen
+944700,Leona Lewis,Pop/Rock
+944933,Captain Beyond,Pop/Rock
+945196,Gerry Rafferty,Pop/Rock
+945245,Guster,Pop/Rock
+945269,George Winston,New Age
+945687,George Lopez,Comedy/Spoken
+945711,Candy Dulfer,Jazz
+945900,George McCrae,Unknown
+945951,Calvin Harris,Electronic
+946137,Canned Heat,Pop/Rock
+946560,dc Talk,Religious
+946563,Ghost,Pop/Rock
+946940,Calvin Richardson,R&B;
+946966,DJ Cam,Unknown
+947322,The Canton Spirituals,Unknown
+947563,Gin Blossoms,Pop/Rock
+947576,Gina X Performance,Pop/Rock
+947752,Hank Williams III,Country
+947816,Hank Thompson,Country
+948061,Gino Vannelli,Pop/Rock
+948080,Giant,Pop/Rock
+948171,Hanoi Rocks,Pop/Rock
+948333,Haircut 100,Pop/Rock
+948557,DNA,Pop/Rock
+948625,Gomez,Pop/Rock
+949025,Giorgia,Pop/Rock
+949204,Girls,Pop/Rock
+949211,Girls at Our Best!,Pop/Rock
+949259,"Harry Connick, Jr.",Vocal
+949579,Goldrush,Pop/Rock
+949619,Gong,Pop/Rock
+949780,Hanson,Pop/Rock
+949820,DJ Shadow,Electronic
+949980,Giuffria,Pop/Rock
+950441,Go West,Pop/Rock
+950571,Harry James,Jazz
+950777,Hank Cochran,Country
+950805,Glass Tiger,Pop/Rock
+950956,Gorilla Biscuits,Pop/Rock
+951374,Damian Marley,Reggae
+951375,Damien Jurado,Pop/Rock
+951384,Hank Mobley,Jazz
+951443,Harold Faltermeyer,Unknown
+951589,Harvey Danger,Pop/Rock
+951825,Dan Bern,Pop/Rock
+952503,Mali Music,Pop/Rock
+952516,Harold Vick,Unknown
+952786,Goldfrapp,Pop/Rock
+952794,Harry Belafonte,Vocal
+952834,Mano Negra,Pop/Rock
+953102,Dan the Automator,Pop/Rock
+953552,Dance Hall Crashers,Pop/Rock
+953875,Danielle Dax,Pop/Rock
+954189,Danger Danger,Pop/Rock
+954322,Daniel Bedingfield,Pop/Rock
+954592,Man Man,Pop/Rock
+954646,Helen O'Connell,Vocal
+954694,Helen Ward,Vocal
+954817,Marcos Valle,Latin
+954964,Manic Street Preachers,Pop/Rock
+955009,Daniel Santos,Latin
+955544,Daniel Lanois,Pop/Rock
+955647,Mason Williams,Easy Listening
+955700,Marc Johnson,Jazz
+955773,Herb Alpert & the Tijuana Brass,Easy Listening
+955936,Henry Gross,Pop/Rock
+956088,Marah,Pop/Rock
+956093,Henry Lee Summer,Pop/Rock
+956268,Wilson Phillips,Pop/Rock
+956675,Darius Rucker,Country
+956707,Wings,Pop/Rock
+956973,Hilary Duff,Pop/Rock
+957085,Danzig,Pop/Rock
+957296,Herbie Hancock,Jazz
+957340,Helloween,Pop/Rock
+958076,Woody Herman,Jazz
+958087,Alter Bridge,Pop/Rock
+958117,Hiroshima,Jazz
+958444,Dave Barnes,Pop/Rock
+958533,Dave Brubeck,Jazz
+958768,World Party,Pop/Rock
+958839,Yazoo,Pop/Rock
+959490,Dave Dudley,Country
+959770,Willie Dixon,Blues
+959775,Victor Young,Vocal
+960674,Wynonie Harris,R&B;
+960690,X,Pop/Rock
+960874,Will Downing,R&B;
+961133,Dave Koz,Jazz
+961152,Yo-Yo,Pop/Rock
+961234,Dave Matthews Band,Pop/Rock
+961427,Hans Zimmer,Stage & Screen
+961688,Wynton Marsalis,Jazz
+962064,Junior Wells,Blues
+962339,Dave Mason,Pop/Rock
+963992,Zack de la Rocha,Pop/Rock
+964011,Zaiko Langa Langa,Unknown
+977198,Vanessa Hudgens,Pop/Rock
+977209,Dirty Pretty Things,Pop/Rock
+978359,The Veronicas,Pop/Rock
+983872,Tommy Trash,Electronic
+984877,Beirut,Pop/Rock
+985047,Rodrigo Amarante,Pop/Rock
+985076,The Wonder Years,Pop/Rock
+985124,DÃ¢m-Funk,R&B;
+986573,The Red Jumpsuit Apparatus,Pop/Rock
+986695,Teddybears,Pop/Rock
+987384,Brian Posehn,Unknown
+987481,Enrique GuzmÃ¡n,Latin
+987491,Gram Parsons,Pop/Rock
+987621,Foreigner,Pop/Rock
+987643,Freur,Pop/Rock
+987777,Donell Jones,R&B;
+987922,CeCe Winans,Religious
+988307,From Autumn to Ashes,Pop/Rock
+988386,Cecil Taylor,Jazz
+988440,Grateful Dead,Pop/Rock
+988448,Frou Frou,Pop/Rock
+988471,Enya,New Age
+988529,Fu Manchu,Pop/Rock
+988627,Fuel,Pop/Rock
+988638,Captain Beefheart,Pop/Rock
+988655,Donna the Buffalo,Pop/Rock
+989528,The White Tie Affair,Pop/Rock
+989540,Justin Nozuka,Pop/Rock
+990366,Fleet Foxes,Pop/Rock
+990368,Foals,Pop/Rock
+990384,Thee Oh Sees,Pop/Rock
+992260,Kodomo,Electronic
+992751,Little Dragon,Electronic
+992857,Duffy,Pop/Rock
+993302,Forever the Sickest Kids,Pop/Rock
+993494,Sharon Jones,R&B;
+994823,Lady Gaga,Pop/Rock
+996075,Lykke Li,Pop/Rock
+996096,Selena Gomez,Pop/Rock
+996127,Demi Lovato,Pop/Rock
+996141,The Ting Tings,Pop/Rock
+996795,The War on Drugs,Pop/Rock
+997568,Karina,R&B;
+997588,Rev Theory,Pop/Rock
+998969,Beach House,Pop/Rock
+999790,Bingo Players,Electronic
+1000177,Emarosa,Unknown
+1000302,3OH!3,Pop/Rock
+1000558,Black Kids,Pop/Rock
+1002017,Delta Spirit,Pop/Rock
+1002468,Hardwell,Unknown
+1002889,Crystal Shawanda,Country
+1003087,Noah and the Whale,Pop/Rock
+1003907,White Lies,Pop/Rock
+1006451,Friendly Fires,Pop/Rock
+1006765,Rodriguez,Pop/Rock
+1006782,Sonny Boy Williamson I,Blues
+1009342,Jake Owen,Country
+1011101,Passion Pit,Pop/Rock
+1011315,Bag Raiders,Electronic
+1011504,STRFKR,Pop/Rock
+1013037,El Guincho,Pop/Rock
+1013109,Hey Monday,Pop/Rock
+1013375,The Script,Pop/Rock
+1016154,Pete "El Conde" RodrÃ­guez,International
+1019495,Never Shout Never,Pop/Rock
+1019633,Matt Simons,Pop/Rock
+1028077,The-Dream,R&B;
+1028746,Colt Ford,Country
+1029659,LMFAO,Pop/Rock
+1032082,Bruno Mars,Pop/Rock
+1032216,Stacy Barthe,R&B;
+1032454,Jigsaw,Pop/Rock
+1033109,Robert Smith,Unknown
+1035160,Cash Cash,Electronic
+1036613,The Lonely Island,Comedy/Spoken
+1038956,Melanie Fiona,R&B;
+1039555,Wavves,Pop/Rock
+1041338,Shinyribs,Pop/Rock
+1043986,Death,Pop/Rock
+1050323,Ida Maria,Pop/Rock
+1055021,Bombay Bicycle Club,Pop/Rock
+1055285,112,R&B;
+1059293,Creed,Unknown
+1061166,Cage the Elephant,Pop/Rock
+1061368,Kristinia DeBarge,R&B;
+1061504,Frankie Miller,Country
+1062118,La Roux,Pop/Rock
+1072350,Mumford & Sons,Pop/Rock
+1072783,Matthew Halsall,Jazz
+1084430,Lukas Nelson,Pop/Rock
+1098849,Nils Frahm,Avant-Garde
+1168958,New Order,Unknown
+1176481,The Alan Parsons Project,Pop/Rock
+1177242,Frantz Casseus,Unknown
+1194716,Max Frost,Pop/Rock
+1211412,Raven,Pop/Rock
+1213943,The Blasters,Pop/Rock
+1232396,Laura Bell Bundy,Pop/Rock
+1233067,Danny Thompson,Pop/Rock
+1273359,Ideal,R&B;
+1276114,Donovan,Reggae
+1280807,Failure,Unknown
+1292549,The Uniques,Reggae
+1312035,Playero,Latin
+1340026,Tool,Electronic
+1352264,Louis and Bebe Barron,Classical
+1379627,Chris Young,Country
+1390230,Sheppard,Pop/Rock
+1391526,La Dispute,Pop/Rock
+1393036,Parkway Drive,Pop/Rock
+1393658,The Outsiders,Pop/Rock
+1405469,Passenger,Pop/Rock
+1409777,Slim,R&B;
+1416172,Jack Johnson,Religious
+1422105,Karnivool,Pop/Rock
+1426593,Oasis,Unknown
+1426748,Prince,International
+1431398,Will Ackerman,New Age
+1435165,Christopher Tin,Stage & Screen
+1449541,Jerrod Niemann,Country
+1451327,Cate Le Bon,Pop/Rock
+1453090,Daniel Tosh,Comedy/Spoken
+1456229,Josh Ward,Country
+1459978,Alphaville,Pop/Rock
+1465422,Optimo,Unknown
+1469476,The Haunted,Unknown
+1471849,Chino & Nacho,Latin
+1476233,Tribal Seeds,Reggae
+1482685,Madonna,International
+1502854,Santigold,Pop/Rock
+1506991,Sibylle Baier,Unknown
+1507678,The Middle East,Pop/Rock
+1518379,Hula,Electronic
+1528006,Olivier Messiaen,Classical
+1528100,Daya,Pop/Rock
+1535255,John Williams,Unknown
+1536402,Timmy Regisford,Electronic
+1545319,Jeremih,R&B;
+1563731,Trin-i-tee 5:7,Religious
+1573712,Nosaj Thing,Electronic
+1580437,Brett Young,Country
+1583976,Miike Snow,Pop/Rock
+1585751,She & Him,Pop/Rock
+1589051,Prince,R&B;
+1590871,Asking Alexandria,Pop/Rock
+1591840,Jesse Boykins III,R&B;
+1593570,Best Coast,Pop/Rock
+1596642,Ellie Goulding,Pop/Rock
+1598199,Oneohtrix Point Never,Electronic
+1599476,Easton Corbin,Country
+1606776,K.P. & Envyi,R&B;
+1608941,M/A/R/R/S,Electronic
+1619044,Daley,R&B;
+1620705,The Outsiders,Pop/Rock
+1629657,Kat Graham,Pop/Rock
+1630569,The Pretty Reckless,Pop/Rock
+1714462,Swedish House Mafia,Electronic
+1717415,Hudson Mohawke,Electronic
+1740826,Mike Posner,Pop/Rock
+1743501,Chromatics,Unknown
+1768491,William Basinski,Unknown
+1772438,Future Islands,Pop/Rock
+1777836,Bobby Brown,Pop/Rock
+1781875,Moe Bandy & Joe Stampley,Country
+1784311,Mulatu Astatke,International
+1795396,Teresa Teng,Unknown
+1811373,Space,Pop/Rock
+1814388,Andy Grammer,Pop/Rock
+1824831,Wisin & Yandel,Latin
+1836313,X Japan,Pop/Rock
+1839912,Ugly Casanova,Pop/Rock
+1878899,P!nk,Pop/Rock
+1902858,Zhu,Unknown
+1908947,X,Pop/Rock
+1913210,James Mason,Jazz
+1944458,Elevation Worship,Religious
+1950198,Bidu SayÃ£o,Classical
+1953486,Susanne SundfÃ¸r,Unknown
+1957634,The Cab,Pop/Rock
+1960811,Rationale,Pop/Rock
+1968188,Deer Tick,Pop/Rock
+1971972,The Dap-Kings Horns,R&B;
+1973181,William Michael Morgan,Country
+1984584,Teyana Taylor,R&B;
+1988927,Kurt Vile,Pop/Rock
+2003453,Josh Abbott Band,Country
+2006721,The Dead Weather,Pop/Rock
+2010336,One OK Rock,Pop/Rock
+2014409,Tame Impala,Pop/Rock
+2016362,Fever Ray,Electronic
+2031918,Local Natives,Pop/Rock
+2034242,Kevin Lyttle,R&B;
+2035658,Broken Bells,Pop/Rock
+2036252,Major Lazer,Electronic
+2040645,Imagine Dragons,Pop/Rock
+2043318,Kevin Morby,Pop/Rock
+2043528,Them Crooked Vultures,Pop/Rock
+2048033,Sleigh Bells,Pop/Rock
+2055729,The Summer Set,Pop/Rock
+2059306,Sir Charles Jones,R&B;
+2060288,"Defiance, Ohio",Pop/Rock
+2061191,The SteelDrivers,Country
+2061247,Michael Franti & Spearhead,Unknown
+2063135,Flosstradamus,Electronic
+2064609,The Temper Trap,Pop/Rock
+2080238,Laura Marling,Pop/Rock
+2085875,The Bloody Beetroots,Electronic
+2089077,Carly Rae Jepsen,Pop/Rock
+2105633,First Aid Kit,Unknown
+2110284,Wonder Girls,Unknown
+2113374,The Glitch Mob,Pop/Rock
+2114297,Travis Greene,Religious
+2115414,CHAPPO,Pop/Rock
+2118074,Rita Ora,Pop/Rock
+2120504,Rend Collective,Religious
+2124046,Florence + the Machine,Pop/Rock
+2128228,Phantogram,Pop/Rock
+2129441,Fun.,Pop/Rock
+2133637,Hot Chelle Rae,Pop/Rock
+2135629,The Civil Wars,Pop/Rock
+2136598,Washed Out,Pop/Rock
+2138857,Toro y Moi,Pop/Rock
+2139934,Two Door Cinema Club,Pop/Rock
+2141576,Sasha,Unknown
+2142078,Verse Simmonds,R&B;
+2142940,Boyce Avenue,Pop/Rock
+2165952,Justin Bieber,Pop/Rock
+2264745,Ariana Grande,Pop/Rock
+2284226,The Eagles,Unknown
+2285572,Manfred Mann,Pop/Rock
+2289986,Lincoln,Pop/Rock
+2290007,Grimes,Pop/Rock
+2312742,Stateless,Pop/Rock
+2336424,Curtis Grimes,Country
+2355957,Nicolas Jaar,Unknown
+2363198,Sky Ferreira,Pop/Rock
+2365018,Emeli SandÃ©,Unknown
+2365087,Skrillex,Electronic
+2366358,Terrace Martin,R&B;
+2367865,Romeo Santos,Latin
+2368302,Blitz,Pop/Rock
+2370408,Seasons After,Pop/Rock
+2372262,The Band Perry,Country
+2373828,Eric Bellinger,R&B;
+2376287,Of Mice & Men,Pop/Rock
+2377304,Eric Paslay,Country
+2385504,J Balvin,Latin
+2393563,K. Michelle,R&B;
+2393596,Avicii,Electronic
+2394289,Nick Jonas & the Administration,Pop/Rock
+2395521,Small Black,Pop/Rock
+2397707,Allstar Weekend,Pop/Rock
+2397780,Bridgit Mendler,Pop/Rock
+2397826,Neon Trees,Pop/Rock
+2397840,Sleeping with Sirens,Unknown
+2398414,Twenty One Pilots,Pop/Rock
+2401289,Charles Bradley,R&B;
+2406958,Tink,R&B;
+2412330,Nicky Romero,Electronic
+2424073,Thundercat,R&B;
+2424501,Baths,Electronic
+2435745,James Blake,Electronic
+2437431,JÃ³nsi,Pop/Rock
+2440425,Lianne La Havas,Pop/Rock
+2444397,The Boys,R&B;
+2450537,Lorn,Electronic
+2455573,Perfume Genius,Pop/Rock
+2468217,Logan Mize,Country
+2478029,Black Veil Brides,Pop/Rock
+2487188,Childish Gambino,Unknown
+2495841,The Head and the Heart,Pop/Rock
+2507287,The Wanted,Pop/Rock
+2508103,Christina Perri,Pop/Rock
+2509942,Sam Smith,Pop/Rock
+2515882,Nick Jonas,Pop/Rock
+2517403,BJ the Chicago Kid,R&B;
+2517606,Olly Murs,Pop/Rock
+2518003,Popcaan,Reggae
+2518402,Gigi Masin,Electronic
+2526137,Twin Shadow,Pop/Rock
+2527840,Foster the People,Pop/Rock
+2528416,Disclosure,Electronic
+2532578,Com Truise,Electronic
+2534053,Big Time Rush,Pop/Rock
+2540309,Mindless Behavior,R&B;
+2546653,Christian Rich,Unknown
+2564904,Canaan Smith,Country
+2570457,Miguel,R&B;
+2571020,Jonathan McReynolds,Religious
+2571333,Lord Huron,Pop/Rock
+2575506,Jamie Lawson,Pop/Rock
+2577357,Jessie Ware,Pop/Rock
+2577980,Young the Giant,Pop/Rock
+2580989,Alesso,Unknown
+2592086,Frank Ocean,R&B;
+2593754,Kimbra,Pop/Rock
+2595668,Jessie J,Pop/Rock
+2596970,Jeremy Soule,Stage & Screen
+2598627,Skylar Grey,Pop/Rock
+2619843,Kevin Garrett,R&B;
+2620029,Absofacto,Pop/Rock
+2639628,Ed Sheeran,Pop/Rock
+2640328,Feed Me,Electronic
+2641312,Cher Lloyd,Pop/Rock
+2649123,Mndsgn,Electronic
+2659130,Ty Dolla $ign,R&B;
+2660270,King,R&B;
+2674162,The Weeknd,R&B;
+2674420,Sam Hunt,Country
+2681783,Periphery,Pop/Rock
+2684665,Tedeschi Trucks Band,Pop/Rock
+2690165,Tyler Farr,Country
+2693354,2NE1,Unknown
+2701931,Jana Kramer,Country
+2702854,Scotty McCreery,Country
+2717459,Tori Kelly,Pop/Rock
+2729330,Pham,Electronic
+2732005,Zendaya,Pop/Rock
+2739175,JhenÃ© Aiko,R&B;
+2742344,The Districts,Pop/Rock
+2744416,Pistol Annies,Country
+2754189,A Winged Victory for the Sullen,Pop/Rock
+2759830,Michael Kiwanuka,Pop/Rock
+2766592,One Direction,Pop/Rock
+2775792,Tory Lanez,R&B;
+2782403,Zedd,Electronic
+2784799,Lana Del Rey,Pop/Rock
+2786685,Matthew Koma,Pop/Rock
+2795282,Cole Swindell,Country
+2795896,Elle Varner,R&B;
+2800003,Kishi Bashi,Pop/Rock
+2802154,Alabama Shakes,Pop/Rock
+2802487,3LAU,Electronic
+2806733,Allen Stone,R&B;
+2811293,Meghan Trainor,Pop/Rock
+2814183,King Krule,Pop/Rock
+2823663,Robert Glasper Experiment,R&B;
+2824778,Natural Child,Pop/Rock
+2825107,The Internet,R&B;
+2825814,Bastille,Pop/Rock
+2831504,Electric Guest,Pop/Rock
+2841398,Little Mix,Pop/Rock
+2854537,Harry Styles,Pop/Rock
+2854547,Niall Horan,Pop/Rock
+2855520,Wild Party,Pop/Rock
+2867436,Alt-J,Pop/Rock
+2869578,WZRD,Pop/Rock
+2872922,Mac DeMarco,Pop/Rock
+2873356,The Lumineers,Pop/Rock
+2877943,Father John Misty,Pop/Rock
+2877945,Romare,Electronic
+2895189,The Piano Guys,Easy Listening
+2896351,Tommy Lee,Reggae
+2899881,Destructo,Electronic
+2921660,Jetta,Pop/Rock
+2923522,Dan Croll,Pop/Rock
+2939023,Cherub,Pop/Rock
+2940524,Atlas Genius,Pop/Rock
+2942900,Florida Georgia Line,Country
+2948162,Dallas Smith,Country
+2960510,A*Teens,Electronic
+2984484,Glass Animals,Unknown
+2986022,The 1975,Pop/Rock
+2991317,Northlane,Pop/Rock
+2992951,Bebe Rexha,Unknown
+2993710,Don Covay,R&B;
+2995915,R5,Pop/Rock
+2995948,Flume,Pop/Rock
+2996996,John Newman,R&B;
+2999777,Becky G,Pop/Rock
+3006966,Jon Bellion,Pop/Rock
+3007613,Crown the Empire,Pop/Rock
+3018423,Foxes,Pop/Rock
+3020237,Baauer,Electronic
+3043787,Jonn Hart,R&B;
+3044549,Timeflies,Electronic
+3045620,Hiatus Kaiyote,R&B;
+3052730,A*M*E,Pop/Rock
+3052733,Sevyn Streeter,R&B;
+3061665,Niagara,Pop/Rock
+3064351,Echosmith,Pop/Rock
+3065088,August Alsina,R&B;
+3065843,Lukas Graham,Pop/Rock
+3067310,Upchurch,Country
+3068662,Cashmere Cat,Electronic
+3077599,TGT,R&B;
+3085111,Lorde,Pop/Rock
+3088724,Vision,Pop/Rock
+3099573,Gawvi,Religious
+3101434,A Great Big World,Pop/Rock
+3102954,Moose Blood,Pop/Rock
+3103730,Kat Dahlia,Pop/Rock
+3105903,Zara Larsson,Electronic
+3115003,The Cadillac Three,Country
+3117973,Real Friends,Pop/Rock
+3120458,Adrian Marcel,R&B;
+3125793,Nick Hakim,R&B;
+3139368,Chastity Belt,Pop/Rock
+3144637,Hozier,Pop/Rock
+3145435,Mary Lambert,Pop/Rock
+3145706,Fifth Harmony,Pop/Rock
+3145761,FKA twigs,Pop/Rock
+3145947,Together PANGEA,Pop/Rock
+3153419,The Interrupters,Pop/Rock
+3158075,Vance Joy,Pop/Rock
+3161008,The Neptunes,R&B;
+3171799,Twin Forks,Pop/Rock
+3172484,George Ezra,Pop/Rock
+3178543,Justine Skye,R&B;
+3178979,SoMo,Pop/Rock
+3180014,Daniel Caesar,R&B;
+3185359,5 Seconds of Summer,Pop/Rock
+3188027,Neck Deep,Pop/Rock
+3190264,State Champs,Pop/Rock
+3200278,Phoebe Ryan,Pop/Rock
+3200736,Andra Day,R&B;
+3206669,Meg Myers,Pop/Rock
+3206766,MisterWives,Pop/Rock
+3210853,Starset,Pop/Rock
+3211361,Magic!,Pop/Rock
+3214680,Boyzone,Avant-Garde
+3216219,Big Data,Pop/Rock
+3224219,Moti,Electronic
+3226468,Kehlani,R&B;
+3227782,TeeFLii,R&B;
+3228134,Nico & Vinz,Unknown
+3236942,Tinashe,R&B;
+3237096,Mickey Guyton,Country
+3239681,Bando Jonez,R&B;
+3242655,VEDO,R&B;
+3256615,Jessie James Decker,Country
+3268224,Anthony Lewis,R&B;
+3271457,Troye Sivan,Electronic
+3272048,Little May,Pop/Rock
+3276902,Shawn Mendes,Pop/Rock
+3278115,Francesco Yates,Pop/Rock
+3281115,Have Mercy,Unknown
+3288126,Chase Bryant,Country
+3306945,Kaytranada,Electronic
+3308665,Karen Harding,Electronic
+3313123,Raury,Pop/Rock
+3314964,Kygo,Electronic
+3315236,Jackie Lee,Country
+3316228,PVRIS,Pop/Rock
+3319054,Jordan Rakei,R&B;
+3323342,BÃ˜RNS,Pop/Rock
+3329291,Jack Garratt,Pop/Rock
+3337670,The Marcus King Band,Pop/Rock
+3345212,Charlie Puth,Pop/Rock
+3347207,Luke Kaufman,Country
+3359519,Natalie La Rose,R&B;
+3361526,LANY,Pop/Rock
+3366296,The Oh Hellos,Pop/Rock
+3370668,Fleurie,Pop/Rock
+3376900,Jordan Fisher,Pop/Rock
+3379291,HONNE,Pop/Rock
+3380137,Leon Bridges,R&B;
+3381566,Sarah Ross,Country
+3383741,Bibi Bourelly,Pop/Rock
+3391646,Cheat Codes,Electronic
+3391937,Rainbow Kitten Surprise,Pop/Rock
+3392996,Camila Cabello,Pop/Rock
+3393991,Kaleo,Pop/Rock
+3397785,Jon Langston,Country
+3406269,Izzy Bizu,R&B;
+3407597,Astrid S,Pop/Rock
+3408531,Red Sun Rising,Pop/Rock
+3410250,Rotimi,R&B;
+3411865,That Poppy,Pop/Rock
+3413218,Petit Biscuit,Electronic
+3413511,Gallant,R&B;
+3415304,Bryson Tiller,R&B;
+3416601,Jamila Woods,R&B;
+3416819,Roy Woods,R&B;
+3420473,Steve Lacy,R&B;
+3426731,Dua Lipa,Pop/Rock
+3427505,Car Seat Headrest,Pop/Rock
+3435164,Kadhja Bonet,Pop/Rock
+3441660,Chicano Batman,Pop/Rock
+3445208,With Confidence,Pop/Rock
+3446629,Kali Uchis,Pop/Rock
+3449693,Big Thief,Pop/Rock
+3451786,James TW,Pop/Rock
+3455720,Chris Lane,Country
+3455945,Jillian Jacqueline,Country
+3460695,Cloves,Pop/Rock
+3462371,Luke Combs,Country
+3462822,gnash,Pop/Rock
+3462983,Levitation Room,Pop/Rock
+3469567,Declan McKenna,Pop/Rock
+3474187,Crywank,Pop/Rock
+3474579,Sports,Pop/Rock
+3475903,Billie Eilish,Pop/Rock
+3477547,ZAYN,Pop/Rock
+3480388,CNCO,Latin
+3486253,LANCO,Country
+3495279,Andy Black,Pop/Rock
+3506278,Ella Mai,R&B;
+3511314,Noname,R&B;
+3513172,Buddy Brown,Country
+3523590,EDEN,Electronic
+3535210,24hrs,R&B;
+3539434,Colter Wall,Country
+3559122,Xavier OmÃ¤r,R&B;
+3567510,Midland,Country
+3606027,Brent Faiyaz,R&B;
+3632715,Jeremy Zucker,Pop/Rock
+3637248,Yungblud,Pop/Rock
+3639618,Jaira Burns,Pop/Rock
+3659356,Elohim,Pop/Rock
+3661296,Mika,Electronic
+3661738,Rosemary & Garlic,Pop/Rock
+3670556,Trinidad Cardona,R&B;
