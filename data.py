@@ -1,6 +1,7 @@
 import csv
 import os
 from pathlib import Path
+from functools import lru_cache
 
 BASE_DIR = Path(__file__).resolve().parent
 
@@ -53,3 +54,24 @@ music_desc_keys = (
     "song_title",
     "count",
 )
+
+artist_data_by_id = {
+    d["artist_id"]: d
+    for d in data_by_artist
+}
+
+artist_feature_data_by_id = {
+    d["artist_id"]: {
+        k: d[k]
+        for k in music_feature_keys
+    }
+    for d in data_by_artist
+}
+
+artist_feature_values_by_id = {
+    d["artist_id"]: [
+        float(d[k])
+        for k in music_feature_keys
+    ]
+    for d in data_by_artist
+}
