@@ -1,7 +1,8 @@
 # 分风格计算各年度的popularity
-import json
-from data import full_music_data, artist_data_by_id
 import csv
+import json
+
+from data import full_music_data, artist_data_by_id, flat_music_data
 
 
 def run():
@@ -40,6 +41,62 @@ def run():
             for y in avg_popularity_by_genre_and_year[genre]:
                 tmp[y] = avg_popularity_by_genre_and_year[genre][y]
             w.writerow(tmp)
+
+    obviously_popularity_increase_rate_by_genre = {}
+    for genre in avg_popularity_by_genre_and_year:
+        increase_rate_by_year = []
+        for i in range(len(years) - 1):
+            prev = avg_popularity_by_genre_and_year[genre].get(years[i])
+            next_ = avg_popularity_by_genre_and_year[genre].get(years[i + 1])
+            if not prev or not next_:
+                rate = 0
+            else:
+                rate = round((float(next_) - float(prev)) * 100 / float(prev), 2)
+            if rate > 100:  # 增幅达50%认为是变革式的流行
+                increase_rate_by_year.append((years[i + 1], rate))
+        obviously_popularity_increase_rate_by_genre[genre] = increase_rate_by_year
+
+    with open("../process_data/q5/obviously_popularity_increase_rate_by_genre.csv", 'w') as f:
+        w = csv.DictWriter(f, ["genre", *years])
+        w.writeheader()
+        for genre in obviously_popularity_increase_rate_by_genre:
+            tmp = {"genre": genre}
+            for year, rate in obviously_popularity_increase_rate_by_genre[genre]:
+                tmp[year] = str(rate)
+            w.writerow(tmp)
+
+    # 在实现了变革式流行的年份发布了歌曲的歌手
+    greatest_artist_with_genre_and_years = []
+    for genre in obviously_popularity_increase_rate_by_genre:
+        tmp = {
+            "genre": genre
+        }
+        for year, _ in obviously_popularity_increase_rate_by_genre[genre]:
+            tmp[year] = greater_artist_by_genre_and_year(genre, year)
+        greatest_artist_with_genre_and_years.append(tmp)
+    with open("../process_data/q5/greatest_artist_with_genre_and_years.csv", 'w') as f:
+        w = csv.DictWriter(f, ["genre", *years])
+        w.writeheader()
+        w.writerows(greatest_artist_with_genre_and_years)
+
+    return
+
+
+def artists_with_avg_popularity_by_genre_and_year(genre, year):
+    popularities_by_artist = {}
+    for m in filter(lambda x: x["genre"] == genre and x["year"] == year, flat_music_data):
+        popularities_by_artist.setdefault(m["artist_id"], []).append(float(m["popularity"]))
+    return [(artist_data_by_id[k]["artist_name"], round(avg(v), 2)) for k, v in popularities_by_artist.items()]
+
+
+def greater_artist_by_genre_and_year(genre, year):
+    artists_with_pop = artists_with_avg_popularity_by_genre_and_year(genre, year)
+    artists_with_pop.sort(key=lambda x: -x[1])
+    return artists_with_pop[0][0]
+
+
+def avg(iter):
+    return sum(iter) / len(iter)
 
 
 if __name__ == "__main__":

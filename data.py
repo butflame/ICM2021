@@ -1,7 +1,7 @@
 import csv
+import json
 import os
 from pathlib import Path
-from functools import lru_cache
 
 BASE_DIR = Path(__file__).resolve().parent
 
@@ -75,3 +75,21 @@ artist_feature_values_by_id = {
     ]
     for d in data_by_artist
 }
+
+
+def _flat_music_data():
+    ret = []
+    for d in full_music_data:
+        tmp = d.copy()
+        artists_id = json.loads(tmp.pop("artists_id"))
+        for aid in artists_id:
+            ret.append({
+                **tmp,
+                "artist_id": str(aid),
+                # "artist_name": aname,
+                "genre": artist_data_by_id[str(aid)]["main_genre"]
+            })
+    return ret
+
+
+flat_music_data = _flat_music_data()
